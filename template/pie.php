@@ -1,0 +1,6 @@
+<?php
+
+/* 
+ * Pie de página
+ */
+
