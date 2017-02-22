@@ -1,11 +1,13 @@
 <div id="header-wrapper" class="wrapper">
                                     <div id="line"></div>
+                                    <div  id="logoPrincipal"><img src="imagenes/principales/logo.png"></div>
+                                    <div id='fechaPrincipal'><?PHP setlocale(LC_ALL,"es_ES");
+                                            echo strftime("%A %d de %B de %Y");
+                                            ?></div>
 					<div id="header">
-	
-
 						<!-- Nav -->
-							<nav id="nav">
-								<ul>
+							<nav id="nav" class="container">
+                                                            <ul  class="container">
 									<li class="current"><a href="index.html">Home</a></li>
 									<li>
 										<a href="#">Dropdown</a>
