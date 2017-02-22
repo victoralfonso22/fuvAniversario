@@ -6,7 +6,7 @@
 								<!-- Contact -->                                                                        
 									<section>                                                                                
                                                                             <table>
-                                                                                <thead><h3>Contáctanos</h3><p>Te canalizaremos al área que corresponda</p></thead>
+                                                                                <thead><td><h3>Contáctanos</h3><p>Te canalizaremos al área que corresponda</p></td></thead>
                                                                                 <tr>
                                                                                     <td><p><img src="./assets/css/images/icon-mail.png">&nbsp; contacto@fundacionuv.org.mx</p></td>
                                                                                 </tr>
