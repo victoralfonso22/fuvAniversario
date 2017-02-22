@@ -1618,7 +1618,7 @@
 		}
 
 	#footer-wrapper {
-		background: #282b34 url("images/overlay.png");
+		background: url("images/back-azul.png");
 		color: #eee;
 		color: rgba(255, 255, 255, 0.5);
 	}
