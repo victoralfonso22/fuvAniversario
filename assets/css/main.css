@@ -1077,9 +1077,9 @@
 	}
 
 	body, input, textarea, select {
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: Open Sans Light;
 		font-weight: 400;
-		color: #919499;
+		color: #28AD56;
 	}
 
 	body.is-loading * {
@@ -1094,8 +1094,10 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-weight: 700;
-		color: #484d55;
+		/*font-weight: 700;*/
+		color: #345399;
+                font-family: Open Sans Light;
+                text-align: center;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1198,7 +1200,8 @@
 	form label {
 		display: block;
 		font-weight: 700;
-		color: #484d55;
+		color: #345399;
+                font-family: Open Sans Light;               
 	}
 
 	form input[type="text"],
@@ -1213,25 +1216,27 @@
 		-webkit-appearance: none;
 		display: block;
 		border: 0;
-		background: #eee;
+		background: transparent;
 		box-shadow: inset 0px 0px 1px 0px #a0a1a7;
 		border-radius: 0.35em;
 		width: 100%;
 		padding: 0.75em 1em 0.75em 1em;
-	}
+                font-family: Open Sans Light;
+                text-align: center;                
+        }
 
 		form input[type="text"]:focus,
 		form input[type="email"]:focus,
 		form input[type="password"]:focus,
 		form select:focus,
 		form textarea:focus {
-			background: #f8f8f8;
+			background: #fff;
 		}
 
 	form input[type="text"],
 	form input[type="email"]
 	input[type="password"] {
-		line-height: 1em;
+		line-height: 1.7em;
 	}
 
 	form select {
@@ -1347,7 +1352,8 @@
 		-ms-transition: all .25s ease-in-out;
 		transition: all .25s ease-in-out;
 		display: inline-block;
-		background: #444;
+		background: #28AD56;
+                color: #fff;
 		text-align: center;
 		text-transform: uppercase;
 		font-weight: 700;
@@ -1364,7 +1370,7 @@
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #f98780;
+			background-color: #223C62;
 		}
 
 		input[type="button"].style1,
@@ -1613,12 +1619,11 @@
 			top: 0;
 			left: 0;
 			width: 100%;
-			height: 100%;
-			background: url("images/overlay.png");
+			height: 100%;			
 		}
 
 	#footer-wrapper {
-		background: url("images/back-azul.png");
+		background: #282b34 url("images/overlay.png");
 		color: #eee;
 		color: rgba(255, 255, 255, 0.5);
 	}
@@ -1977,7 +1982,7 @@
 			}
 
 			.homepage #header {
-				padding: 18em 0;
+				padding: 79px 0;
 			}
 
 		/* Logo */
@@ -2042,7 +2047,7 @@
 			#nav {
 				position: absolute;
 				display: block;
-				top: 118px;				
+				top: 110px;				
 				width: 100%;
 				text-align: center;                                
                                 background: #28AD56 !important;
@@ -2053,8 +2058,8 @@
 
 				#nav > ul {
 					display: inline-block;
-                                    
-                                        text-align: right !important;
+                                        
+                                        text-align: right ;
 					/* se quita el borde del menú principal border-radius: 0.35em;
 					box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);*/
 					
@@ -2062,7 +2067,8 @@
 
 					#nav > ul > li {
 						display: inline-block;                                               
-						padding: 0 1.5em 0 1.5em;
+						padding: 0 1.5em 0 1.5em;                                               
+                                                margin: 0 auto;
 					}
 
 						#nav > ul > li > ul {
@@ -2070,7 +2076,7 @@
 						}
 
 						#nav > ul > li > a, #nav > ul > li > span {
-							display: block;
+							display: inline-block;
 							 color: #fff;     
                                                          /* fuente del menú principal*/
                                                          font-family: Open Sans Bold;
@@ -2079,9 +2085,12 @@
 							text-decoration: none;
 							font-size: 0.7em;
 							letter-spacing: 0.25em;
+
+                                                         margin: 0 auto;
+                                                        text-align: center;
                                                         
-							/* se quita para que se centre el texto del menú principal  height: 5em;
-							line-height: 5em;*/
+							height: 5em;
+							line-height: 3.5em;
 							-moz-transition: all .25s ease-in-out;
 							-webkit-transition: all .25s ease-in-out;
 							-o-transition: all .25s ease-in-out;
@@ -2091,11 +2100,11 @@
 						}
 
 						#nav > ul > li:hover > a {
-							color: #fff;
+							color: #223C62;
 						}
 
 						#nav > ul > li.active > a, #nav > ul > li.active > span {
-							color: #fff;
+							color: #223C62;
 						}
 
 			.dropotron {
@@ -2728,3 +2737,11 @@
 						}
 
 	}
+        
+        
+.centrado {
+    margin: 0 auto !important;
+    width: 50%;    
+    padding: 10px;
+    text-align: center;
+}

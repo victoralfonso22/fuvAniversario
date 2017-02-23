@@ -1,6 +1,19 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Fundación de la Universidad Veracruzana</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="http://192.168.1.55/fuvAniversario/assets/css/main.css" />
+       		<link rel="shortcut icon" type="image/x-icon" href="http://192.168.1.55/fuvAniversario/imagenes/favicon.ico" />
+                <link href='http://192.168.1.55/fuvAniversario/imagenes/favicon.ico' rel='icon' type='image/x-icon'/>
+
+	</head>
+	<body class="homepage">
+		<div id="page-wrapper">
 <div id="header-wrapper" class="wrapper">
                                     <div id="line"></div>
-                                    <div  id="logoPrincipal"><img src="imagenes/principales/logo.png"></div>
+                                    <div  id="logoPrincipal"><img src="http://192.168.1.55/fuvAniversario/imagenes/principales/logo.png"></div>
                                     <div id='fechaPrincipal'><?PHP setlocale(LC_ALL,"es_ES");
                                             echo strftime("%A %d de %B de %Y");
                                             ?></div>
