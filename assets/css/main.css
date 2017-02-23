@@ -1572,13 +1572,13 @@
 			}
 
 		.wrapper.style1 {
-			background: url("images/black-azul.png");
+			background: url("images/back-azul.png");
 			color: #eee;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style1 .title {
-				background: url("images/black-azul.png");
+				background: url("images/back-azul.png");
 				color: #fff;
 			}
 
@@ -1596,11 +1596,11 @@
 			}
 
 		.wrapper.style3 {
-			background: url("images/black-azul.png");
+			background: url("images/back-azul.png");
 		}
 
 			.wrapper.style3 .title {
-				background: url("images/black-azul.png");
+				background: url("images/back-azul.png");
 				color: #484d55;
 			}
 
@@ -1625,7 +1625,7 @@
                 
                 
 	#footer-wrapper {
-		background: url("images/black-azul.png");
+		background: url("images/back-azul.png");
 		color: #eee;
 		color: rgba(255, 255, 255, 0.5);
 	}
@@ -1691,7 +1691,7 @@
 			}
 
 		#footer-wrapper .title {
-			background: url("images/black-azul.png");
+			background: #3d4249 url("images/back-azul.png");
 			color: #eee;
 		}
 
