@@ -1572,13 +1572,13 @@
 			}
 
 		.wrapper.style1 {
-			background: #e97770 url("images/overlay.png");
+			background: url("images/black-azul.png");
 			color: #eee;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style1 .title {
-				background: #e97770 url("images/overlay.png");
+				background: url("images/black-azul.png");
 				color: #fff;
 			}
 
@@ -1623,7 +1623,7 @@
 		}
 
 	#footer-wrapper {
-		background: #282b34 url("images/overlay.png");
+		background: url("images/black-azul.png");
 		color: #eee;
 		color: rgba(255, 255, 255, 0.5);
 	}
@@ -1689,7 +1689,7 @@
 			}
 
 		#footer-wrapper .title {
-			background: #282b34 url("images/overlay.png");
+			background: url("images/black-azul.png");
 			color: #eee;
 		}
 
