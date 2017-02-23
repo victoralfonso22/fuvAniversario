@@ -5,8 +5,10 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="http://192.168.1.55/fuvAniversario/assets/css/main.css" />
+                <link rel="stylesheet" href="http://192.168.1.55/fuvAniversario/assets/css/sweetalert.css" />
        		<link rel="shortcut icon" type="image/x-icon" href="http://192.168.1.55/fuvAniversario/imagenes/favicon.ico" />
                 <link href='http://192.168.1.55/fuvAniversario/imagenes/favicon.ico' rel='icon' type='image/x-icon'/>
+                <script src="http://localhost/fuvAniversario/assets/js/jquery.min.js"></script>
 
 	</head>
 	<body class="homepage">
