@@ -1,23 +1,9 @@
-<!DOCTYPE HTML>
-<html>
-	<head>
-		<title>Fundación de la Universidad Veracruzana</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-       		<link rel="shortcut icon" type="image/x-icon" href="http://localhost/fuvAniversario/imagenes/favicon.ico" />
-                <link href='http://localhost/fuvAniversario/imagenes/favicon.ico' rel='icon' type='image/x-icon'/>
-
-	</head>
-	<body class="homepage">
-		<div id="page-wrapper">
-
 			<!-- Header -->
 			<?php include('template/cabecera.php'); ?>
                         
 			<!-- Intro -->
 				<div id="intro-wrapper" class="wrapper style1">
-					<div class="title">The Introduction</div>
+					
 					<section id="intro" class="container">
 						<p class="style1">So in case you were wondering what this is all about ...</p>
 						<p class="style2">
