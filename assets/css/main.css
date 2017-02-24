@@ -1378,7 +1378,7 @@
 		input[type="reset"].style1,
 		button.style1,
 		.button.style1 {
-			background: #e97770 url("images/overlay.png");
+			background: #73d2d3 url("images/overlay.png");
 			color: #fff;
 		}
 
@@ -1496,7 +1496,7 @@
 /* Feature List */
 
 	.feature-list h3 {
-		color: #e97770 !important;
+		color: #73d2d3 !important;
 	}
 
 		.feature-list h3:before {
@@ -1742,18 +1742,36 @@
 
 /* Highlights */
 
-	#highlights .highlight {
-		text-align: center;
-	}
-
-		#highlights .highlight h3 {
-			color: #e97770;
+	#highlights .highlight {                  
+                margin-left: 20%;
+                color: white;
+                font-family: Open Sans Regular;
+                text-decoration: none;
+                text-align: left;
+                line-height: 1em;
+                font-size: 16px;
+	}                
+		#highlights .highlight h3 {                        
+			color: #73d2d3;
+                        text-align: left;
+		}                
+                #highlights .highlight b {
+			color: #72d0b6;
+		}
+                #highlights .highlight a {
+			text-decoration: none;
+                        cursor: pointer;
+                        
+		}
+                #highlights .highlight a:hover {
+                    color: yellow;
 		}
 
 /* Copyright */
 
 	#copyright {
 		text-align: center;
+                background: white;              
 	}
 
 		#copyright ul {
@@ -1766,6 +1784,7 @@
 
 		#copyright a {
 			color: inherit;
+                        background: #3d4249 url("images/overlay.png");
 		}
 
 			#copyright a:hover {
