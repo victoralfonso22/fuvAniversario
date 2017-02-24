@@ -1,8 +1,6 @@
-                        <div id="footer-wrapper" class="wrapper" style="margin-bottom: 0px">					
-					
-                                            <!-- Highlights -->
-                                            					
-                                                <div id="highlights" class="container">
+                        <div id="footer-wrapper" class="wrapper" style="margin-bottom: 0px">										
+                                            <!-- Highlights -->                                            					
+                                            <div id="highlights" class="container">
                                                     <div class="row 50%">
 							<div class="4u 12u(mobile)">
 								<section class="highlight">									
@@ -28,7 +26,10 @@
 								</section>
 							</div>
                                                     </div>
-                                                </div>  
+                                                </div>                                              
+			</div>   
+                        <div id="footer-wrapper" style="margin-top: -6.5%; margin-bottom:-3%">										
+                                            <!-- Highlights -->                                            					                                             
                                             <div id="copyright">
                                     <table style="width:75%;">
                                         <tr>
@@ -44,7 +45,7 @@
                                         </tr>
                                     </table>
                                 </div>
-			</div>                                
+			</div>  
                 </div>
 
 		<!-- Scripts -->
