@@ -1199,7 +1199,7 @@
 
 	form label {
 		display: block;
-		font-weight: 700;
+		font-weight: 500;
 		color: #345399;
                 font-family: Open Sans Light;               
 	}
@@ -1496,7 +1496,7 @@
 /* Feature List */
 
 	.feature-list h3 {
-		color: #73d2d3 !important;
+		color: #e97770 !important;
 	}
 
 		.feature-list h3:before {
@@ -2048,18 +2048,17 @@
                              float: left;
                              display: inline-block;
                              text-align: center;
-                             padding-left: 11em;                
+                                          
                         }
                         
                         #fechaPrincipal{
-                             position: absolute;
-                             z-index: 1;
+                             position: relative;
+                             padding-top: 1em; 
                              float: right;
-                             display: block;
-                             text-align: right;
+                             margin: 0 auto;
                              width: 100%;
-                             padding-right: 12em;
-                             height: 50px;
+                             z-index: 2;
+                             text-align: right !important;
                         }
                         
                         
@@ -2090,6 +2089,7 @@
 						display: inline-block;                                               
 						padding: 0 1.5em 0 1.5em;                                               
                                                 margin: 0 auto;
+                                                text-align: right;
 					}
 
 						#nav > ul > li > ul {
@@ -2108,7 +2108,7 @@
 							letter-spacing: 0.25em;
 
                                                          margin: 0 auto;
-                                                        text-align: center;
+                                                        text-align: right;
                                                         
 							height: 5em;
 							line-height: 3.5em;
@@ -2129,8 +2129,8 @@
 						}
 
 			.dropotron {
-				background: #222835 url("images/overlay.png");
-				background-color: rgba(44, 50, 63, 0.925);
+				background: #28AD56;
+				/*background-color: rgba(44, 50, 63, 0.925);*/
 				padding: 1.25em 1em 1.25em 1em;
 				border-radius: 0.35em;
 				box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
@@ -2153,11 +2153,12 @@
 					-ms-transition: all .25s ease-in-out;
 					transition: all .25s ease-in-out;
 					display: block;
-					color: #eee;
+					color: #fff;
 					color: rgba(255, 255, 255, 0.75);
 					text-transform: uppercase;
 					text-decoration: none;
 					font-size: 0.7em;
+                                         font-family: Open Sans Bold;
 					letter-spacing: 0.25em;
 					border-top: solid 1px rgba(255, 255, 255, 0.15);
 					line-height: 3em;
@@ -2168,7 +2169,7 @@
 				}
 
 				.dropotron li:hover > a, .dropotron li:hover > span {
-					color: #fff;
+					color: #223C62;
 				}
 
 		/* Intro */
@@ -2759,10 +2760,30 @@
 
 	}
         
-        
+/*Clases agregadas por viko*/        
 .centrado {
     margin: 0 auto !important;
     width: 50%;    
     padding: 10px;
     text-align: center;
 }
+
+.imagen1 {
+    position: absolute;
+    opacity: 1;
+}
+
+.imagen1:hover,.imagen2:hover{
+    cursor: pointer;
+}
+
+.imagen2 {
+    position:absolute;
+    
+}
+
+label {
+		font-size: 15px;
+		color: #A6A6A7;
+                font-family: Open Sans Light;               
+	}
