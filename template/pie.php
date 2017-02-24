@@ -1,4 +1,4 @@
-                                <div id="footer-wrapper" class="wrapper">					
+                        <div id="footer-wrapper" class="wrapper" style="margin-bottom: 0px">					
 					
                                             <!-- Highlights -->
                                             					
@@ -7,9 +7,9 @@
 							<div class="4u 12u(mobile)">
 								<section class="highlight">									
                                                                         <h3>Contáctanos<br/><span style="font-size:14px">Te canalizaremos al área que corresponda</span></h3>
-                                                                        <p><img src="./assets/css/images/icon-mail.png"/><span style="margin-left:4%">contacto@fundacionuv.org.mx</span><br />
-                                                                           <img style="padding-top:5%" src="./assets/css/images/icon-tel.png"/><span style="margin-left:6%">Teléfonos:</span><br /><a style="margin-left:15%" href="tel:018008384181">01-800-838-4181</a><br /><a style="margin-left:15%" href="tel:522288415922">+52 (228) 841 59 22</a><br />
-                                                                           <img src="./assets/css/images/icon-map.png"/><span style="margin-left:6%">Calle Veracruz No 46 Int 2 y 3</span><br /><span style="margin-left:14%">Fraccionamiento Pomona</span><br /><span style="margin-left:14%">C.P. 91040 Xalapa, Veracruz</span></p>                                                                        
+                                                                        <p><img src="http://localhost/fuvAniversario/assets/css/images/icon-mail.png"/><span style="margin-left:4%">contacto@fundacionuv.org.mx</span><br />
+                                                                           <img style="padding-top:5%" src="http://localhost/fuvAniversario/assets/css/images/icon-tel.png"/><span style="margin-left:6%">Teléfonos:</span><br /><a style="margin-left:15%" href="tel:018008384181">01-800-838-4181</a><br /><a style="margin-left:15%" href="tel:522288415922">+52 (228) 841 59 22</a><br />
+                                                                           <img src="http://localhost/fuvAniversario/assets/css/images/icon-map.png"/><span style="margin-left:6%">Calle Veracruz No 46 Int 2 y 3</span><br /><span style="margin-left:14%">Fraccionamiento Pomona</span><br /><span style="margin-left:14%">C.P. 91040 Xalapa, Veracruz</span></p>                                                                        
 								</section>
 							</div>
 							<div class="4u 12u(mobile)">
@@ -30,21 +30,21 @@
                                                     </div>
                                                 </div>  
                                             <div id="copyright">
-                                    <table style="width:75%; margin: 00;">
+                                    <table style="width:75%;">
                                         <tr>
                                             <td style="vertical-align:middle;text-align:right;">
                                                 <span style="color:black;">Todos los derechos reservados© 2017 Fundación de la Universidad Veracruzana, A.C.</span>
                                             </td>
                                             <td>
-                                                <img src="./assets/css/images/logo-UV.png"/>
+                                                <img src="http://localhost/fuvAniversario/assets/css/images/logo-UV.png"/>
                                             </td>
                                             <td>
-                                                <img src="./assets/css/images/logo-semefi.png"/>
+                                                <img src="http://localhost/fuvAniversario/assets/css/images/logo-semefi.png"/>
                                             </td>
                                         </tr>
                                     </table>
                                 </div>
-				</div>                                
+			</div>                                
                 </div>
 
 		<!-- Scripts -->
