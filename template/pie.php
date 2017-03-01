@@ -1,6 +1,6 @@
                         <div id="footer-wrapper" class="wrapper">										
                                             <!-- Highlights -->                                            					
-                                            <div id="highlights" class="container"  style="margin-bottom: -8%; margin-top: -6%">
+                                            <div id="highlights" class="container"  style="margin-bottom: -1%; margin-top: -1%">
                                                     <div class="row 50%">
 							<div class="4u 12u(mobile)">
 								<section class="highlight">									
@@ -28,7 +28,7 @@
                                                     </div>
                                                 </div>                                              
 			</div>   
-                        <div id="footer-wrapper" style="margin-top: -8.5%; margin-bottom:0%;">										
+                        <div id="footer-wrapper" style="margin-top: -8%; margin-bottom:0%;">										
                                             <!-- Highlights -->                                            					                                             
                                             <div id="copyright">                                  
                                                 <div class="row 2%">
