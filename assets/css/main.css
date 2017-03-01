@@ -1496,7 +1496,8 @@
 /* Feature List */
 
 	.feature-list h3 {
-		color: #e97770 !important;
+		color: #37acae !important;
+                font-weight: bold;
 	}
 
 		.feature-list h3:before {
@@ -2200,7 +2201,7 @@
 		/* Features */
 
 			#features {
-				padding: 0 6em 0 6em;
+				padding: 0;
 			}
 
 				#features header.style1 {
@@ -2443,7 +2444,7 @@
 			.feature-list h3 {
 				position: relative;
 				padding: 4px 0 0 48px;
-				line-height: 1.25em;
+				line-height: 1.25em;                                
 			}
 
 				.feature-list h3:before {
@@ -2453,7 +2454,7 @@
 					width: 32px;
 					height: 32px;
 					line-height: 32px;
-					font-size: 16px;
+					font-size: 16px;                                        
 				}
 
 			.feature-list p {

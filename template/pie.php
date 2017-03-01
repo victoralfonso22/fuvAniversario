@@ -1,6 +1,6 @@
-                        <div id="footer-wrapper" class="wrapper" style="margin-bottom: 0px">										
+                        <div id="footer-wrapper" class="wrapper">										
                                             <!-- Highlights -->                                            					
-                                            <div id="highlights" class="container">
+                                            <div id="highlights" class="container"  style="margin-bottom: -8%; margin-top: -6%">
                                                     <div class="row 50%">
 							<div class="4u 12u(mobile)">
 								<section class="highlight">									
@@ -28,34 +28,53 @@
                                                     </div>
                                                 </div>                                              
 			</div>   
-                        <div id="footer-wrapper" style="margin-top: -6.5%; margin-bottom:-3%">										
+                        <div id="footer-wrapper" style="margin-top: -8.5%; margin-bottom:0%;">										
                                             <!-- Highlights -->                                            					                                             
-                                            <div id="copyright">
-                                    <table style="width:75%;">
-                                        <tr>
-                                            <td style="vertical-align:middle;text-align:right;">
-                                                <span style="color:black;">Todos los derechos reservados© 2017 Fundación de la Universidad Veracruzana, A.C.</span>
-                                            </td>
-                                            <td>
-                                                <img src="http://localhost/fuvAniversario/assets/css/images/logo-UV.png"/>
-                                            </td>
-                                            <td>
-                                                <img src="http://localhost/fuvAniversario/assets/css/images/logo-semefi.png"/>
-                                            </td>
-                                        </tr>
-                                    </table>
+                                            <div id="copyright">                                  
+                                                <div class="row 2%">
+                                                        <div class="6u 12u(mobile)">
+								<!-- Contact Form -->
+									<section>										
+											<div class="row -5%">												
+												<div class="6u">													
+												</div>
+											</div>
+											<div class="row 50%">
+												<div class="12u">
+													<span style="color:black;">Todos los derechos reservados© 2017 Fundación de la Universidad Veracruzana, A.C.</span>
+												</div>
+											</div>
+											<div class="row">
+												<div class="6u">													
+												</div>
+                                                                                            <div class="6u">													
+												</div>
+											</div>										
+									</section>
+							</div>
+							<div class="6u 12u(mobile)">
+								<!-- Contact -->
+									<section class="feature-list small" style="text-decoration: none;">
+										<div class="row">
+											<div class="6u 12u(mobile)">												
+                                                                                            <span><img src="http://localhost/fuvAniversario/assets/css/images/logo-UV.png"/></span>
+											</div>
+											<div class="6u 12u(mobile)">												
+                                                                                            <span><img src="http://localhost/fuvAniversario/assets/css/images/logo-semefi.png"/></span>
+											</div>
+										</div>										
+									</section>
+							</div>
+						</div>
                                 </div>
 			</div>  
                 </div>
-
 		<!-- Scripts -->
-
 			<script src="http://localhost/fuvAniversario/assets/js/jquery.dropotron.min.js"></script>
 			<script src="http://localhost/fuvAniversario/assets/js/skel.min.js"></script>
 			<script src="http://localhost/fuvAniversario/assets/js/skel-viewport.min.js"></script>
 			<script src="http://localhost/fuvAniversario/assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="http://localhost/fuvAniversario/assets/js/main.js"></script>
-
 	</body>
 </html>
