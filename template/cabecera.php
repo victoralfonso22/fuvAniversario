@@ -4,11 +4,12 @@
 		<title>Fundación de la Universidad Veracruzana</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<link rel="stylesheet" href="http://localhost/fuvAniversario/assets/css/main.css" />
+                <link rel="stylesheet" href="http://localhost/fuvAniversario/assets/css/main.css" />
        		<link rel="shortcut icon" type="image/x-icon" href="http://localhost/fuvAniversario/imagenes/favicon.ico" />
                 <link href='http://localhost/fuvAniversario/imagenes/favicon.ico' rel='icon' type='image/x-icon'/>
                 <script src="http://localhost/fuvAniversario/assets/js/jquery.min.js"></script>
                 <script src="http://localhost/fuvAniversario/assets/js/funciones.js"></script>
+                
 
 	</head>
 	<body class="homepage">

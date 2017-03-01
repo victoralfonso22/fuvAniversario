@@ -1,40 +1,46 @@
 			<!-- Header -->
 			<?php include('template/cabecera.php'); ?>
                         
-			<!-- Intro -->
-				<div id="intro-wrapper" class="wrapper style1">
-					
-					<section id="intro" class="container">
-						<p class="style1">So in case you were wondering what this is all about ...</p>
-						<p class="style2">
-							Escape Velocity is a free responsive<br class="mobile-hide" />
-							site template by <a href="http://html5up.net" class="nobr">HTML5 UP</a>
-						</p>
-						<p class="style3">It's <strong>responsive</strong>, built on <strong>HTML5</strong> and <strong>CSS3</strong>, and released for
-						free under the <a href="http://html5up.net/license">Creative Commons Attribution 3.0 license</a>, so use it for any of
-						your personal or commercial projects &ndash; just be sure to credit us!</p>
-						<ul class="actions">
-							<li><a href="#" class="button style3 big">Proceed</a></li>
-						</ul>
-					</section>
-				</div>
+                        <!-- Implementacion del slider 01-03-2017 by viko -->
+                        <link rel="stylesheet" href="assets/css/glide.core.css" />
+                        <link rel="stylesheet" href="assets/css/glide.theme.css" />
+                        <script src="assets/js/glide.js"></script>
+			<!-- Slider -->
+                        <div id="div100Slider">
+                        <div id="divSlider" class="container">                            
+                        <div id="Glide" class="glide">
 
+                            <div id="flechasSlider" class="glide__arrows">
+                                <button class="glide__arrow prev" data-glide-dir="<"><img src="assets/css/images/Flacha-left.png"></button>
+                                <button class="glide__arrow next" data-glide-dir=">"><img src="assets/css/images/Flacha-right.png"></button>
+                            </div>
+
+                            <div class="glide__wrapper">
+                                <ul class="glide__track">
+                                    <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-1.jpg" /></li>
+                                    <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-2.jpg" /></li>
+                                    <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-3.jpg" /></li>
+                                </ul>
+                            </div>
+
+                            <div id="puntosSlider" class="glide__bullets"></div>
+
+                        </div>
+                        </div>
+                        </div>
+                        
 			<!-- Main -->
 				<div class="wrapper style2">
-					<div class="title">The Details</div>
+					
 					<div id="main" class="container">
-
-						<!-- Image -->
-							<a href="#" class="image featured">
-								<img src="imagenes/pic01.jpg" alt="" />
-							</a>
+                                            <header class="style1">
+                                                <h2>¿Qué estás buscando?</h2>
+                                                <div class="bordeAbajo"/>
+                                            </header>
 
 						<!-- Features -->
 							<section id="features">
-								<header class="style1">
-									<h2>Dolor consequat feugiat amet veroeros</h2>
-									<p>Feugiat dolor nullam orci pretium phasellus justo</p>
-								</header>
+
 								<div class="feature-list">
 									<div class="row">
 										<div class="6u 12u(mobile)">
@@ -90,3 +96,8 @@
 
 			<!-- Pié de página -->				
                         <?php include('template/pie.php'); ?>		
+                        <script>
+                            $("#Glide").glide({
+                                type: "slideshow"
+                            });
+                        </script>
