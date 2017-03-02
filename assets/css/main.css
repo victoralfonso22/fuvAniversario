@@ -1079,7 +1079,7 @@
 	body, input, textarea, select {
 		font-family: Open Sans Light;
 		font-weight: 400;
-		color: #28AD56;
+		color: black;
 	}
 
 	body.is-loading * {
@@ -2160,7 +2160,7 @@
 
 
 			.dropotron {
-				background: #28AD56;
+				background: black;
 				/*background-color: rgba(44, 50, 63, 0.925);*/
 				padding: 1.25em 1em 1.25em 1em;
 				border-radius: 0.35em;
