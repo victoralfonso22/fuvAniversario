@@ -262,7 +262,7 @@ Main Components
   position: relative;
   height: 100%;
   margin: 0 40px;
-  overflow: hidden;
+  overflow: hidden;   
 }
 .cd-horizontal-timeline .events-wrapper::after, .cd-horizontal-timeline .events-wrapper::before {
   /* these are used to create a shadow effect at the sides of the timeline */
@@ -271,7 +271,7 @@ Main Components
   z-index: 2;
   top: 0;
   height: 100%;
-  width: 20px;
+  width: 20px;  
 }
 .cd-horizontal-timeline .events-wrapper::before {
   left: 0;
@@ -326,7 +326,7 @@ Main Components
   text-align: center;
   font-size: 1.3rem;
   padding-bottom: 15px;
-  color: #383838;
+  color: #003cb3;
   /* fix bug on Safari - text flickering while timeline translates */
   -webkit-transform: translateZ(0);
   -moz-transform: translateZ(0);
@@ -443,7 +443,6 @@ Main Components
 .no-touch .cd-timeline-navigation a.inactive:hover {
   border-color: #dfdfdf;
 }
-
 .cd-horizontal-timeline .events-content {
   position: relative;
   width: 100%;
@@ -472,6 +471,7 @@ Main Components
   -webkit-animation-timing-function: ease-in-out;
   -moz-animation-timing-function: ease-in-out;
   animation-timing-function: ease-in-out;  
+  color: #003cb3;
 }
 .cd-horizontal-timeline .events-content li.selected {
   /* visible event content */
@@ -483,6 +483,7 @@ Main Components
   -ms-transform: translateX(0);
   -o-transform: translateX(0);
   transform: translateX(0);  
+  color: #28AD56;
 }
 .cd-horizontal-timeline .events-content li.enter-right, .cd-horizontal-timeline .events-content li.leave-right {
   -webkit-animation-name: cd-enter-right;

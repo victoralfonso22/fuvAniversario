@@ -21,8 +21,8 @@
 							<div class="4u 12u(mobile)">
 								<section class="highlight">									
 									<h3>Unidad de transparencia</h3><br/>
-									<p><a><b>Obligaciones</b></a><br /><br/><a><b>Derechos ARCO</b></a><br/><br/><a><b>Acreditaciones y certificaciones</a></b><br/><br/><a><b>Aviso de privacidad</b></a></p>
-                                                                        <a><h3>Informe de labores</h3></a>
+									<p><a><b>Obligaciones</b></a><br /><br/><a><b>Derechos ARCO</b></a><br/><br/><a><b>Acreditaciones y certificaciones</a></b><br/><br/><a><b>Aviso de privacidad</b></a></p><br>
+                                                                        <a><h3 style="font-size:25px">Informe de labores</h3></a>
 								</section>
 							</div>
                                                     </div>

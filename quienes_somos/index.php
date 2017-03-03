@@ -9,7 +9,7 @@
                                                     <div class="bordeAbajo"/>
                                                 </header>
 						<!-- Image -->
-                                                        <a href="#" class="image featured" style="margin-top: -3.6%">
+                                                        <a href="" class="image featured" style="margin-top: -3.6%" style="cursor: none">
                                                             <img src="img/quienes_somos.jpg" alt="" />
 							</a>
 
@@ -49,45 +49,67 @@
 		<ol>
 			<li class="selected" data-date="16/01/2014">                                 				
                                 <p class="contenido">	
-                                    <img src="img/Toma-de-protesta-1992.png" align="left">
-                                    <div style="padding-top:10%;color:white;"><div style="font-size:25px; font-weight:bold;">Horizontal Timeline</div><br/>				
-                                    (January 16th, 2014)<br/>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.</div>
+                                    <img src="img/Toma-de-protesta-1992.png" align="left" />
+                                    <div style="padding-top:8%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">Nace la Fundación UV</div><br/>				
+                                    <div style="font-size:20px;color:#28AD56;">(16 de Marzo de 1992)</div><br/>
+                                    Después de reunirse un grupo de ex alumnos UV, empresarios y miembros destacados de la sociedad veracruzana
+                                    con la idea de crear una Asociación Civil que afianzara el vínculo entre la máxima casa de Estudiode nuestro estado
+                                    y la sociedad, queda legalmente constituida la Fundación de la Universidad Veracruzana.</div>
 				</p>
 			</li>
 
 			<li data-date="28/02/2014">				
-				<em>February 28th, 2014</em>
-				<p>	
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+				<p class="contenido">	
+                                    <img src="img/Toma-de-protesta-1992.png" align="left">
+                                    <div style="padding-top:8%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">Primer sorteo de la FUV</div><br/>				
+                                    <div style="font-size:20px;color:#28AD56;">(16 de Marzo de 1992)</div><br/>
+                                    Después de reunirse un grupo de ex alumnos UV, empresarios y miembros destacados de la sociedad veracruzana
+                                    con la idea de crear una Asociación Civil que afianzara el vínculo entre la máxima casa de Estudiode nuestro estado
+                                    y la sociedad, queda legalmente constituida la Fundación de la Universidad Veracruzana.</div>
 				</p>
 			</li>
 
 			<li data-date="20/04/2014">				
-				<em>March 20th, 2014</em>
-				<p>	
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+				<p class="contenido">	
+                                    <img src="img/Toma-de-protesta-1992.png" align="left">
+                                    <div style="padding-top:8%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">Programa sociedad de exalumnos</div><br/>				
+                                    <div style="font-size:20px;color:#28AD56;">(16 de Marzo de 1992)</div><br/>
+                                    Después de reunirse un grupo de ex alumnos UV, empresarios y miembros destacados de la sociedad veracruzana
+                                    con la idea de crear una Asociación Civil que afianzara el vínculo entre la máxima casa de Estudiode nuestro estado
+                                    y la sociedad, queda legalmente constituida la Fundación de la Universidad Veracruzana.</div>
 				</p>
 			</li>
 
 			<li data-date="20/05/2014">				
-				<em>May 20th, 2014</em>
-				<p>	
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+				<p class="contenido">	
+                                    <img src="img/Toma-de-protesta-1992.png" align="left">
+                                    <div style="padding-top:8%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">1er paquete de Becas</div><br/>				
+                                    <div style="font-size:20px;color:#28AD56;">(16 de Marzo de 1992)</div><br/>
+                                    Después de reunirse un grupo de ex alumnos UV, empresarios y miembros destacados de la sociedad veracruzana
+                                    con la idea de crear una Asociación Civil que afianzara el vínculo entre la máxima casa de Estudiode nuestro estado
+                                    y la sociedad, queda legalmente constituida la Fundación de la Universidad Veracruzana.</div>
 				</p>
 			</li>
 
 			<li data-date="09/07/2014">				
-				<em>July 9th, 2014</em>
-				<p>	
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+				<p class="contenido">	
+                                    <img src="img/Toma-de-protesta-1992.png" align="left">
+                                    <div style="padding-top:8%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">Comienza construcción del..</div><br/>				
+                                    <div style="font-size:20px;color:#28AD56;">(16 de Marzo de 1992)</div><br/>
+                                    Después de reunirse un grupo de ex alumnos UV, empresarios y miembros destacados de la sociedad veracruzana
+                                    con la idea de crear una Asociación Civil que afianzara el vínculo entre la máxima casa de Estudiode nuestro estado
+                                    y la sociedad, queda legalmente constituida la Fundación de la Universidad Veracruzana.</div>
 				</p>
 			</li>
 
 			<li data-date="30/08/2014">				
-				<em>August 30th, 2014</em>
-				<p>	
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+				<p class="contenido">	
+                                    <img src="img/Toma-de-protesta-1992.png" align="left">
+                                    <div style="padding-top:8%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">Instalaciones Deportivas</div><br/>				
+                                    <div style="font-size:20px;color:#28AD56;">(16 de Marzo de 1992)</div><br/>
+                                    Después de reunirse un grupo de ex alumnos UV, empresarios y miembros destacados de la sociedad veracruzana
+                                    con la idea de crear una Asociación Civil que afianzara el vínculo entre la máxima casa de Estudiode nuestro estado
+                                    y la sociedad, queda legalmente constituida la Fundación de la Universidad Veracruzana.</div>
 				</p>
 			</li>
 
@@ -131,12 +153,12 @@
 		<div class="events-wrapper">
 			<div class="events">
 				<ol>
-					<li><a href="#0" data-date="16/01/2014" class="selected">16 Jan</a></li>
-					<li><a href="#0" data-date="28/02/2014">28 Feb</a></li>
-					<li><a href="#0" data-date="20/04/2014">20 Mar</a></li>
-					<li><a href="#0" data-date="20/05/2014">20 May</a></li>
-					<li><a href="#0" data-date="09/07/2014">09 Jul</a></li>
-					<li><a href="#0" data-date="30/08/2014">30 Aug</a></li>
+					<li><a href="#0" data-date="16/01/2014" class="selected">Nace la Fundación UV</a></li>
+                                        <li><a href="#0" data-date="28/02/2014">Primer sorteo de la FUV</a></li>
+					<li><a href="#0" data-date="20/04/2014">Programa sociedad<br>de exalumnos</a></li>
+					<li><a href="#0" data-date="20/05/2014">1er paquete<br>de Becas</a></li>
+					<li><a href="#0" data-date="09/07/2014">Comienza<br>construcción del..</a></li>
+					<li><a href="#0" data-date="30/08/2014">Instalaciones<br>Deportivas</a></li>
 					<li><a href="#0" data-date="15/09/2014">15 Sep</a></li>
 					<li><a href="#0" data-date="01/11/2014">01 Nov</a></li>
 					<li><a href="#0" data-date="10/12/2014">10 Dec</a></li>
