@@ -1,5 +1,5 @@
 			<!-- Header -->
-			<?php include('../cabecera.php'); ?>
+			<?php include('../template/cabecera.php'); ?>
 
 			<!-- Main -->
 				<div class="wrapper style2">					
@@ -176,4 +176,4 @@
             });
         </script>
 			<!-- Pié de página -->				
-<?php include('../pie.php'); ?>
+<?php include('../template/pie.php'); ?>
