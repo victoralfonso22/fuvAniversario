@@ -34,7 +34,7 @@
 <!-- Accesos rapidos 01-03-2017 by viko -->
 <div class="wrapper style2">
 
-    <div id="main" class="container">
+    <div id="mainRapido" class="container">
         <header class="style1">
             <h2>¿Qué estás buscando?</h2>
             <div class="bordeAbajo"/>
@@ -82,12 +82,98 @@
             <h2>Lo más reciente</h2>
             <div class="bordeAbajo"/>
         </header>
+            <section id="least">
+
+
+
+    <!-- Least Gallery: Thumbnails -->
+    <div id="tablaNoticiasHomeMovil">
+    
+    <ul class="least-gallery" >
+      <!-- 1th thumbnail -->
+        <li>
+            <a href="imagenes/carrusel-1.jpg" data-subtitle="Ver noticia" data-caption="Now it's possibe to add an URL-Link into caption text - <a href='http://www.google.com' target='_blank'>GOOGLE</a>" >
+              <img src="imagenes/carrusel-1.jpg" alt="Alt Image Text" />
+          </a>
+         
+        </li>
+        <li>
+            <a href="imagenes/carrusel-1.jpg" data-subtitle="Ver noticia" data-caption="Now it's possibe to add an URL-Link into caption text - <a href='http://www.google.com' target='_blank'>GOOGLE</a>" >
+              <img src="imagenes/carrusel-1.jpg" alt="Alt Image Text" />
+          </a>
+ 
+        </li>
+        <li>
+            <a href="imagenes/carrusel-1.jpg" data-subtitle="Ver noticia" data-caption="Now it's possibe to add an URL-Link into caption text - <a href='http://www.google.com' target='_blank'>GOOGLE</a>" >
+              <img src="imagenes/carrusel-1.jpg" alt="Alt Image Text" />
+          </a>
+
+        </li>
+        <li></li>
+    
+    </ul>
+        <input class="botonNoticasMovil" type="button" value="M&aacute;s noticias"/>
     </div>
+                
+ 
+                
+                
+                
+                
+                
+               
+    <!-- Least Gallery: Thumbnails -->
+    <div id="tablaNoticiasHome" >
+        <table id="tablaNoticias">
+            <tr>
+                <td rowspan="2" colspan="2"><a href="imagenes/carrusel-1.jpg" data-subtitle="Ver noticia"  >
+                    <img class="imagenPrincipalNoticia"  src="imagenes/carrusel-1.jpg" alt="Alt Image Text" /></a></td>
+                <td ><a href="imagenes/carrusel-1.jpg" data-subtitle="Ver noticia"  >
+              <img  src="imagenes/carrusel-1.jpg" alt="Alt Image Text" /></a></td>
+                
+            </tr>
+            <tr>
+                
+                <td ><a href="imagenes/carrusel-1.jpg" data-subtitle="Ver noticia"  >
+              <img  src="imagenes/carrusel-1.jpg" alt="Alt Image Text" /></a></td>         
+            </tr>
+            <tr>
+                <td ><a href="imagenes/carrusel-1.jpg" data-subtitle="Ver noticia"  >
+              <img  src="imagenes/carrusel-1.jpg" alt="Alt Image Text" /></a></td>
+                <td ><a href="imagenes/carrusel-1.jpg" data-subtitle="Ver noticia"  >
+              <img  src="imagenes/carrusel-1.jpg" alt="Alt Image Text" /></a></td>
+                <td ><a href="imagenes/carrusel-1.jpg" data-subtitle="Ver noticia"  >
+              <img  src="imagenes/carrusel-1.jpg" alt="Alt Image Text" /></a></td>
+            </tr>
+            <tr><td colspan="3"><br/></td></tr>
+            <tr><td colspan="3" style="text-align: right"><input class="botonNoticas" type="button" value="M&aacute;s noticias"/></td></tr>
+        </table>
+
+
+</div>
+
+                
+                
+                
+                
+                
+ 
+</section>
+           
+            
+    </div>
+            
+            
+        </div>
 
 <!-- Pié de página -->				
 <?php include('template/pie.php'); ?>		
 <script>
     $("#Glide").glide({
         type: "slideshow"
+    });
+    
+    $(document).ready(function(){
+    $('.least-gallery').least();
     });
 </script>

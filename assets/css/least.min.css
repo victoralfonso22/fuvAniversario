@@ -138,9 +138,9 @@ img {
   position: relative;
   display: block;
   text-decoration: none;
-  width: 240px;
+  width: 280px;
   /* Default width: 240px: to edit go to assets/options */
-  height: 150px;
+  height: 190px;
   /* Default height: 150px: to edit go to assets/options */
   /* @group Outline */
   -webkit-transition-property: outline-color;
@@ -163,9 +163,9 @@ img {
   /* @end */
 }
 #least .least-gallery li a img {
-  width: 240px;
+  width: 280px;
   /* Default width: 240px: to edit go to assets/options */
-  height: 150px;
+  height: 190px;
   /* Default height: 150px: to edit go to assets/options */
 }
 #least .least-gallery li a.active {
