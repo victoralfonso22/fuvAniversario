@@ -66,7 +66,7 @@
 									</section>
 							</div>
 						</div>
-                                </div>
+                                </div>                                                                
 			</div>  
                 </div>
 		<!-- Scripts -->
@@ -75,6 +75,6 @@
 			<script src="http://localhost/fuvAniversario/assets/js/skel-viewport.min.js"></script>
 			<script src="http://localhost/fuvAniversario/assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-			<script src="http://localhost/fuvAniversario/assets/js/main.js"></script>
+			<script src="http://localhost/fuvAniversario/assets/js/main.js"></script>                        
 	</body>
 </html>
