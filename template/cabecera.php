@@ -5,8 +5,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
                 <link rel="stylesheet" href="http://localhost/fuvAniversario/assets/css/main.css" />                
-       		<link rel="shortcut icon" type="image/x-icon" href="http://localhost/fuvAniversario/imagenes/favicon.ico" />
-                <link href='http://localhost/fuvAniversario/imagenes/favicon.ico' rel='icon' type='image/x-icon'/>
+       		<link rel="icon" type="image/png" sizes="16x16" href="http://localhost/fuvAniversario/imagenes/favicon.png">
                 <script src="http://localhost/fuvAniversario/assets/js/jquery.min.js"></script>
                 <script src="http://localhost/fuvAniversario/assets/js/funciones.js"></script>
                 
@@ -17,7 +16,7 @@
 <div id="header-wrapper" class="wrapper">
                                     <div id="line"></div>
                                     <div class="container">
-                                    <div  id="logoPrincipal"><img src="http://localhost/fuvAniversario/imagenes/principales/logo.png"></div>
+                                        <div  id="logoPrincipal"><a href="http://localhost/fuvAniversario/"><img src="http://localhost/fuvAniversario/imagenes/principales/logo.png"></a></div>
                                     <div id="fechaPrincipal" ><label><?PHP setlocale(LC_ALL,"es_ES");
                                             echo strftime("%A %d de %B de %Y");
                                             ?></label>&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://www.facebook.com/FundacionUV.AC/"><img src="http://localhost/fuvAniversario/assets/css/images/face.png" onmouseover="this.src='http://localhost/fuvAniversario/assets/css/images/face-hover.png'" onmouseout="this.src='http://localhost/fuvAniversario/assets/css/images/face.png'"></a>
@@ -32,7 +31,7 @@
 									<li class="current"><a href="http://localhost/fuvAniversario/quienes_somos/">Qui&eacute;nes somos</a></li>
 									<li>
 										<a href="">Qu&eacute; hacemos</a>
-                                                                                <ul class="container" >
+                                                                                <ul class="container centrados" >
                                                                                     <div id="divMenu" class="container" >
                                                                                         <div >
                                                                                         <table >
@@ -107,7 +106,7 @@
 									</li>
 									<li><a href="left-sidebar.html">C&oacute;mo apoyar</a></li>
 									<li><a href="right-sidebar.html">Egresados uv</a></li>
-									<li><a href="no-sidebar.html">Blog</a></li>
+									<li><a href="http://localhost/fuvAniversario/blog/">Blog</a></li>
 								</ul>
 							</nav>
                                                 
