@@ -84,11 +84,9 @@
         </header>
             <section id="least">
 
-
-
     <!-- Least Gallery: Thumbnails -->
     <div id="tablaNoticiasHomeMovil">
-    
+
     <ul class="least-gallery" >
       <!-- 1th thumbnail -->
         <li>
@@ -110,18 +108,11 @@
 
         </li>
         <li></li>
-    
+
     </ul>
         <input class="botonNoticasMovil" type="button" value="M&aacute;s noticias"/>
     </div>
-                
- 
-                
-                
-                
-                
-                
-               
+
     <!-- Least Gallery: Thumbnails -->
     <div id="tablaNoticiasHome" >
         <table id="tablaNoticias">
@@ -151,19 +142,10 @@
 
 
 </div>
-
-                
-                
-             
-                
-                
  
 </section>
-               
             
     </div>
-
-            
             
         </div>
 
@@ -203,7 +185,7 @@
 <script type="text/javascript">
                             function counter(elem) {
  
-                                var id = setInterval(frame, 10);
+                                var id = setInterval(frame, 50);
                                 function frame() {
                                     if (elem.data('from') == elem.data('to')) {
                                         clearInterval(id);

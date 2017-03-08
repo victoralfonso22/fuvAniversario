@@ -1,8 +1,6 @@
-			<!-- Header -->
+	
 			<?php include('../template/cabecera.php'); ?>
-
-			<!-- Main -->
-				<div class="wrapper style2">					
+								
 					<div id="main" class="container">
                                                 <header class="style1">
                                                     <h2>Quienes somos</h2>
@@ -16,7 +14,7 @@
 						<!-- Features -->
 							<section id="features">								
 								<div class="feature-list">
-									<div class="row" style="margin-left:-9%; text-justify: auto;">
+									<div class="row" style="margin-left:-10%; text-align: justify">
                                                                             <div class="6u 12u(mobile)">
 
                                                                                                 <h3 style="margin-left:-40%">Qué es y que hace</h3>
@@ -42,15 +40,15 @@
 							</section>
 
 					</div>
-				</div>
-                                    <div style="margin-top:25%;">
+				
+                                    <div>
 <section class="cd-horizontal-timeline" style="background: white;">	
         <div class="events-content" style="background: url(img/back-azul.png) repeat;">
 		<ol>
 			<li class="selected" data-date="16/01/2014">                                 				
                                 <p class="contenido">	
                                     <img src="img/Toma-de-protesta-1992.png" align="left" />
-                                    <div style="padding-top:8%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">Nace la Fundación UV</div><br/>				
+                                    <div style="padding-top:5%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">Nace la Fundación UV</div>			
                                     <div style="font-size:20px;color:#28AD56;">(16 de Marzo de 1992)</div><br/>
                                     Después de reunirse un grupo de ex alumnos UV, empresarios y miembros destacados de la sociedad veracruzana
                                     con la idea de crear una Asociación Civil que afianzara el vínculo entre la máxima casa de Estudiode nuestro estado
@@ -61,7 +59,7 @@
 			<li data-date="28/02/2014">				
 				<p class="contenido">	
                                     <img src="img/Toma-de-protesta-1992.png" align="left">
-                                    <div style="padding-top:8%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">Primer sorteo de la FUV</div><br/>				
+                                    <div style="padding-top:5%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">Primer sorteo de la FUV</div>				
                                     <div style="font-size:20px;color:#28AD56;">(16 de Marzo de 1992)</div><br/>
                                     Después de reunirse un grupo de ex alumnos UV, empresarios y miembros destacados de la sociedad veracruzana
                                     con la idea de crear una Asociación Civil que afianzara el vínculo entre la máxima casa de Estudiode nuestro estado
@@ -72,7 +70,7 @@
 			<li data-date="20/04/2014">				
 				<p class="contenido">	
                                     <img src="img/Toma-de-protesta-1992.png" align="left">
-                                    <div style="padding-top:8%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">Programa sociedad de exalumnos</div><br/>				
+                                    <div style="padding-top:5%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">Programa sociedad de exalumnos</div>				
                                     <div style="font-size:20px;color:#28AD56;">(16 de Marzo de 1992)</div><br/>
                                     Después de reunirse un grupo de ex alumnos UV, empresarios y miembros destacados de la sociedad veracruzana
                                     con la idea de crear una Asociación Civil que afianzara el vínculo entre la máxima casa de Estudiode nuestro estado
@@ -83,7 +81,7 @@
 			<li data-date="20/05/2014">				
 				<p class="contenido">	
                                     <img src="img/Toma-de-protesta-1992.png" align="left">
-                                    <div style="padding-top:8%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">1er paquete de Becas</div><br/>				
+                                    <div style="padding-top:5%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">1er paquete de Becas</div>				
                                     <div style="font-size:20px;color:#28AD56;">(16 de Marzo de 1992)</div><br/>
                                     Después de reunirse un grupo de ex alumnos UV, empresarios y miembros destacados de la sociedad veracruzana
                                     con la idea de crear una Asociación Civil que afianzara el vínculo entre la máxima casa de Estudiode nuestro estado
@@ -94,7 +92,7 @@
 			<li data-date="09/07/2014">				
 				<p class="contenido">	
                                     <img src="img/Toma-de-protesta-1992.png" align="left">
-                                    <div style="padding-top:8%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">Comienza construcción del..</div><br/>				
+                                    <div style="padding-top:5%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">Comienza construcción del..</div>				
                                     <div style="font-size:20px;color:#28AD56;">(16 de Marzo de 1992)</div><br/>
                                     Después de reunirse un grupo de ex alumnos UV, empresarios y miembros destacados de la sociedad veracruzana
                                     con la idea de crear una Asociación Civil que afianzara el vínculo entre la máxima casa de Estudiode nuestro estado
@@ -105,7 +103,7 @@
 			<li data-date="30/08/2014">				
 				<p class="contenido">	
                                     <img src="img/Toma-de-protesta-1992.png" align="left">
-                                    <div style="padding-top:8%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">Instalaciones Deportivas</div><br/>				
+                                    <div style="padding-top:5%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">Instalaciones Deportivas</div>				
                                     <div style="font-size:20px;color:#28AD56;">(16 de Marzo de 1992)</div><br/>
                                     Después de reunirse un grupo de ex alumnos UV, empresarios y miembros destacados de la sociedad veracruzana
                                     con la idea de crear una Asociación Civil que afianzara el vínculo entre la máxima casa de Estudiode nuestro estado
@@ -175,7 +173,7 @@
 	</div> <!-- .timeline -->        
 </section>
                                         </div>
-        <link rel="stylesheet" href="timeline/reset.css"> <!-- CSS reset -->
+        <!--<link rel="stylesheet" href="timeline/reset.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="timeline/style.css"> <!-- Resource style -->
         <script src="timeline/modernizr.js"></script> <!-- Modernizr -->
         <script src="timeline/jquery-2.1.4.js"></script>
