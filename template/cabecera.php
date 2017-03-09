@@ -4,10 +4,13 @@
 		<title>Fundación de la Universidad Veracruzana</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-                <link rel="stylesheet" href="http://localhost/fuvAniversario/assets/css/main.css" />                
+                <link rel="stylesheet" href="http://localhost/fuvAniversario/assets/css/main.css" />
+                <link rel="stylesheet" href="http://localhost/fuvAniversario/assets/css/slicknav.css" />                
        		<link rel="icon" type="image/png" sizes="16x16" href="http://localhost/fuvAniversario/imagenes/favicon.png">
                 <script src="http://localhost/fuvAniversario/assets/js/jquery.min.js"></script>
                 <script src="http://localhost/fuvAniversario/assets/js/funciones.js"></script>
+                <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
+                <script src="http://localhost/fuvAniversario/assets/js/jquery.slicknav.js"></script>
                 
 
 	</head>
@@ -105,13 +108,35 @@
 										</ul>
 									</li>
 									<li><a href="left-sidebar.html">C&oacute;mo apoyar</a></li>
-									<li><a href="right-sidebar.html">Egresados uv</a></li>
+									<!-- <li><a href="right-sidebar.html">Egresados uv</a></li> -->
 									<li><a href="http://localhost/fuvAniversario/blog/">Blog</a></li>
 								</ul>
 							</nav>
                                                 
                                                 
+
                                           
                                                 
 					</div>
+    <!-- Se empieza con la configuracion del nuevo menú movil dado que el anterior no se adecuaba a las necesidades 08-03-2017 by viko -->
+                                    <div>
+                                    <ul id="menu">
+                                        <li><a href="http://localhost/fuvAniversario/quienes_somos/">Qui&eacute;nes somos</a></li>
+            <li>Qu&eacute; hacemos
+                <ul>
+                    <li><a href="#">Otorgamos becas</a></li>
+                    <li><a href="#">Ofrecemos espacios para eventos</a></li>
+                    <li><a href="#">Fomentamos el deporte</a></li>
+                    <li><a href="#">Administramos instalaciones</a></li>
+                    <li><a href="#">Guiamos tus proyectos</a></li>
+                    <li><a href="#">Apoyamos programas de impacto</a></li>
+                </ul>
+            </li>
+            <li><a href="#">C&oacute;mo apoyar</a></li>
+        <!-- <li><a href="#">Egresados uv</a></li> -->
+    
+    <li><a href="http://localhost/fuvAniversario/blog/">Blog</a></li>
+    
+</ul>
+</div>
 				</div>

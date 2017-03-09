@@ -2800,10 +2800,12 @@
 			}
 
 	}
-
+.slicknav_menu {
+	display:none;
+}
 /* Mobile Only */
 
-	#navPanel, #titleBar {
+	#navPanel, #titleBar, #menu {
 		display: none;
 	}
 
@@ -2846,7 +2848,7 @@
 			}
 
 			header.style1 {
-				padding: 0 0 1em 0;
+				padding: 0 0 .5em 0;
 			}
 
 				header.style1 h2 {
@@ -2947,8 +2949,14 @@
 				transition: transform 0.5s ease;
 				padding-bottom: 1px;
 			}
+                        
+                        /*Se agrega un nuevo menú para el movil y se quita el que traia por defecto 08-03-2017 by viko*/
+                        .js .slicknav_menu {
+                            display:block ;
+                        }
+                        
 
-			#titleBar {
+			/*#titleBar {
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
@@ -3138,9 +3146,9 @@
 						bottom: -15px;
 						background-size: 100% 100%;
 					}
-
+                        /* Se cambian los padding top y bottom de 6 a 2, 08-03-2017 by viko*/
 			#header-wrapper {
-				padding: 6em 2em 6em 2em;
+				padding: 2em 2em 2em 2em;
 			}
 
 			#footer-wrapper {
