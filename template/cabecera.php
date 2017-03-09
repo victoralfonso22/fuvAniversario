@@ -28,9 +28,9 @@
 						<!-- Nav -->
 							<nav id="nav" class="container">
                                                             <ul  class="container">
-									<li class="current"><a href="http://localhost/fuvAniversario/quienes_somos/">Qui&eacute;nes somos</a></li>
-									<li>
-										<a href="">Qu&eacute; hacemos</a>
+									<li class="current"><a href="http://localhost/fuvAniversario/quienes_somos/">Qui&eacute;nes somos</a></li>                                                                        
+                                                                        <li style="display: none; padding: 0;"><a href="http://localhost/fuvAniversario/que_hacemos/">Qu&eacute; hacemos</a>
+                                                                        <li><a >Qu&eacute; hacemos</a>
                                                                                 <ul class="container centrados" >
                                                                                     <div id="divMenu" class="container" >
                                                                                         <div >

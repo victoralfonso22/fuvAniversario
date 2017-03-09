@@ -3001,9 +3001,14 @@
 						line-height: 38px;
 						text-align: center;
 						color: rgba(255, 255, 255, 0.75);
-						background-color: rgba(92, 95, 103, 0.5);
+						background-color: #28AD56;
 						border-radius: 0.25em;
 					}
+                                        
+                                        #titleBar .toggle:hover:before{
+                                            content: '\f0c9';
+                                            background-color: #223C62;
+                                        }
 
 					#titleBar .toggle:active:before {
 						background-color: rgba(92, 95, 103, 0.75);
@@ -3030,12 +3035,13 @@
 				top: 0;
 				width: 275px;
 				z-index: 10002;
-				background: #242730 url("images/overlay.png");
+				background-color: #28AD56;
 				box-shadow: inset -3px 0px 4px 0px rgba(0, 0, 0, 0.1);
 			}
 
 				#navPanel .link {
-					display: block;
+					display: none;
+                                        font-family: Open Sans Bold;
 					color: rgba(255, 255, 255, 0.5);
 					text-transform: uppercase;
 					text-decoration: none;
@@ -3049,9 +3055,13 @@
 				}
 
 					#navPanel .link:first-child {
-						border-top: 0;
+						border-top: 0;                                                
 					}
-
+                                        
+                                        #navPanel .link:nth-child(3){
+                                            display: none;
+                                        }
+                                        
 				#navPanel .indent-1 {
 					display: inline-block;
 					width: 1em;
@@ -3077,10 +3087,14 @@
 					width: 5em;
 				}
 
-				#navPanel .depth-0 {
+				#navPanel .depth-0 {  
+                                    display: block;
 					color: #fff;
 				}
-
+                                                                                               
+                                #navPanel .depth-0:hover {                                      
+					color: #223C62;
+				}
 			body.navPanel-visible #page-wrapper {
 				-moz-transform: translateX(275px);
 				-webkit-transform: translateX(275px);
