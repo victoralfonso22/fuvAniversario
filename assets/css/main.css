@@ -1633,6 +1633,7 @@
 	}
         
         #footer-wrapper2 {
+            background: url("images/back-azul.png");
             display: none;
 	}
 
@@ -2750,7 +2751,8 @@
 				margin: 3em 0 3em 0;
 			}
 
-                        #footer-wrapper2 {                                                                 
+                        #footer-wrapper2 { 
+                                background: url("images/back-azul.png");
 				display: none;
 			}
 		/* Header */
@@ -3276,7 +3278,8 @@
 				padding-top: 3em;
 			}
                         
-                        #footer-wrapper2 {     
+                        #footer-wrapper2 {    
+                                background: url("images/back-azul.png");
                                 display: block;
 				padding-top: 1em;
 			}

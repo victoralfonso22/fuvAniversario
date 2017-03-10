@@ -16,7 +16,7 @@
 									<h3>Organización y estructura</h3>
                                                                         <p><b>Órganos de gobierno</b><br />Asamblea General de Asociados</p>
                                                                         <p><b>Comités Regionales de Becas(Voluntarios)</b><br />Coatzacoalcos - Minatitlán<br />Veracruz - Boca del Río<br />Xalapa</p>
-                                                                        <p><b>Comités Regionales de Becas(Voluntarios)</b></p>
+                                                                        <p><b>Personal Directivo</b></p>
 								</section>
 							</div>
 							<div class="4u 12u(mobile)">
@@ -70,7 +70,7 @@
                                 </div>                                                                
 			</div> 
 <!-- versión móvil -->
-                        <div id="footer-wrapper2" style="background:url(../assets/css/images/back-azul.png);">										
+                        <div id="footer-wrapper2">										
                                             <!-- Highlights -->                                            					
                                             <div id="highlights" class="container" style="margin-bottom: 7%;">
                                                     <div class="row 50%">
