@@ -11,7 +11,7 @@
 </header>
     
 </div>
-<div style="background-color: #fff; margin-top:-43px;" class="container">
+<div id="contenedorBlog" class="container">
     <div id="divMenuBlog">
         <div>
             <table>

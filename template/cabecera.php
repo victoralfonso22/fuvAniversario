@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
                 <link rel="stylesheet" href="http://localhost/fuvAniversario/assets/css/main.css" />
                 <link rel="stylesheet" href="http://localhost/fuvAniversario/assets/css/slicknav.css" />                
-       		<link rel="icon" type="image/png" sizes="16x16" href="http://localhost/fuvAniversario/imagenes/favicon.png">
+                <link rel="shortcut icon" type="image/x-icon" href="http://localhost/fuvAniversario/imagenes/favicon.ico" />       		
                 <script src="http://localhost/fuvAniversario/assets/js/jquery.min.js"></script>
                 <script src="http://localhost/fuvAniversario/assets/js/funciones.js"></script>
                 <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
@@ -39,19 +39,19 @@
                                                                                         <div >
                                                                                         <table >
                                                                                         <tr><th>Otorgamos becas</th></tr>
-                                                                                        <tr><td><li type= disc><a>Formas de aportar</a></li>
-                                                                                                <li type= disc><a>Dona a becas</a></li>
-                                                                                                <li type= disc><a>Testimonios</a></li>
-                                                                                                <li type= disc><a>Convocatorias</a></li></td></tr>   
+                                                                                        <tr><td><li type= disc><a href="http://localhost/fuvAniversario/que_hacemos/becas/">Programa de becas</a></li>
+                                                                                                <li type= disc><a href="http://localhost/fuvAniversario/que_hacemos/becas/">Formas de apoyar</a></li>
+                                                                                                <!-- <li type= disc><a>Testimonios</a></li> -->
+                                                                                                <li type= disc><a href="http://localhost/fuvAniversario/que_hacemos/becas/">Convocatoria / Resultados</a></li></td></tr>   
                                                                                         </table>
                                                                                         
                                                                                         </div>
                                                                                         <div >
                                                                                     <table>
                                                                                        <tr><th>Ofrecemos espacios para eventos</th></tr>
-                                                                                        <tr><td><li type= disc><a>Tlaqn&aacute; centro cultural</a></li>
-                                                                                                <li type= disc><a>Campo de b&eacute;isbol</a></li>
-                                                                                                <li type= disc><a>Gimnacio universitario</a></li>
+                                                                                        <tr><td><li type= disc><a href="http://localhost/fuvAniversario/que_hacemos/ofrecemos/">Tlaqn&aacute; centro cultural</a></li>
+                                                                                                <li type= disc><a href="http://localhost/fuvAniversario/que_hacemos/ofrecemos/">Campo de b&eacute;isbol</a></li>
+                                                                                                <li type= disc><a href="http://localhost/fuvAniversario/que_hacemos/ofrecemos/">Gimnacio universitario</a></li>
                                                                                        </td></tr>
                                                                                          </table>
                                                                                             
@@ -60,9 +60,9 @@
                                                                                     <table>
                                                                                         <tr><th>Fomentamos el deporte</th></tr>
                                                                                         <tr><td>
-                                                                                                <li type= disc><a>Uso de canchas deportivas</a></li>
-                                                                                                <li type= disc><a>Centros de formaci&oacute;n baloncesto, soccer y americano</a></li>
-                                                                                                <li type= disc><a>Torneos deportivos</a></li>
+                                                                                                <li type= disc><a href="http://localhost/fuvAniversario/que_hacemos/fomentamos/">Uso de canchas deportivas</a></li>
+                                                                                                <li type= disc><a href="http://localhost/fuvAniversario/que_hacemos/fomentamos/">Centros de formaci&oacute;n infantil y juvenil (Baloncesto, Soccer y Americano)</a></li>
+                                                                                                <li type= disc><a href="http://localhost/fuvAniversario/que_hacemos/fomentamos/">Programa de Fútbol Americano</a></li>
                                                                                         </td></tr>
                                                                                                      </table>
                                                                                             
@@ -73,18 +73,18 @@
                                                                                         <div >
                                                                                         <table>                                                                                        
                                                                                         <tr><th>Administramos instalaciones</th></tr>
-                                                                                        <tr><td><li type= disc><a>Campus para la cultura, las artes y el deporte (campus cad)</a></li>
-                                                                                                <li type= disc><a>Campus ixtaczoquitl&aacute;n</a></li></td></tr>                                                                                        
+                                                                                        <tr><td><li type= disc><a href="http://localhost/fuvAniversario/que_hacemos/administramos/">Campus para la cultura, las artes y el deporte (campus cad)</a></li>
+                                                                                                <li type= disc><a href="http://localhost/fuvAniversario/que_hacemos/administramos/">Campus ixtaczoquitl&aacute;n</a></li></td></tr>                                                                                        
                                                                                     </table>
                                                                                         
                                                                                         </div>
                                                                                         <div >
                                                                                     <table>
                                                                                         
-                                                                                        <tr><th>Guiamos tus proyectos</th></tr>
+                                                                                        <tr><th ><li><a href="http://localhost/fuvAniversario/que_hacemos/guiamos/">Guiamos tus proyectos</a></li></th></tr>
                                                                                         <tr><td>
-                                                                                                <li type= disc><a>Gu&iacute;a para dise&ntilde;ar un proyecto</a></li>
-                                                                                                <li type= disc><a>Proceso para administrar un proyecto</a></li>                                                                                       
+                                                                                                <!-- <li type= disc><a href="http://localhost/fuvAniversario/que_hacemos/guiamos/">Gu&iacute;a para dise&ntilde;ar un proyecto</a></li>
+                                                                                                <li type= disc><a href="http://localhost/fuvAniversario/que_hacemos/guiamos/">Proceso para administrar un proyecto</a></li> -->
                                                                                             </td></tr>
                                                                                        
                                                                                     </table>
@@ -93,12 +93,13 @@
                                                                                         <div >
                                                                                     <table>
                                                                                         
-                                                                                        <tr><th>Apoyamos programas de impacto</th></tr>
+                                                                                        <tr><th>Colaboramos con otros programas</th></tr>
                                                                                         <tr><td>
-                                                                                                <li type= disc><a>Centro de atenci&oacute;n para el c&aacute;ncer</a></li>
-                                                                                                <li type= disc><a>Conservaci&oacute;n y desarrollo de &aacute;reas verdes</a></li>
-                                                                                                <li type= disc><a>Sorteo uv</a></li>
-                                                                                                <li type= disc><a>Innovaci&oacute;n y desarrollo</a></li>
+                                                                                                <li type= disc><a href="http://localhost/fuvAniversario/que_hacemos/colaboramos/">Centro de atenci&oacute;n para el c&aacute;ncer</a></li>
+                                                                                                <li type= disc><a>Capacitaci&oacute;n</a></li>
+                                                                                                <li type= disc><a href="http://localhost/fuvAniversario/que_hacemos/colaboramos/">Conservaci&oacute;n y desarrollo de &aacute;reas verdes</a></li>
+                                                                                                <li type= disc><a href="http://localhost/fuvAniversario/que_hacemos/colaboramos/">Sorteo uv</a></li>
+                                                                                                
                                                                                             </td></tr>
                                                                                     </table>
                                                                                             

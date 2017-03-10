@@ -2169,7 +2169,28 @@
                                                     display: block;			
                                                     margin: auto;
                                                     width: 82%;
-                                                }   
+                                                } 
+                                                
+                                                #divSliderNotas{
+
+                                                    height: 350px;
+                                                    margin: 0 auto !important;
+                                                    display: block !important;
+
+                                                    vertical-align:middle;
+                                                }
+                                                
+                                                #div100SliderNotas{
+                                                    height: 100%;
+                                                    width: 100%;
+                                                    
+                                                }
+
+                                                #imgSliderNotas {
+                                                    display: block;			
+                                                    margin: 0 auto;
+                                                    width: 80%;
+                                                } 
 
 
 			.dropotron {
@@ -2280,6 +2301,28 @@
                                     padding-top: .4em;
                                     padding-left: 10% !important;
 
+                                }
+                                
+                                #divMenu table th a{
+                                    -moz-transition: all .25s ease-in-out;
+                                    -webkit-transition: all .25s ease-in-out;
+                                    -ms-transition: all .25s ease-in-out;
+                                    width: 100%;
+                                     vertical-align: top !important;                             
+                                    color: #223c62 !important;
+                                    /* fuente del menú principal*/
+                                    font-family: Open Sans Bold;
+                                    /*color: rgba(255, 255, 255, 0.75);*/
+                                    text-transform: uppercase;
+                                    text-decoration: none;
+                                    font-size: 1.5em;
+                                    letter-spacing: 0.1em;               
+                                   
+                                }
+                                
+                                #divMenu table th li{
+                                    padding-top: 8px !important;            
+                                   
                                 }
 
                                 #divMenu table:hover{
@@ -2444,9 +2487,40 @@
                                 }
                                 
                                 
+                                /*Seccion para los submenus*/
+                                #contenidoSub{
+                                    font-family: Open Sans Light;
+                                    margin: 2% 5%;
+                                    text-align: justify; 
+                                    padding-bottom: 2em;
+                                }
+                                
+                                                                
+                                #contenidoSub ul{
+                                    font-family: Open Sans Light;
+                                    padding-left: 9%;
+                                    text-align: justify;
+                                }
+                                
+                                #contenidoSub table td{                                    
+                                    font-family: Open Sans Light;
+                                    padding: 1.5%;
+                                    text-align: justify;
+                                    border: 1px solid #000;
+                                }
+                                
+                                #paddinFonfo{
+                                    padding-bottom:  2em;
+                                }
+                                
                                 /*Seccion de noticias 07-03-2017 by viko*/
 
                                  /*Ajustes para el submenú*/
+                                 
+                                 #contenedorBlog{
+                                     background-color: #fff; 
+                                     margin-top:-43px;
+                                 }
                           
                                 #divMenuBlog table{
                                     -moz-transition: all .25s ease-in-out;
@@ -2854,21 +2928,60 @@
 				display: none;
 			}
 
+                        /*Se adecua para la version movil*/
 			header.style1 {
-				padding: 0 0 .5em 0;
+				padding: 0 0 -10px 0;
 			}
 
 				header.style1 h2 {
 					font-size: 1.5em;
 					letter-spacing: 0.075em;
-					line-height: 1.25em;
+					
 				}
 
 				header.style1 p {
 					display: block;
 					margin: 0;
 				}
-
+                                
+                                .bordeAbajo{
+                                     border-top: 6px solid #28ad56;
+                                    width: 25%;
+                                    margin: 0 auto;
+                                }
+                            /* Version movil del blog 09-03-2017 by viko*/    
+                          #contenedorBlog{
+                                     background-color: #fff; 
+                                     margin-top:0px;
+                                     padding-top: 2em;
+                                 }
+                                 
+                                 .tituloNoticia{
+                                    font-family: Open Sans Bold;
+                                    color : #5fa8ca !important;
+                                }
+                                
+                                .pieNoticia{
+                                    font-family: Open Sans Bold;
+                                    font-size: .8em;
+                                    color: #223C62;
+                                }
+                                
+                                .masNoticia{
+                                     font-family: Open Sans Regular;
+                                    color : #4f4f4f !important;
+                                }
+                                
+                                .botonNoticia{
+                                    padding-top: .5em !important;
+                                }
+                                
+                                .botonNoticia img:hover{
+                                    cursor: pointer;
+                                    width: 117px;
+                                    height: 36px;
+                                }
+                                 
 		/* Button */
 
 			input,
@@ -3216,8 +3329,47 @@
                             width: 100% !important;
                         }
                         
+                        #divSliderNotas{
+                            height: 110px !important;
+                            margin: 0 auto !important;
+                            display: block !important;
+                            vertical-align:middle;
+                        }
+
+                        #div100SliderNotas{
+                            height: auto;
+                            width: 100%;
+                        }
+
+                        #imgSliderNotas {
+                            display: block !important;			
+                            margin: auto !important;
+                            width: 100% !important;                            
+                        }
+                        
                         #flechasSlider,#puntosSlider{
                             display: none;
+                        }
+                        
+                        #contenidoSub{
+                            font-family: Open Sans Light;
+                            margin: 2% 5%;
+                            text-align: justify; 
+                            padding-bottom: 2em;
+                        }
+
+
+                        #contenidoSub ul{
+                            font-family: Open Sans Light;
+                            padding-left: 9%;
+                            text-align: justify;
+                        }
+
+                        #contenidoSub table td{                                    
+                            font-family: Open Sans Light;
+                            padding: 1.5%;
+                            text-align: justify;
+                            border: 1px solid #000;
                         }
 
 		/* Intro */

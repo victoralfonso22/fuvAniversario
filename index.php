@@ -43,16 +43,19 @@
             <table id="tabla">
                 <tr>
                     <td >
-                        <a target="_blank" href="https://twitter.com/FundacionUV"><img src="imagenes/accesosRapidos/action beca.png" onmouseover="this.src = 'imagenes/accesosRapidos/action beca-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action beca.png'"></a>
+                        <a target="_blank" href="https://fundacionuv.org/solicitudes/"><img src="imagenes/accesosRapidos/action beca.png" onmouseover="this.src = 'imagenes/accesosRapidos/action beca-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action beca.png'"></a>
                     </td>
                     <td >
-                        <a target="_blank" href="https://twitter.com/FundacionUV"><img src="imagenes/accesosRapidos/action proyecto.png" onmouseover="this.src = 'imagenes/accesosRapidos/action proyecto-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action proyecto.png'"></a>
+                        <a target="_blank" href="http://localhost/fuvAniversario/que_hacemos/becas/"><img src="imagenes/accesosRapidos/action proyecto.png" onmouseover="this.src = 'imagenes/accesosRapidos/action proyecto-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action proyecto.png'"></a>
                     </td>
                     <td>
-                        <a target="_blank" href="https://twitter.com/FundacionUV"><img src="imagenes/accesosRapidos/action renta.png" onmouseover="this.src = 'imagenes/accesosRapidos/action renta-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action renta.png'"></a>
+                        <a target="_blank" href="http://localhost/fuvAniversario/que_hacemos/guiamos/"><img src="imagenes/accesosRapidos/action renta.png" onmouseover="this.src = 'imagenes/accesosRapidos/action renta-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action renta.png'"></a>
                     </td>
                     <td>
-                        <a target="_blank" href="https://twitter.com/FundacionUV"><img src="imagenes/accesosRapidos/action lego.png" onmouseover="this.src = 'imagenes/accesosRapidos/action lego-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action lego.png'"></a>
+                        <a target="_blank" href="http://localhost/fuvAniversario/que_hacemos/administramos/"><img src="imagenes/accesosRapidos/action renta.png" onmouseover="this.src = 'imagenes/accesosRapidos/action renta-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action renta.png'"></a>
+                    </td>
+                    <td>
+                        <a target="_blank" href="http://localhost/fuvAniversario/que_hacemos/colaboramos/"><img src="imagenes/accesosRapidos/action lego.png" onmouseover="this.src = 'imagenes/accesosRapidos/action lego-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action lego.png'"></a>
                     </td>
                 </tr>
                 <tr>
@@ -60,10 +63,13 @@
                         Solicitar una beca
                     </td>
                     <td >
-                        Dar forma a mi proyecto
+                        Apoyar a un becario
                     </td>
+                    <td >
+                        Dar forma a mi proyecto
+                    </td>                    
                     <td>
-                        Rentar un espacio para un evento
+                        Conseguir un espacio para mi evento
                     </td>
                     <td>
                         Tomar un curso de Lego
