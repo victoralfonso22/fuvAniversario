@@ -1631,6 +1631,10 @@
 		color: #eee;
 		color: rgba(255, 255, 255, 0.5);
 	}
+        
+        #footer-wrapper2 {
+            display: none;
+	}
 
 		#footer-wrapper h1, #footer-wrapper h2, #footer-wrapper h3, #footer-wrapper h4, #footer-wrapper h5, #footer-wrapper h6, #footer-wrapper strong, #footer-wrapper b, #footer-wrapper a {
 			color: #fff;
@@ -2668,10 +2672,13 @@
 				padding-bottom: 7em;
 			}
 
-			#footer-wrapper hr {
+			#footer-wrapper {                                                                 
 				margin: 3em 0 3em 0;
 			}
 
+                        #footer-wrapper2 {                                                                 
+				display: none;
+			}
 		/* Header */
 
 			#header {
@@ -3150,15 +3157,20 @@
 			#header-wrapper {
 				padding: 2em 2em 2em 2em;
 			}
-
+                        /*ocultar pie de página, versión escritorio y visualizar versión movil*/
 			#footer-wrapper {
+                                display: none;
 				padding-top: 3em;
 			}
-
-				#footer-wrapper .feature-list section {
+                        
+                        #footer-wrapper2 {     
+                                display: block;
+				padding-top: 1em;
+			}
+				/*#footer-wrapper .feature-list section {
 					border-top-color: #eee;
 					border-top-color: rgba(255, 255, 255, 0.05);
-				}
+				}*/
 
 		/* Logo */
 

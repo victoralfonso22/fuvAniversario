@@ -1,4 +1,5 @@
-                        <div id="footer-wrapper" class="wrapper">										
+<!-- versión escritorio -->
+                        <div id="footer-wrapper" class="wrapper">
                                             <!-- Highlights -->                                            					
                                             <div id="highlights" class="container"  style="margin-bottom: -1%; margin-top: -1%">
                                                     <div class="row 50%">
@@ -67,7 +68,73 @@
 							</div>
 						</div>
                                 </div>                                                                
-			</div>  
+			</div> 
+<!-- versión móvil -->
+                        <div id="footer-wrapper2" style="background:url(../assets/css/images/back-azul.png);">										
+                                            <!-- Highlights -->                                            					
+                                            <div id="highlights" class="container" style="margin-bottom: 7%;">
+                                                    <div class="row 50%">
+							<div class="4u 12u(mobile)">
+								<section class="highlight">									
+                                                                        <h3>Contáctanos</h3>                                                                                                                                        
+								</section>
+							</div>
+							<div class="4u 12u(mobile)">
+								<section class="highlight">									
+									<h3>Organización y estructura</h3>                                                                        
+								</section>
+							</div>
+							<div class="4u 12u(mobile)">
+								<section class="highlight">									
+									<h3>Unidad de transparencia</h3>   									
+								</section>
+							</div>
+                                                        <div class="4u 12u(mobile)">
+								<section class="highlight">									
+									<h3 style="font-size:25px">Informe de labores</h3>  									
+								</section>
+							</div>
+                                                    </div>
+                                                </div>                                              
+			</div>   
+                        <div id="footer-wrapper2" style="margin-top: -10%; margin-bottom:0%;">										
+                                            <!-- Highlights -->                                            					                                             
+                                            <div id="copyright">                                  
+                                                <div class="row 2%">
+                                                        <div class="6u 12u(mobile)">
+								<!-- Contact Form -->
+									<section>										
+											<div class="row -5%">												
+												<div class="6u">													
+												</div>
+											</div>
+											<div class="row 50%">
+												<div class="12u">
+													<span style="color:black;">Todos los derechos reservados© 2017 Fundación de la Universidad Veracruzana, A.C.</span>
+												</div>
+											</div>
+											<div class="row">
+												<div class="6u">													
+												</div>
+                                                                                            <div class="6u">													
+												</div>
+											</div>										
+									</section>
+							</div>
+							<div class="6u 12u(mobile)">
+								<!-- Contact -->
+									<section class="feature-list small" style="text-decoration: none;">
+										<div class="row">
+											<div class="6u 12u(mobile)">												
+                                                                                            <span style="padding-right:10%"><img src="http://localhost/fuvAniversario/assets/css/images/logo-UV.png"/></span>
+                                                                                            <span><img src="http://localhost/fuvAniversario/assets/css/images/logo-semefi.png"/></span>
+											</div>											
+										</div>										
+									</section>
+							</div>
+						</div>
+                                </div>                                                                
+			</div> 
                 </div>
 		<!-- Scripts -->
 			<script src="http://localhost/fuvAniversario/assets/js/jquery.dropotron.min.js"></script>
