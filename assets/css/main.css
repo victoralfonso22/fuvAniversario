@@ -2491,8 +2491,8 @@
                                 /*Seccion para los submenus*/
                                 #contenidoSub{
                                     font-family: Open Sans Light;
-                                    margin: 2% 5%;
-                                    text-align: justify; 
+                                    margin: 0 5%;
+                                    text-align: left; 
                                     padding-bottom: 2em;
                                 }
                                 
@@ -2510,8 +2510,42 @@
                                     border: 1px solid #000;
                                 }
                                 
+                                .encabezadoSub img{
+                                    text-align: left;
+                                    padding-top: 2.5em;                                    
+                                    vertical-align: middle;
+                                    padding-bottom: 2.5em;
+                                }
+                                
+                                .imagen100Sub{
+                                    width: 100%;
+                                }
+                                
+                                .divSub{                                    
+                                    text-align: center;
+                                }
+                                
+                                .imagenCentradaSub{                                   
+                                    text-align: center !important;
+                                    margin: 0 auto;                                    
+                                }
+                                
+                                .imagenCentradaSub{                                   
+                                    text-align: center !important;
+                                    margin: 0 auto;
+                                    
+                                }
+                                
+                                .centraTituloImg{
+                                    padding-top: 2.8em !important;
+                                }            
+                                
                                 #paddinFonfo{
                                     padding-bottom:  2em;
+                                }
+                                
+                                .puntero{
+                                    cursor: pointer;
                                 }
                                 
                                 /*Seccion de noticias 07-03-2017 by viko*/
@@ -3356,8 +3390,8 @@
                         
                         #contenidoSub{
                             font-family: Open Sans Light;
-                            margin: 2% 5%;
-                            text-align: justify; 
+                            margin:0 5%;
+                            text-align: left; 
                             padding-bottom: 2em;
                         }
 

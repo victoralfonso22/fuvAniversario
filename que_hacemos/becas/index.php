@@ -18,13 +18,15 @@
 <div  class="container">
     <div id="contenidoSub">
     <!----------------    Texto para seccion Programa de becas     ----------------->
-    Programa de becas
+    <div class="encabezadoSub">
+        <img  src="img/encoger-icon.png">&nbsp;&nbsp;<img class="centraTituloImg" src="img/Programa-de-becas.png">
+    </div>
         
     <p>Una de las principales acciones de la Fundaci&oacute;n UV es apoyar a la comunidad estudiantil de la Universidad Veracruzana, raz&oacute;n por la que cre&oacute; un programa que otorga becas y cuya finalidad es hacer que el estudiante beneficiario:
     <ul>
         <li type= disc>No abandone sus estudios.</li>
-        <li type= disc>Logre concluir su formación profesional.</li>
-        <li type= disc>Continúe cultivando sus conocimientos.</li>
+        <li type= disc>Logre concluir su formaci&oacute;n profesional.</li>
+        <li type= disc>Contin&uacute;e cultivando sus conocimientos.</li>
         <li type= disc>Obtenga oportunidades de desarrollo, mejorando sus condiciones de vida.</li>
     </ul>
 <p>
@@ -38,69 +40,45 @@ La entrega de becas se realiza gracias a la participaci&oacute;n altruista de la
 Con la finalidad de sumar esfuerzos a esta causa social, que permitiera maximizar el beneficio a los estudiantes en las regiones del estado de Veracruz donde tiene presencia la UV, se crearon  los Comit&eacute;s Regionales de Becas, integrados por miembros voluntarios de la sociedad civil que, adem&aacute;s de coadyuvar en la procuraci&oacute;n de fondos para el programa, realizan la funci&oacute;n de Contralor&iacute;a Social, garantizando la transparencia en la selecci&oacute;n de beneficiarios y vigilando el uso, asignaci&oacute;n y rendici&oacute;n de cuentas de los recursos procurados. 
 </p>
 
-<p><i>Comit&eacute;s Regionales de Becas (Activos):</i>
+<img class="imagen100Sub" src="img/comite-regionales.png">
+<br />
+<br />
 
+<div class="divSub">
+<img class="imagenCentradaSub" src="img/boton-informe-2016.png">
+</div>
 
-<table>    
-    <tr>
-        <td>Regi&oacute;n Veracruz – Boca del R&iacute;o<br/>
-Toma de protesta:
-enero de 2011
-<br/><br/>
-Presidido por:
-Sr. Antonio Chedraui Mafud
-</td>
-        <td>Regi&oacute;n Xalapa<br/>
-Toma de protesta:
-enero 2012
-<br/><br/>
-Presidido por:
-Ing. Manuel Cienfuegos Garc&iacute;a
-</td>
-        <td>Regi&oacute;n Coatzacoalcos – Minatitl&aacute;n – Acayucan<br/>
-Reactivaci&oacute;n y Toma de protesta:
-marzo 2015
-<br/><br/>
-Presidido por:
-Lic. Jesús Salas Lizaur
-</td>
-    </tr>
-    
-</table>
-</p>
-
-<p><a href=""><i>Informe 2016 del Programa de Becas</i></a></p>
 
 <!----------------    Texto para seccion Formas de apoyar     ----------------->
 
 Formas de apoyar
-<p><i>Campañas de donativo</i></p>
+<p><i>Campa&ntilde;as de donativo</i></p>
 <table>    
-    <tr >
-        <td style="text-align: center">
+    <tr  >
+        <td style="text-align: center; width: 50%;">
             Adopta un becario
         </td>
-        <td style="text-align: center">
+        <td style="text-align: center; width: 50%;">
             Microdonativos
         </td>
     </tr>
-    <tr>
-        <td>En esta campaña, el benefactor:
+    <tr >
+        <td>En esta campa&ntilde;a, el benefactor:
             <ul>
                 <li type= disc>Participa como Padrino o Madrina de un estudiante.</li>
-                <li type= disc>Puede tener una vinculación directa con su becario(a).</li>
-                <li type= disc>Selecciona, conoce y tiene toda la información necesaria del estudiante para comunicarse y saber de primera mano sobre el estado de su desempeño académico.</li>
+                <li type= disc>Puede tener una vinculaci&oacute;n directa con su becario(a).</li>
+                <li type= disc>Selecciona, conoce y tiene toda la informaci&oacute;n necesaria del estudiante para comunicarse y saber de primera mano sobre el estado de su desempe&ntilde;o acad&eacute;mico.</li>
             </ul>
 </td>
 <td>
-            En esta campaña, el benefactor:
+            En esta campa&ntilde;a, el benefactor:
             <ul>
-                <li type= disc>Colabora para formar un fondo común que permita incrementar el número de beneficiarios de beca.</li>
+                <li type= disc>Colabora para formar un fondo com&uacute;n que permita incrementar el n&uacute;mero de beneficiarios de beca.</li>
             </ul>
 </td>
     </tr>
     <tr>
-        <td>Características del donativo:
+        <td>Caracter&iacute;sticas del donativo:
             <ul>
                 <li type= disc>$5,000.00 al semestre, en una o varias exhibiciones.</li>
                 <li type= disc>Se puede participar con aportaciones desde ¼ de beca ($1,250.00)</li>
@@ -108,9 +86,9 @@ Formas de apoyar
             </ul>
 </td>
 <td>
-            Características del donativo:
+            Caracter&iacute;sticas del donativo:
             <ul>
-                <li type= disc>$50.00 mensuales una única vez o de manera recurrente. </li>
+                <li type= disc>$50.00 mensuales una &uacute;nica vez o de manera recurrente. </li>
             </ul>
 </td>
     </tr>
@@ -118,16 +96,16 @@ Formas de apoyar
 </table>
 
 
-<p><i>Eventos anuales de procuración</i></p>
-<p>Con la finalidad de fortalecer la labor de procuración de fondos en beneficio de los estudiantes UV, se ha implementado la realización de eventos con causa, en los cuales los asistentes pueden disfrutar del programa artístico a la vez que contribuyen con nuestro Programa de Becas. </p>
-<p>Te invitamos a estar al pendiente de los próximos eventos que se llevarán a cabo.</p>
+<p><i>Eventos anuales de procuraci&oacute;n</i></p>
+<p>Con la finalidad de fortalecer la labor de procuraci&oacute;n de fondos en beneficio de los estudiantes UV, se ha implementado la realizaci&oacute;n de eventos con causa, en los cuales los asistentes pueden disfrutar del programa art&iacute;stico a la vez que contribuyen con nuestro Programa de Becas. </p>
+<p>Te invitamos a estar al pendiente de los pr&oacute;ximos eventos que se llevar&aacute;n a cabo.</p>
 
 
 <!----------------    Texto para seccion Convocatorias y resultados ----------------->
 
 Convocatorias y resultados
 <p>
-La beca que la Fundación UV otorga a estudiantes de la Universidad Veracruzana, opera la modalidad de acompañamiento, es decir que nuestros beneficiarios pueden mantenerla desde que ingresan al programa hasta que concluyen sus estudios profesionales, siempre y cuando cumplan con los requisitos y lineamientos que, en cada periodo escolar, se establecen en la Convocatoria Pública de Becas. </p>
+La beca que la Fundaci&oacute;n UV otorga a estudiantes de la Universidad Veracruzana, opera la modalidad de acompa&ntilde;amiento, es decir que nuestros beneficiarios pueden mantenerla desde que ingresan al programa hasta que concluyen sus estudios profesionales, siempre y cuando cumplan con los requisitos y lineamientos que, en cada periodo escolar, se establecen en la Convocatoria P&uacute;blica de Becas. </p>
 
 <p>La Convocatoria es abierta de forma bianual en los meses de febrero y agosto y el proceso de solicitud es como se muestra en la imagen:</p>
 
@@ -141,7 +119,7 @@ La beca que la Fundación UV otorga a estudiantes de la Universidad Veracruzana,
 
             <div class="glide__wrapper">
                 <ul class="glide__track">
-                    <li class="glide__slide"><a href="htttp://fundacionuv.org/solicitudes" target="_blank"><img id="imgSliderNotas" src="../../imagenes/carrusel-1.jpg" /></a></li>                    
+                    <li class="glide__slide"><a href="http://fundacionuv.org/solicitudes/" target="_blank"><img id="imgSliderNotas" src="../../imagenes/carrusel-1.jpg" /></a></li>                    
                 </ul>
             </div>
 
@@ -158,7 +136,7 @@ La beca que la Fundación UV otorga a estudiantes de la Universidad Veracruzana,
 </div>
 </div>
 
-<!-- Pié de página -->				
+<!-- Pi&eacute; de p&aacute;gina -->				
 <?php include('../../template/pie.php'); ?>
 <script>
     $("#Glide").glide({

@@ -11,7 +11,13 @@
                 <script src="http://localhost/fuvAniversario/assets/js/funciones.js"></script>
                 <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
                 <script src="http://localhost/fuvAniversario/assets/js/jquery.slicknav.js"></script>
-                
+                <link rel="stylesheet" href="http://localhost/fuvAniversario/assets/css/glide.core.css" />
+                <link rel="stylesheet" href="http://localhost/fuvAniversario/assets/css/glide.theme.css" />
+                <link rel="stylesheet" href="http://localhost/fuvAniversario/assets/css/least.min.css" />
+                <link rel="stylesheet" href="http://localhost/fuvAniversario/assets/css/smk-accordion.css" />
+                <script src="http://localhost/fuvAniversario/assets/js/glide.js"></script>
+                <script src="http://localhost/fuvAniversario/assets/js/least.min.js"></script>
+                <script src="http://localhost/fuvAniversario/assets/js/smk-accordion.min.js"></script>                
 
 	</head>
 	<body class="homepage">
@@ -125,12 +131,12 @@
                                         <li><a href="http://localhost/fuvAniversario/quienes_somos/">Qui&eacute;nes somos</a></li>
             <li>Qu&eacute; hacemos
                 <ul>
-                    <li><a href="#">Otorgamos becas</a></li>
-                    <li><a href="#">Ofrecemos espacios para eventos</a></li>
-                    <li><a href="#">Fomentamos el deporte</a></li>
-                    <li><a href="#">Administramos instalaciones</a></li>
-                    <li><a href="#">Guiamos tus proyectos</a></li>
-                    <li><a href="#">Apoyamos programas de impacto</a></li>
+                    <li><a href="http://localhost/fuvAniversario/que_hacemos/becas/">Otorgamos becas</a></li>
+                    <li><a href="http://localhost/fuvAniversario/que_hacemos/ofrecemos/">Ofrecemos espacios para eventos</a></li>
+                    <li><a href="http://localhost/fuvAniversario/que_hacemos/fomentamos/">Fomentamos el deporte</a></li>
+                    <li><a href="http://localhost/fuvAniversario/que_hacemos/administramos/">Administramos instalaciones</a></li>
+                    <li><a href="http://localhost/fuvAniversario/que_hacemos/guiamos/">Guiamos tus proyectos</a></li>
+                    <li><a href="http://localhost/fuvAniversario/que_hacemos/colaboramos/">Colaboramos con otros programas</a></li>
                 </ul>
             </li>
             <li><a href="#">C&oacute;mo apoyar</a></li>

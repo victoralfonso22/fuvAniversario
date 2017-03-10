@@ -11,11 +11,86 @@
 </header>
     
 </div>
+
+<div id="contenedorBlog" class="container">
 <div  class="container">
+    <div id="contenidoSub">
+    <!----------------    Texto para seccion campus CAD     ----------------->
+    o	Campus CAD Xalapa
+    <p>El Campus para la Cultura, las Artes y el Deporte fue entregado en comodato a la Fundación UV el 9 de diciembre de 1998.</p>
+    <p>Ubicado en la zona universitaria de Xalapa, es un espacio reconocido, por visitantes nacionales y extranjeros, por su belleza natural y la sana convivencia que se desarrolla en su interior.</p>
+    <p>Con 33 hectáreas de extensión y vocación multidisciplinaria es sede de la Unidad de Servicios Bibliotecarios y de Información (USBI), Tlaqná. Centro Cultural (TCC), la Unidad Deportiva Universitaria (UDU), el Gimnasio Universitario, y además de institutos y laboratorios de investigación especializada, campeonatos deportivos locales, regionales y nacionales, cursos de verano para niños y jóvenes (julio-agosto) así como conciertos y espectáculos internacionales.</p>
+    <p>Asimismo, las áreas verdes del Campus CAD Xalapa son hogar de una gran cantidad de especies animales, y con el objetivo de preservarlas y contribuir al cuidado de nuestros recursos, la Fundación UV creó en 2015 la Unidad de Manejo de Fauna. Entre las especies que están bajo la observación y cuidado de la Unidad encontramos tortugas, tlacuaches, ardillas, armadillos, mapaches, zorros, reptiles y aves, algunas de ellas migratorias, procedentes de diversas partes del mundo que bajan a descansar y alimentarse, y otras que eligen al Campus como residencia definitiva.</p>
+    
+    <ul class="least-gallery" >
+      <!-- 1th thumbnail -->
+        <li>
+            <a href="imagenes/carrusel-1.jpg" data-subtitle="Ver noticia" data-caption="Now it's possibe to add an URL-Link into caption text - <a href='http://www.google.com' target='_blank'>GOOGLE</a>" >
+              <img src="imagenes/carrusel-1.jpg" alt="Alt Image Text" />
+          </a>
+         
+        </li>
+        <li>
+            <a href="imagenes/carrusel-1.jpg" data-subtitle="Ver noticia" data-caption="Now it's possibe to add an URL-Link into caption text - <a href='http://www.google.com' target='_blank'>GOOGLE</a>" >
+              <img src="imagenes/carrusel-1.jpg" alt="Alt Image Text" />
+          </a>
+ 
+        </li>
+        <li>
+            <a href="imagenes/carrusel-1.jpg" data-subtitle="Ver noticia" data-caption="Now it's possibe to add an URL-Link into caption text - <a href='http://www.google.com' target='_blank'>GOOGLE</a>" >
+              <img src="imagenes/carrusel-1.jpg" alt="Alt Image Text" />
+          </a>
+
+        </li>
+        <li></li>
+
+    </ul>
+        
+    <p>A los animales que son encontrados por esta Unidad se les toman medidas, se determina su género y se les marca, antes de volver a liberarlos. Los ejemplares que se encuentran atrapados, lastimados o enfermos son llevados a cuarentena, rehabilitados y posteriormente liberados.  Además, para apoyar en la generación de conciencia sobre el cuidado y la preservación de las especies, la Unidad de Manejo de Fauna organiza periódicamente congresos, cursos y eventos sobre el manejo adecuado de la fauna venenosa y no venenosa. </p>
+    <crockis>
+        <p>Unidad Deportiva Universitaria (UDU) </p>    
+    <p>El Campus CAD Xalapa ofrece este espacio para todas las personas de la comunidad universitaria y el público general que busca cuidar su salud y mantenerse activo, practicando deportes al aire libre.</p>
+    <p>Cuenta con 12 canchas en las que se puede entrenar futbol soccer y americano, baloncesto, volibol, tenis, volibol playero y frontenis. Además tiene un campo de beisbol y una vitapista que es aprovechada todo el año por corredores regulares. </p>
+    <p>Cada año dentro de la UDU, la Fundación UV organiza dos torneos de futbol soccer varonil: Premier y Master, con el objetivo de ofrecer espacios para los amantes de este deporte.<br/>Además, es sede de:</p>
+    <ul>
+        <li type= disc>Campeonato Universitario Telmex-Telcel varonil. Torneo nacional de futbol soccer más importante a nivel universitario.</li>
+        <li type= disc>Liga Universitaria de Baloncesto. Torneo varonil y femenil nacional avalado por la ABE (Asociación de Basquetbol Estudiantil).</li>
+        <li type= disc>Liga varonil y femenil de Futbol Americano avalada por la ONEFA (Organización Nacional Estudiantil de Futbol Americano).</li>
+        <li type= disc>Torneo de dependencias y empresas. De registro libre, en él participan equipos formados por dependencias UV, maestros y/o estudiantes de facultades, dependencias gubernamentales o empresas de la iniciativa privada.</li>
+    </ul>
+    <p>También, es sede de los Centros de Formación Deportiva para niños y jóvenes y sus instalaciones fueron sede de algunas competencias durante los Juegos Centroamericanos y del Caribe, Veracruz 2014.</p>
+    <fotosssUDU>
+        Gimnasio Universitario
+        <p>Entregado en comodato a la Fundación UV el 2 de abril de 2004, se encuentra ubicado dentro del Campus CAD Xalapa y es conocido como “El Nido de los Halcones”.</p>
+        <p>Es un espacio deportivo primordialmente, pero su multifuncionalidad ha permitido desarrollar conciertos, bienvenidas estudiantiles, informes, entrega de reconocimientos, galas y cenas.</p>
+        <p>Se encuentra en funciones de lunes a sábado, de 7:00 a 21:00 horas y es utilizado por los estudiantes UV que cursan las materias de baloncesto, volibol y acondicionamiento físico que forman parte del Modelo Educativo Integral y Flexible (MEIF) </p>
+        <fotosGYM>
+            Tlaqná. Centro Cultural
+        <p>Este espacio cuyo nombre es un vocablo totonaco que significa El que interpreta, fue entregado en comodato a la Fundación UV para su administración, el 23 de agosto del 2013, con el objetivo de salvaguardar y mantener en óptimas condiciones las instalaciones, así como posicionar al centro cultural como un referente de alto nivel y prestigio para la realización de eventos artísticos y culturales. </p>
+        <p>Con una propuesta de diseño arquitectónico a cargo del Arq. Enrique Murillo, en Tlaqná. Centro Cultural., confluye un estricto cuidado de la estética, funcionalidad y acústica, logrado gracias al trabajo de expertos nacionales e internacionales. </p>
+        <p>Cuenta con una sala principal en formato Sala de concierto, con capacidad para más de 1,200 personas; una sala anexa en formato Teatro para 420 personas, y otra de usos múltiples próxima a inaugurarse. Además de un foro al aire libre, vestíbulo y mezzanine.</p>
+        <p>El acustólogo Larry Kierkegaard, de Kierkegaard Associates, estuvo a cargo del proyecto acústico de la Sala principal que comprendió la supervisión de cada uno de los elementos constructivos, mobiliarios y ornamentales del recinto, incluido el muro escultórico de 1000 metros cuadrados, denominado Bosque de Niebla y realizado por el artista Hiroyuki Okumura.</p>
+        <p>Este mural tuvo un proceso de creación de nueve meses y cuenta con 2,272 paneles poblados de personajes, motivos de Xalapa y paisajes aledaños, los cuales recorren ininterrumpidamente los cuatro muros perimetrales de la Sala. </p>
+        <fotosTlaqná>
+         Campus Ixtac   
+        <p>Entregado en comodato a la Fundación UV en el año 2009, se encuentra ubicado en el municipio de Ixtaczoquitlán (entre Córdoba y Orizaba). </p>
+        <p>Este espacio resguarda las instalaciones de la Unidad de Servicios Bibliotecarios y de Información (USBI) regional y la Facultad de Contaduría y Administración, y tiene una superficie total de 55 hectáreas, de las cuales 48 son administradas por la Fundación UV.</p>
+        <p>Las áreas comunes se administran en colaboración con las autoridades universitarias de la región y bajo líneas generales de operación, con el fin de impulsar el crecimiento ordenado, sustentable e integral para los siguientes años.</p>
+        <p>Dentro de él se llevan a cabo tareas de mantenimiento de equipos electromecánicos como la torre de alumbrado, la planta de tratamientos de aguas residuales, el sistema de bombeo de agua y sistema de control vehicular e iluminación en general.</p>
+        <p>En 2016, las áreas administradas por la Fundación UV dentro de este Campus fueron certificadas por la Jurisdicción Sanitaria No. 7 como espacios libres de criaderos de los mosquitos que transmiten el dengue, la chikungunya y el zika. </p>
+        <pfotosIxtac>
+    
+<div id="paddinFonfo" />
+    </div>
     
 </div>
-        
-<!-- contenido -->
+</div>
+
 
 <!-- Pié de página -->				
 <?php include('../../template/pie.php'); ?>
+<script>
+$(document).ready(function(){
+    $('.least-gallery').least();
+    });
+</script>
