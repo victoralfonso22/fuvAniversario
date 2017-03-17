@@ -156,11 +156,11 @@ Con la finalidad de sumar esfuerzos a esta causa social, que permitiera maximiza
     <img class="puntero" onclick="mostrarOcultar('formaApoyarMas','formaApoyarMenos');" style="vertical-align: middle; padding-top: .3em;" src="img/desplegar icon.png">&nbsp;&nbsp;<label>Dona a becas</label>
     </div>
 <div id="formaApoyarMas" style="display: none;">
+    <div id="divSubMenuNota">
 <div class="encabezadoSub">
     <img class="puntero" onclick="mostrarOcultar('formaApoyarMenos','formaApoyarMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Dona a becas</label>
     </div>
-Formas de apoyar
-<p><i>Campa&ntilde;as de donativo</i></p>
+<p class="h3subMenu">Campa&ntilde;as de donativo</p>
 <table>    
     <tr  >
         <td style="text-align: center; width: 50%;">
@@ -202,14 +202,61 @@ Formas de apoyar
     </tr>
     
 </table>
+<p>Nota: En ambas campañas el benefactor elige el número de periodos y de pagos con los que desea participar en el programa.</p>
 
-
-<p><i>Eventos anuales de procuraci&oacute;n</i></p>
+<a href="../../dona/">Dona ahora</a>
+<br />
+<br />
+<p class="h3subMenu">Eventos anuales de procuraci&oacute;n</p>
+<div class="div1Notas">
 <p>Con la finalidad de fortalecer la labor de procuraci&oacute;n de fondos en beneficio de los estudiantes UV, se ha implementado la realizaci&oacute;n de eventos con causa, en los cuales los asistentes pueden disfrutar del programa art&iacute;stico a la vez que contribuyen con nuestro Programa de Becas. </p>
 <p>Te invitamos a estar al pendiente de los pr&oacute;ximos eventos que se llevar&aacute;n a cabo.</p>
+</div>
+<div class="div2Notas" style=" text-align: right !important; padding-top: 10px; padding-bottom: 20px;">
+    <div>
+        <a data-fancybox="gallery" href="img/cata/IMG_20141017_212604.jpg">
+            <img src="img/cata/IMG_20141017_212604.jpg">
+                </a>
 
+        <a data-fancybox="gallery" href="img/cata/IMG_20141017_213637.jpg">
+                    <img src="img/cata/IMG_20141017_213637.jpg">
+                </a>
+            </div>
+            <div>
+                <a data-fancybox="gallery" href="img/cata/IMG_20141017_214604.jpg">
+                    <img src="img/cata/IMG_20141017_214604.jpg">
+                </a>
+                <a data-fancybox="gallery" href="img/conciertos/DSC03663.jpg">
+                    <img src="img/conciertos/DSC03663.jpg">
+                </a>
+            </div>
+    <div>
+        <a data-fancybox="gallery" href="img/conciertos/DSC03665.jpg">
+                    <img src="img/conciertos/DSC03665.jpg">
+                </a>
+        <a data-fancybox="gallery" href="img/conciertos/DSC03683.jpg">
+                    <img src="img/conciertos/DSC03683.jpg">
+                </a>
+            </div>
+    <div>
+        <a data-fancybox="gallery" href="img/conciertos/DSC03729.jpg">
+                    <img src="img/conciertos/DSC03729.jpg">
+                </a>
+        <a data-fancybox="gallery" href="img/conciertos/z4.jpg">
+                    <img src="img/conciertos/z4.jpg">
+                </a>
+            </div>
+    <div>
+        <a data-fancybox="gallery" href="img/conciertos/z6.jpg">
+            <img src="img/conciertos/z6.jpg">
+                </a>
+  
+            </div>
+    
+</div>
 
 </div>
+    </div>
 <div class="separadorSubmenu" />
 
 <!----------------    Texto para seccion Convocatorias y resultados ----------------->

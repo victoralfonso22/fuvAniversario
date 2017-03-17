@@ -180,7 +180,7 @@ if($_GET['tipo'] == 1){
     </div>
     <div id="gimMas" style="display: none">
     <div id="divSubMenuNota">
-        <div class="div1">
+        <div class="div1Notas">
     <div class="encabezadoSub">
         <img class="puntero" onclick="mostrarOcultar('gimMenos','gimMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Gimnasio Universitario</label>
     </div>
@@ -197,12 +197,28 @@ if($_GET['tipo'] == 1){
                 
             </ul>
     <p>Consulta la disponibilidad de este espacio llamando al (228) 842 17 00 ext. 11034 o al (228) 117 94 96</p>
-    
+    </div>
+    <div class="div2Notas" style=" text-align: right !important;">
+            <div>
+                <a data-fancybox="gallery" href="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(103).jpg">
+                    <img src="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(103).jpg">
+                </a>
+
+                <a data-fancybox="gallery" href="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(110).jpg">
+                    <img src="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(110).jpg">
+                </a>
+            </div>
+            <div>
+                <a data-fancybox="gallery" href="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(95).jpg">
+                    <img src="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(95).jpg">
+                </a>
+            </div>
+        </div>
     
     <div id="paddinFonfo" />
     </div>  
     
-    </div>
+    
       
 </div>
 

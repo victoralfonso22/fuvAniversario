@@ -54,7 +54,7 @@ if($_GET['tipo'] == 1){
     </div>
     <div id="centroMas" style="display: none">
     <div id="divSubMenuNota">
-        <div class="div1">
+       
     <div class="encabezadoSub">
         <img class="puntero" onclick="mostrarOcultar('centroMenos','centroMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Centro de Atención para el Cáncer</label>
     </div>   
@@ -65,8 +65,7 @@ if($_GET['tipo'] == 1){
             <p>Como primera etapa se ofrecerá el servicio de radioterapia y a mediano plazo se incluirá la aplicación de quimioterapias para los pacientes que lo requieran.</p>
             
             
-            
-            </div>
+           
 </div>
 
 </div>
@@ -80,7 +79,7 @@ if($_GET['tipo'] == 1){
     </div>
     <div id="capacitaMas" style="display: none">
     <div id="divSubMenuNota">
-        <div class="div1">
+        
     <div class="encabezadoSub">
         <img class="puntero" onclick="mostrarOcultar('capacitaMenos','capacitaMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Capacitación</label>
     </div>   
@@ -91,7 +90,7 @@ if($_GET['tipo'] == 1){
            <p>La Fundación UV ofrece el taller Crea e innova con LEGO© Serious Play®, dirigido a los que quieren pensar y trabajar de forma diferente. En cinco horas el participante desarrollará y potencializará su capacidad creativa y de innovación, la cual podrá aplicar en el ámbito en el que se desarrolla, ya sea el escolar o el laboral.</p>
            <p>Este taller es posible tomarlo en las instalaciones de la Universidad Veracruzana de las distintas regiones en el estado de Veracruz. Si quieres más conocer más información, envía un correo a: capacitacion1@fundacionuv.org o marca a los teléfonos (228) 841 38 71 y 818 41 34.</p>
          
-       </div>
+      
 </div>
 
 </div>
@@ -106,17 +105,14 @@ if($_GET['tipo'] == 1){
     </div>
     <div id="conservaMas" style="display: none">
     <div id="divSubMenuNota">
-        <div class="div1">
+        
     <div class="encabezadoSub">
         <img class="puntero" onclick="mostrarOcultar('conservaMenos','conservaMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Conservación y desarrollo de áreas verdes</label>
     </div>   
            <p>Es un programa que procura el resguardo del entorno universitario, creado por el Mtro. Francisco Arredondo, y bajo la coordinación conjunta de la Dirección de Proyectos, Construcciones y Mantenimiento de la Universidad Veracruzana y la Fundación UV.</p>
            <p>Este programa resguarda un total de 90  hectáreas (ha), ubicadas en el Campus CAD Xalapa y el Campus Ixtac, y da atención a actividades de restauración y reposición ecológica, arbolamientos, muestras botánicas y jardinerías; manejo integral de los lagos y cuerpos de agua; aprovechamiento del agua del subsuelo (pozo profundo) y del agua pluvial para uso racional (productivo y riego); además de encargarse de diseñar proyectos de ambientación paisajista y de redes hidráulicas, elaborar programas para el registro florístico, la siembra y la adquisición de materiales o herramientas.</p>
            
-           
-           
-           
-           </div>
+          
 </div>
 
 </div>
@@ -129,7 +125,7 @@ if($_GET['tipo'] == 1){
     </div>
     <div id="sorteoMas" style="display: none">
     <div id="divSubMenuNota">
-        <div class="div1">
+        
     <div class="encabezadoSub">
         <img class="puntero" onclick="mostrarOcultar('sorteoMenos','sorteoMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Sorteos UV</label>
     </div>   
@@ -140,7 +136,7 @@ if($_GET['tipo'] == 1){
            <p>Si quieres más detalles y conocer información sobre la edición en curso, entra a <a target="_blank" href="http://www.sorteosuv.org.mx">www.sorteosuv.org.mx</a></p>
            <div id="paddinFonfo" />
     </div>   
-        </div>
+        
 </div>    
 </div>
         
