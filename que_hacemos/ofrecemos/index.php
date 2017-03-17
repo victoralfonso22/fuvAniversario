@@ -1,7 +1,34 @@
 
 <!-- Header -->
 <?php include('../../template/cabecera.php'); ?>
-
+<?php
+    if(isset($_GET['tipo'])){
+if($_GET['tipo'] == 1){
+    echo "<script>$(document).ready(function() {
+    $('#tlaqMenos').hide();
+    $('#tlaqMas').show();
+    $('html,body').animate({
+    scrollTop: $('#tlaqMas').offset().top
+    }, 1000);
+});</script>";
+}else if ($_GET['tipo'] == 2){
+    echo "<script>$(document).ready(function() {
+    $('#beisMenos').hide();
+    $('#beisMas').show();
+    $('html,body').animate({
+    scrollTop: $('#beisMas').offset().top
+    }, 1000);
+});</script>";
+}else if ($_GET['tipo'] == 3){
+    echo "<script>$(document).ready(function() {
+    $('#gimMenos').hide();
+    $('#gimMas').show();
+    $('html,body').animate({
+    scrollTop: $('#gimMas').offset().top
+    }, 1000);
+});</script>";
+}
+}?>
 
 <div class="container">
 <header class="style1">
@@ -16,7 +43,16 @@
     <div id="contenidoSub">
     <!----------------    Texto para seccion Programa de becas     ----------------->
     <p>Tú puedes apoyar el mantenimiento de los programas que ofrece la Fundación UV a través de la renta de alguno de nuestros espacios para tus eventos musicales, proyectos culturales, deportivos o académicos. Conócelos y elige el que se adapte mejor a tus necesidades.</p>
-    o	Tlaqná. Centro Cultural. 
+    <div id="tlaqMenos" class="encabezadoSub">
+        <img class="puntero" onclick="mostrarOcultar('tlaqMas','tlaqMenos');" style="vertical-align: middle; padding-top: .3em;" src="img/desplegar icon.png">&nbsp;&nbsp;<label>Tlaqná. Centro Cultural</label>
+    </div>
+    <div id="tlaqMas" style="display: none">
+    <div id="divSubMenuNota">
+        
+    <div class="encabezadoSub">
+        <img class="puntero" onclick="mostrarOcultar('tlaqMenos','tlaqMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Tlaqná. Centro Cultural</label>
+    </div>
+            <div class="div1Notas">
     <ul>
         <li type= disc>Sala principal
             <ul>
@@ -43,7 +79,33 @@
             </ul>
         
         </li>
-        <fotosSala>
+        </div>
+        <div class="div2Notas" style=" text-align: right ; padding-top: 10px;" >
+                <div style="padding-left: 0 !important;">
+                <a data-fancybox="gallery" href="img/tlaqna/DJI_0134-Editar.jpg">
+                    <img src="img/tlaqna/DJI_0134-Editar.jpg">
+                </a>
+
+                <a data-fancybox="gallery" href="img/tlaqna/DJI_0214-Editar.jpg">
+                    <img src="img/tlaqna/DJI_0214-Editar.jpg">
+                </a>
+            </div>
+                <div style="padding-left: 0 !important;">
+                    <a data-fancybox="gallery" href="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(30).jpg">
+                        <img src="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(30).jpg">
+                </a>
+
+                    <a data-fancybox="gallery" href="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(5).jpg">
+                        <img src="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(5).jpg">
+                </a>
+            </div>
+                <div style="padding-left: 0 !important;">
+                    <a data-fancybox="gallery" href="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(56).jpg">
+                        <img src="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(56).jpg">
+                </a>
+
+            </div>
+            </div>
          <li type= disc>Sala anexa
          <ul>
                 <li type= disc>Capacidad para 420 espectadores en formato Teatro (dos niveles).</li>
@@ -75,7 +137,22 @@
     </ul>
     <p>Solicita más información sobre este espacio llamando al (228) 817 13 43</p>
     
-    o	Campo de Béisbol
+</div>
+
+</div>
+
+<div class="separadorSubmenu">
+    
+</div>
+   <div id="beisMenos" class="encabezadoSub">
+        <img class="puntero" onclick="mostrarOcultar('beisMas','beisMenos');" style="vertical-align: middle; padding-top: .3em;" src="img/desplegar icon.png">&nbsp;&nbsp;<label>Campo de Béisbol</label>
+    </div>
+    <div id="beisMas" style="display: none">
+    <div id="divSubMenuNota">
+        <div class="div1">
+    <div class="encabezadoSub">
+        <img class="puntero" onclick="mostrarOcultar('beisMenos','beisMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Campo de Béisbol</label>
+    </div>
     
     <ul>
                 <li type= disc>Capacidad hasta para 12,000 personas en un evento masivo (considerando campo y gradas).</li>
@@ -90,7 +167,23 @@
     <p>Consulta la disponibilidad de este espacio llamando al (228) 842 17 00 ext. 11034 o al (228) 117 94 96</p>
     
     
-    o	Gimnasio Universitario  
+    </div>
+</div>
+
+</div>
+
+<div class="separadorSubmenu">
+    
+</div>
+    <div id="gimMenos" class="encabezadoSub">
+        <img class="puntero" onclick="mostrarOcultar('gimMas','gimMenos');" style="vertical-align: middle; padding-top: .3em;" src="img/desplegar icon.png">&nbsp;&nbsp;<label>Gimnasio Universitario</label>
+    </div>
+    <div id="gimMas" style="display: none">
+    <div id="divSubMenuNota">
+        <div class="div1">
+    <div class="encabezadoSub">
+        <img class="puntero" onclick="mostrarOcultar('gimMenos','gimMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Gimnasio Universitario</label>
+    </div>
     <ul>
                 <li type= disc>Capacidad máxima para 3,000 personas (incluidas gradas retráctiles y sillería sobre la duela de baloncesto). </li>
                 <li type= disc>Camerinos cercanos al escenario.</li>
@@ -105,13 +198,22 @@
             </ul>
     <p>Consulta la disponibilidad de este espacio llamando al (228) 842 17 00 ext. 11034 o al (228) 117 94 96</p>
     
-    <p>Si estás interesado en cualquiera de estos espacios, revisa los <a>requisitos para apartarlo.</a></p>
-    <p>* Estos recintos y sus espacios no están disponibles para actividades religiosas o políticas.</p>
+    
     <div id="paddinFonfo" />
     </div>  
     
+    </div>
+      
+</div>
+
+</div>
+    
+      <p>Si estás interesado en cualquiera de estos espacios, revisa los <a target="_blank" href="pdf/Uso de Instalaciones para Eventos Masivos.pdf">requisitos para apartarlo.</a></p>
+    <p>* Estos recintos y sus espacios no están disponibles para actividades religiosas o políticas.</p>
+    
 </div>
 </div>
+    </div>
         
 <!-- contenido -->
 

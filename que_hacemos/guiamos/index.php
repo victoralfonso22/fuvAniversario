@@ -28,8 +28,8 @@ En los casos de éxito que la Fundación UV ha promovido, se logró la mezcla ex
         
         <p>Formatos descargables</p>
         <ul>
-                <li type= disc><a>Elabora tu ficha de proyecto.</a></li>
-                <li type= disc><a>Solicitud de administración de recursos.</a></li>
+            <li type= disc><a target="_blank" href="file/Elabora tu Ficha de Proyecto (2017).pdf">Elabora tu ficha de proyecto.</a></li>
+            <li type= disc><a href="file/Solicitud de Administración de Recursos.doc">Solicitud de administración de recursos.</a></li>
                 
                 
             </ul>
@@ -39,6 +39,6 @@ En los casos de éxito que la Fundación UV ha promovido, se logró la mezcla ex
     
 </div>
 </div>
-
+</div>
 <!-- Pié de página -->				
 <?php include('../../template/pie.php'); ?>

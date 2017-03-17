@@ -2139,14 +2139,25 @@
 							-ms-transition: all .25s ease-in-out;
 							transition: all .25s ease-in-out;
 							outline: 0;
+                                                        
 						}
+                                                
+                                                #nav > ul > li > span {
+                                                    cursor: default;
+                                                }
 
 						#nav > ul > li:hover > a {
 							color: #223C62;
 						}
+                                                
+                                                #nav > ul > li:hover > span {
+							color: #223C62;
+                                                        cursor: default;
+						}
 
 						#nav > ul > li.active > a, #nav > ul > li.active > span {
 							color: #223C62;
+                                                        cursor: default;
 						}
                                                 
                                              /*Implementacion del slider para version de escritorio y tableta By viko 01-03-2017*/   
@@ -2182,18 +2193,28 @@
                                                 }
                                                 
                                                 #div100SliderNotas{
-                                                    height: 100%;
+                                                    height: auto;
                                                     width: 100%;
-                                                    
+                                                }
+                                                
+                                                
+                                                
+                                                #divSliderNotasBoton{
+
+                                                    height: 150px;
+                                                    margin: 0 auto !important;
+                                                    display: block !important;
+
+                                                    vertical-align:middle;
                                                 }
 
                                                 #imgSliderNotas {
                                                     display: block;			
                                                     margin: 0 auto;
-                                                    width: 80%;
-                                                } 
-
-
+                                                    width: 100%;
+                                                }
+                                                
+    
 			.dropotron {
 				background: #28ad56;
 				/*background-color: rgba(44, 50, 63, 0.925);*/
@@ -2204,6 +2225,7 @@
 				text-align: center;
 				margin-top: -1.25em;
 				margin-left: -1px;
+                                cursor: default;
 			}
 
 				.dropotron.level-0 {
@@ -2490,31 +2512,101 @@
                                 
                                 /*Seccion para los submenus*/
                                 #contenidoSub{
-                                    font-family: Open Sans Light;
+                                    font-family: Open Sans Regular !important;
                                     margin: 0 5%;
                                     text-align: left; 
                                     padding-bottom: 2em;
+                                    color: #4f4f4f;
+                                    padding-top: 2em;
                                 }
                                 
-                                                                
-                                #contenidoSub ul{
-                                    font-family: Open Sans Light;
+                                #divSubMenuNota div{
+                                    display: inline-block;
+                                    border-radius: 0.35em !important;
+                                    
+                                    height: 100%;
+                                    vertical-align: top;
+                                }
+                                
+                                .div1{
+                                    width: 68%;
+                                }
+
+                                .div2{
+                                    width: 28%;
+                                }
+                                
+                                .div1Notas{
+                                    width: 45%;
+                                }
+
+                                .div2Notas{
+                                    width: 51%;
+                                    padding-top: 8%;
+                                }
+                                
+                                .div2Notas div img{
+                                    text-align: right;
+                                    width: 220px;
+                                    height: 130px;
+                                }
+                                
+                                .div2Notas div a{
+                                    text-decoration: none;
+                                }
+                                
+                                
+                                
+                                #contenidoSub h3{
+                                    font-family: Open Sans Regular !important;
+                                    text-align: left;                                               
+                                    font-size: 20px;
+                                    color: #4f4f4f;                                    
+                                }
+                                
+                                .separadorSubmenu{
+                                    padding-top: .3em;
+                                    border-top: 2px solid #00D1B6;
+                                    width: 100%;
+                                }
+
+                                #contenidoSub ul{                                    
                                     padding-left: 9%;
-                                    text-align: justify;
+                                    text-align: left;
                                 }
                                 
-                                #contenidoSub table td{                                    
-                                    font-family: Open Sans Light;
+                                #contenidoSub .div2Notas div{                                    
+                                    padding-left: 9%;
+                                    text-align: left;
+                                    border: 0;
+                                }
+                                
+                                #contenidoSub table td{                                                                        
                                     padding: 1.5%;
                                     text-align: justify;
                                     border: 1px solid #000;
                                 }
                                 
-                                .encabezadoSub img{
+                                .encabezadoSub {
                                     text-align: left;
+                                    width: 100%;
                                     padding-top: 2.5em;                                    
-                                    vertical-align: middle;
-                                    padding-bottom: 2.5em;
+                                    vertical-align: middle !important;
+                                    padding-bottom: 2.5em;                                    
+                                }
+                                
+                                .encabezadoSub label{
+                                    font-family: Open Sans Light;
+                                    font-size: 40px;
+                                    color: #02D1B6;
+                                    vertical-align:middle;                        
+                                    
+                                }
+                                
+                                .encabezadoSub h3{
+                                    color: #00D1B6;
+                                    font-family: Open Sans Light;
+                                    font-size: 25px;
                                 }
                                 
                                 .imagen100Sub{
@@ -2523,6 +2615,7 @@
                                 
                                 .divSub{                                    
                                     text-align: center;
+                                    padding: 0;
                                 }
                                 
                                 .imagenCentradaSub{                                   
@@ -2537,15 +2630,29 @@
                                 }
                                 
                                 .centraTituloImg{
-                                    padding-top: 2.8em !important;
+                                    padding-top: 2.5em !important;
                                 }            
                                 
                                 #paddinFonfo{
                                     padding-bottom:  2em;
                                 }
                                 
+                                #paddinFonfoBecas{
+                                    padding-bottom:  500px;
+                                }
+                                
                                 .puntero{
                                     cursor: pointer;
+                                }
+                                
+                                .responsiveFormula{
+                                    height: 1850px;
+                                }
+                                
+                                .h3subMenu{
+                                    color: #5fa8ca;
+                                    font-family: Open Sans Bold;
+                                    font-size: 20px;
                                 }
                                 
                                 /*Seccion de noticias 07-03-2017 by viko*/
@@ -2900,6 +3007,15 @@
                                     padding: 0 !important;
 
                                 }        
+                                
+                                #imgSliderNotas {
+                                                    display: block;			
+                                                    margin: 0 auto;
+                                                    width: 100%;
+                                                    height: 100%;
+                                                }
+                                                
+                                 
 		/* Intro */
 
 			#intro > .style1 {
@@ -2922,12 +3038,12 @@
 }
 /* Mobile Only */
 
-	#navPanel, #titleBar, #menu {
+	#navPanel, #titleBar, #menu, #fechaPrincipalMovil, #tlaqnaMovil {
 		display: none;
 	}
 
 	@media screen and (max-width: 736px) {
-            #tablaNoticiasHome{
+            #tablaNoticiasHome, #mainRapido{
                 display: none;
             }
 
@@ -3323,6 +3439,31 @@
 				}*/
 
 		/* Logo */
+                        
+                #logoPrincipal{
+                    text-align: center;
+                }
+                
+                #fechaPrincipalMovil{
+                    display: block;
+                }
+                
+                #fechaPrincipalMovil{
+                             position: relative;
+                             padding-top: 1em;                              
+                             padding-bottom: 1em;
+                             
+                             margin: 0 auto !important;
+                             width: 100%;
+                             z-index: 2;                           
+                             vertical-align: middle !important;                            
+                             text-align: center !important;
+                             
+                        }
+                        
+                        #fechaPrincipalMovil img{
+                            vertical-align: middle !important;
+                        }
 
 			#logo {
 				text-align: center;
@@ -3342,9 +3483,43 @@
 
 		/* Nav */
 
-			#nav {
-				display: none;
+			#nav, #fotoBeca, #fechaPrincipal, #tlaqnaDesk {
+				display: none !important;
 			}
+                        
+                        #tlaqnaMovil{
+                            display: block !important;
+                        }
+                        
+                        #divSubMenuNota div{
+                                    display: inline-block;
+                                    border-radius: 0.35em !important;
+                                    height: 100%;
+                                    vertical-align: top;
+                        }
+                        
+                        .div1{
+                            width: 100%;
+                        }
+                        
+                        .div2{
+                            width: 100%;
+                        }
+                        
+                        .encabezadoSub {
+                                    text-align: left;
+                                    width: 100%;
+                                    padding-top: 1em;                                    
+                                    vertical-align: middle !important;
+                                    padding-bottom: 1.5em;                                    
+                                }
+                                
+                        .encabezadoSub label{
+                            font-family: Open Sans Light;
+                            font-size: 19px;
+                            color: #02D1B6;
+                            vertical-align:middle;
+                        }
                         
                         /*Implementacion del slider para version mobil By viko 01-03-2017*/ 
                         #divSlider{    
@@ -3382,6 +3557,7 @@
                             display: block !important;			
                             margin: auto !important;
                             width: 100% !important;                            
+                            padding: 0 !important;
                         }
                         
                         #flechasSlider,#puntosSlider{
@@ -3389,26 +3565,66 @@
                         }
                         
                         #contenidoSub{
-                            font-family: Open Sans Light;
+                            font-family: Open Sans Regular !important;
                             margin:0 5%;
                             text-align: left; 
                             padding-bottom: 2em;
+                            color: #4f4f4f;
                         }
 
 
                         #contenidoSub ul{
-                            font-family: Open Sans Light;
+                            font-family: Open Sans Regular;
                             padding-left: 9%;
-                            text-align: justify;
+                            text-align: left;
                         }
 
                         #contenidoSub table td{                                    
-                            font-family: Open Sans Light;
+                            font-family: Open Sans Regular;
                             padding: 1.5%;
                             text-align: justify;
                             border: 1px solid #000;
                         }
-
+                        
+                        #contenidoSub h3{
+                                    font-family: Open Sans Regular !important;
+                                    text-align: left;                                               
+                                    font-size: 20px;
+                                    color: #4f4f4f;                                    
+                                }
+                                
+                                .responsiveFormula{
+                                    min-height: 100%;
+                                    padding-bottom: auto;
+                                }
+                                
+                                .div2Notas div img{
+                                    text-align: center;
+                                    width: 220px;
+                                    height: 130px;
+                                }
+                                
+                                .div2Notas div a{
+                                    text-decoration: none;
+                                }
+                                
+                                #contenidoSub .div2Notas div{                                    
+                                    padding: 1% 1%;
+                                    text-align: left;
+                                    border: 0;
+                                    width: 100%;
+                                }
+                                
+                                .h3subMenu{
+                                    color: #5fa8ca;
+                                    font-family: Open Sans Bold;
+                                    font-size: 18px;
+                                }
+                                
+                                #paddinFonfoBecas{
+                                    padding-bottom:  6.5em;
+                                }
+                                
 		/* Intro */
 
 			#intro {
