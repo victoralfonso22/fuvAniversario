@@ -27,27 +27,28 @@
                                                                                                     ● Administramos y gestionamos proyectos.<br/>
                                                                                                     ● Fomentamos la práctica del deporte, la cultura y la recreación.
                                                                                                 </p>
-                                                                                                <br/><h3 style="margin-left:-9%">Misión, visión y filosofía organizacional</h3>
-												<p><b>Misión:</b> Somos una Asociación Civil sin fines de lucro que orienta necesidades sociales y productivas hacia el talento y experiencia  de la comunidad UV  para beneficio de la sociedad.<br/><br/>
+                                                                                                <br/>
+												<p><span style="font-family:Open Sans Bold; color: #5FA8CA; font-size: 19px;">Misión, visión y filosofía organizacional</span><br/><b>Misión:</b> Somos una Asociación Civil sin fines de lucro que orienta necesidades sociales y productivas hacia el talento y experiencia  de la comunidad UV  para beneficio de la sociedad.<br/><br/>
                                                                                                 <b>Visión:</b> Ser la institución veracruzana con mayor índice de participación e impacto social debido a un ejercicio constante de procuración de recursos diversos.</p>
-                                                                                                <br><h3 style="margin-left:-60%">Principio</h3>
-												<p><b>“Siempre Universitarios”</b><br>Retomamos el espíritu universitario para que sea principio de nuestras acciones. 
+                                                                                                <br>
+												<p><span style="font-family:Open Sans Bold; color: #5FA8CA; font-size: 19px;">Principio</span><br/><b>“Siempre Universitarios”</b><br>Retomamos el espíritu universitario para que sea principio de nuestras acciones. 
                                                                                                  Identificamos el carácter de la Fundación con la experiencia universitaria, enriquecida al mostrar esperanza frente a los cambios y curiosidad e innovación para responder ante ellos.</p>
 
 										</div>
 										<div class="6u 12u(mobile)">                                                                                                
                                                                                                 <p>Como en la vida de un estudiante nos descubrimos en facetas deportivas, recreativas, culturales y sociales; valoramos el contacto con personas de distinta procedencia, intereses y estamos atentos al consejo de los más experimentados. Reconocemos la gran valía de la autonomía. Vivimos con entusiasmo lo que hacemos, perseverantes ante los retos, con sentido de comunidad y solidaridad abanderando el trabajo en equipo. 
                                                                                                 <b>Siempre universitarios</b> refleja la responsable apertura al cambio y el espíritu que el universitario construye en su paso por la universidad.</p>
-                                                                                                <br/><h3 style="margin-left:-60%">Valores</h3>
-												<p style="padding-left:5%">● Honorabilidad
+                                                                                                <br/>
+												<p><span style="font-family:Open Sans Bold; color: #5FA8CA; font-size: 19px;">Valores</span><br/>
+                                                                                                   ● Honorabilidad<br>
                                                                                                    ● Transparencia<br>
                                                                                                    ● Efectividad<br>
-                                                                                                   ● Ámbitos de impacto<br>
+                                                                                                   ● Ámbitos de impacto<br><div style="padding-left:20%">
                                                                                                         ● Económico<br>
                                                                                                         ● Social<br>
                                                                                                         ● Deportivo<br>
                                                                                                         ● Sostenible<br>
-                                                                                                        ● Cultural
+                                                                                                        ● Cultural</div>
                                                                                                 </p>
 
 										</div>
