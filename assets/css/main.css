@@ -1095,7 +1095,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		/*font-weight: 700;*/
-		color: #345399;
+		color: #5FA8CA;
                 font-family: Open Sans Light;
                 text-align: center;
 	}
@@ -1496,7 +1496,7 @@
 /* Feature List */
 
 	.feature-list h3 {
-		color: #37acae !important;
+		color: #5FA8CA !important;
                 font-weight: bold;
 	}
 

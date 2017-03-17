@@ -3,7 +3,7 @@
 								
 					<div id="main" class="container">
                                                 <header class="style1">
-                                                    <h2>Quienes somos</h2>
+                                                    <h2>Quiénes somos</h2>
                                                     <div class="bordeAbajo"/>
                                                 </header>
 						<!-- Image -->
@@ -14,25 +14,41 @@
 						<!-- Features -->
 							<section id="features">								
 								<div class="feature-list">
-									<div class="row" style="margin-left:-10%; text-align: justify">
+									<div class="row" style="margin-left:-11%; text-align: justify">
                                                                             <div class="6u 12u(mobile)">
 
-                                                                                                <h3 style="margin-left:-40%">Qué es y que hace</h3>
-												<p>En 1992, un grupo de ex alumnos UV, empresarios empresarios y miembros destacados de la sociedad veracruzana
-                                                                                                se unieron para crear una Asociación Civil que afianzara el vínculo entre la Universidad Veracruzana y los diversos sectores de la sociedad</p>
-                                                                                                <br/><h3 style="margin-left:-60%">Misión</h3>
-												<p>En 1992, un grupo de ex alumnos UV, empresarios empresarios y miembros destacados de la sociedad veracruzana
-                                                                                                se unieron para crear una Asociación Civil que afianzara el vínculo entre la Universidad Veracruzana y los diversos sectores de la sociedad</p>
+                                                                                                <!--<h3 style="margin-left:-40%">Qué es y que hace</h3>-->
+												<p>Somos una Asociación Civil conformada por un grupo de ex alumnos UV, empresarios y miembros destacados de la sociedad veracruzana que, en 1992, 
+                                                                                                se unieron buscando estrechar el vínculo entre la Universidad Veracruzana y los diversos sectores de la sociedad.<br/><br/>Hasta el día de hoy:
+                                                                                                </p>
+                                                                                                <p style="padding-left:5%">
+                                                                                                    ● Promovemos oportunidades para los estudiantes.<br>
+                                                                                                    ● Administramos instalaciones en tres de las cinco regiones UV, promoviendo su utilización eficiente. <br/>
+                                                                                                    ● Administramos y gestionamos proyectos.<br/>
+                                                                                                    ● Fomentamos la práctica del deporte, la cultura y la recreación.
+                                                                                                </p>
+                                                                                                <br/><h3 style="margin-left:-9%">Misión, visión y filosofía organizacional</h3>
+												<p><b>Misión:</b> Somos una Asociación Civil sin fines de lucro que orienta necesidades sociales y productivas hacia el talento y experiencia  de la comunidad UV  para beneficio de la sociedad.<br/><br/>
+                                                                                                <b>Visión:</b> Ser la institución veracruzana con mayor índice de participación e impacto social debido a un ejercicio constante de procuración de recursos diversos.</p>
+                                                                                                <br><h3 style="margin-left:-60%">Principio</h3>
+												<p><b>“Siempre Universitarios”</b><br>Retomamos el espíritu universitario para que sea principio de nuestras acciones. 
+                                                                                                 Identificamos el carácter de la Fundación con la experiencia universitaria, enriquecida al mostrar esperanza frente a los cambios y curiosidad e innovación para responder ante ellos.</p>
 
 										</div>
-										<div class="6u 12u(mobile)">
-
-                                                                                                <h3 style="margin-left:-60%">Visión</h3>
-												<p>En 1992, un grupo de ex alumnos UV, empresarios empresarios y miembros destacados de la sociedad veracruzana
-                                                                                                se unieron para crear una Asociación Civil que afianzara el vínculo entre la Universidad Veracruzana y los diversos sectores de la sociedad</p>
+										<div class="6u 12u(mobile)">                                                                                                
+                                                                                                <p>Como en la vida de un estudiante nos descubrimos en facetas deportivas, recreativas, culturales y sociales; valoramos el contacto con personas de distinta procedencia, intereses y estamos atentos al consejo de los más experimentados. Reconocemos la gran valía de la autonomía. Vivimos con entusiasmo lo que hacemos, perseverantes ante los retos, con sentido de comunidad y solidaridad abanderando el trabajo en equipo. 
+                                                                                                <b>Siempre universitarios</b> refleja la responsable apertura al cambio y el espíritu que el universitario construye en su paso por la universidad.</p>
                                                                                                 <br/><h3 style="margin-left:-60%">Valores</h3>
-												<p>En 1992, un grupo de ex alumnos UV, empresarios empresarios y miembros destacados de la sociedad veracruzana
-                                                                                                se unieron para crear una Asociación Civil que afianzara el vínculo entre la Universidad Veracruzana y los diversos sectores de la sociedad</p>
+												<p style="padding-left:5%">● Honorabilidad
+                                                                                                   ● Transparencia<br>
+                                                                                                   ● Efectividad<br>
+                                                                                                   ● Ámbitos de impacto<br>
+                                                                                                        ● Económico<br>
+                                                                                                        ● Social<br>
+                                                                                                        ● Deportivo<br>
+                                                                                                        ● Sostenible<br>
+                                                                                                        ● Cultural
+                                                                                                </p>
 
 										</div>
 									</div>									
@@ -45,123 +61,214 @@
 <section class="cd-horizontal-timeline" style="background: white;">	
         <div class="events-content" style="background: url(img/back-azul.png) repeat;">
 		<ol>
-			<li class="selected" data-date="16/01/2014">                                 				
+			<li class="selected" data-date="01/03/1992">                                 				
                                 <p class="contenido">	
-                                    <img src="img/Toma-de-protesta-1992.png" align="left" />
-                                    <div style="padding-top:5%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">Nace la Fundación UV</div>			
-                                    <div style="font-size:20px;color:#28AD56;">(16 de Marzo de 1992)</div><br/>
-                                    Después de reunirse un grupo de ex alumnos UV, empresarios y miembros destacados de la sociedad veracruzana
-                                    con la idea de crear una Asociación Civil que afianzara el vínculo entre la máxima casa de Estudiode nuestro estado
-                                    y la sociedad, queda legalmente constituida la Fundación de la Universidad Veracruzana.</div>
+                                    <img src="img/evento1.png">                                    
 				</p>
 			</li>
 
-			<li data-date="28/02/2014">				
+			<li data-date="09/03/1992">				
 				<p class="contenido">	
-                                    <img src="img/Toma-de-protesta-1992.png" align="left">
-                                    <div style="padding-top:5%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">Primer sorteo de la FUV</div>				
-                                    <div style="font-size:20px;color:#28AD56;">(16 de Marzo de 1992)</div><br/>
-                                    Después de reunirse un grupo de ex alumnos UV, empresarios y miembros destacados de la sociedad veracruzana
-                                    con la idea de crear una Asociación Civil que afianzara el vínculo entre la máxima casa de Estudiode nuestro estado
-                                    y la sociedad, queda legalmente constituida la Fundación de la Universidad Veracruzana.</div>
+                                    <img src="img/evento2.png">                                    
 				</p>
 			</li>
 
-			<li data-date="20/04/2014">				
+                        <li data-date="28/05/1992">				
 				<p class="contenido">	
-                                    <img src="img/Toma-de-protesta-1992.png" align="left">
-                                    <div style="padding-top:5%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">Programa sociedad de exalumnos</div>				
-                                    <div style="font-size:20px;color:#28AD56;">(16 de Marzo de 1992)</div><br/>
-                                    Después de reunirse un grupo de ex alumnos UV, empresarios y miembros destacados de la sociedad veracruzana
-                                    con la idea de crear una Asociación Civil que afianzara el vínculo entre la máxima casa de Estudiode nuestro estado
-                                    y la sociedad, queda legalmente constituida la Fundación de la Universidad Veracruzana.</div>
+                                    <img src="img/evento2.png">                                    
 				</p>
 			</li>
 
-			<li data-date="20/05/2014">				
+			<li data-date="01/10/1992">				
 				<p class="contenido">	
-                                    <img src="img/Toma-de-protesta-1992.png" align="left">
-                                    <div style="padding-top:5%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">1er paquete de Becas</div>				
-                                    <div style="font-size:20px;color:#28AD56;">(16 de Marzo de 1992)</div><br/>
-                                    Después de reunirse un grupo de ex alumnos UV, empresarios y miembros destacados de la sociedad veracruzana
-                                    con la idea de crear una Asociación Civil que afianzara el vínculo entre la máxima casa de Estudiode nuestro estado
-                                    y la sociedad, queda legalmente constituida la Fundación de la Universidad Veracruzana.</div>
+                                    <img src="img/evento2.png">                                    
 				</p>
 			</li>
 
-			<li data-date="09/07/2014">				
+			<li data-date="01/11/1992">				
 				<p class="contenido">	
-                                    <img src="img/Toma-de-protesta-1992.png" align="left">
-                                    <div style="padding-top:5%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">Comienza construcción del..</div>				
-                                    <div style="font-size:20px;color:#28AD56;">(16 de Marzo de 1992)</div><br/>
-                                    Después de reunirse un grupo de ex alumnos UV, empresarios y miembros destacados de la sociedad veracruzana
-                                    con la idea de crear una Asociación Civil que afianzara el vínculo entre la máxima casa de Estudiode nuestro estado
-                                    y la sociedad, queda legalmente constituida la Fundación de la Universidad Veracruzana.</div>
+                                    <img src="img/evento2.png">                                    
 				</p>
 			</li>
 
-			<li data-date="30/08/2014">				
+			<li data-date="06/12/1997">				
 				<p class="contenido">	
-                                    <img src="img/Toma-de-protesta-1992.png" align="left">
-                                    <div style="padding-top:5%;color:white;text-align:justify;"><div style="font-size:25px; font-weight:bold;">Instalaciones Deportivas</div>				
-                                    <div style="font-size:20px;color:#28AD56;">(16 de Marzo de 1992)</div><br/>
-                                    Después de reunirse un grupo de ex alumnos UV, empresarios y miembros destacados de la sociedad veracruzana
-                                    con la idea de crear una Asociación Civil que afianzara el vínculo entre la máxima casa de Estudiode nuestro estado
-                                    y la sociedad, queda legalmente constituida la Fundación de la Universidad Veracruzana.</div>
+                                    <img src="img/evento2.png">                                    
 				</p>
 			</li>
 
-			<li data-date="15/09/2014">				
-				<em>September 15th, 2014</em>
-				<p>	
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+                        <li data-date="04/10/1998">				
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
 				</p>
 			</li>
 
-			<li data-date="01/11/2014">				
-				<em>November 1st, 2014</em>
-				<p>	
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+			<li data-date="19/11/1998">				
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
 				</p>
 			</li>
 
-			<li data-date="10/12/2014">				
-				<em>December 10th, 2014</em>
-				<p>	
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+			<li data-date="09/10/2001">				
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
 				</p>
 			</li>
 
-			<li data-date="19/01/2015">				
-				<em>January 19th, 2015</em>
-				<p>	
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+			<li data-date="01/01/2002">				
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
 				</p>
 			</li>
 
-			<li data-date="03/03/2015">				
-				<em>March 3rd, 2015</em>
-				<p>	
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+			<li data-date="26/04/2002">				
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+			<li data-date="11/04/2003">				
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+			<li data-date="01/04/2004">				
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="01/01/2005">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="01/01/2006">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="10/02/2006">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="16/03/2006">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="04/12/2006">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="16/03/2007">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="01/07/2007">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="01/10/2008">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="01/01/2009">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="01/03/2009">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="19/10/2010">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="01/01/2012">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="08/08/2012">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="01/08/2013">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="13/02/2014">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="01/01/2017">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
 				</p>
 			</li>
 		</ol>
 	</div> <!-- .events-content -->
-        <div class="timeline" style="margin-top: -1%">
+        <div class="timeline" style="margin-top: -1%;">
 		<div class="events-wrapper">
-			<div class="events">
-				<ol>
-					<li><a href="#0" data-date="16/01/2014" class="selected">Nace la Fundación UV</a></li>
-                                        <li><a href="#0" data-date="28/02/2014">Primer sorteo de la FUV</a></li>
-					<li><a href="#0" data-date="20/04/2014">Programa sociedad<br>de exalumnos</a></li>
-					<li><a href="#0" data-date="20/05/2014">1er paquete<br>de Becas</a></li>
-					<li><a href="#0" data-date="09/07/2014">Comienza<br>construcción del..</a></li>
-					<li><a href="#0" data-date="30/08/2014">Instalaciones<br>Deportivas</a></li>
-					<li><a href="#0" data-date="15/09/2014">15 Sep</a></li>
-					<li><a href="#0" data-date="01/11/2014">01 Nov</a></li>
-					<li><a href="#0" data-date="10/12/2014">10 Dec</a></li>
-					<li><a href="#0" data-date="19/01/2015">29 Jan</a></li>
-					<li><a href="#0" data-date="03/03/2015">3 Mar</a></li>
+                    <div class="events">
+                        <ol>
+					<li><a href="#0" data-date="01/03/1992" class="selected">1</a></li>
+                                        <li><a href="#0" data-date="09/03/1992">2</a></li>
+					<li><a href="#0" data-date="28/05/1992">3</a></li>
+					<li><a href="#0" data-date="01/10/1992">4</a></li>
+					<li><a href="#0" data-date="01/11/1992">5</a></li>
+					<li><a href="#0" data-date="06/12/1997">6</a></li>
+					<li><a href="#0" data-date="04/10/1998">7</a></li>
+					<li><a href="#0" data-date="19/11/1998">8</a></li>
+					<li><a href="#0" data-date="09/10/2001">9</a></li>
+					<li><a href="#0" data-date="01/01/2002">10</a></li>
+					<li><a href="#0" data-date="26/04/2002">11</a></li>
+                                        <li><a href="#0" data-date="11/04/2003">12</a></li>
+                                        <li><a href="#0" data-date="01/04/2004">13</a></li>
+                                        <li><a href="#0" data-date="01/01/2005">14</a></li>
+                                        <li><a href="#0" data-date="01/01/2006">15</a></li>
+                                        <li><a href="#0" data-date="10/02/2006">16</a></li>
+                                        <li><a href="#0" data-date="16/03/2006">17</a></li>
+                                        <li><a href="#0" data-date="04/12/2006">18</a></li>
+                                        <li><a href="#0" data-date="16/03/2007">19</a></li>
+                                        <li><a href="#0" data-date="01/07/2007">20</a></li>
+                                        <li><a href="#0" data-date="01/10/2008">21</a></li>
+                                        <li><a href="#0" data-date="01/01/2009">22</a></li>
+                                        <li><a href="#0" data-date="01/03/2009">23</a></li>
+                                        <li><a href="#0" data-date="19/10/2010">24</a></li>
+                                        <li><a href="#0" data-date="01/01/2012">25</a></li>
+                                        <li><a href="#0" data-date="08/08/2012">26</a></li>
+                                        <li><a href="#0" data-date="01/08/2013">27</a></li>
+                                        <li><a href="#0" data-date="13/02/2014">28</a></li>
+                                        <li><a href="#0" data-date="01/01/2017">29</a></li>
 				</ol>
 				<span class="filling-line" aria-hidden="true"></span>
 			</div> <!-- .events -->
@@ -176,10 +283,10 @@
         <!--<link rel="stylesheet" href="timeline/reset.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="timeline/style.css"> <!-- Resource style -->
         <script src="timeline/modernizr.js"></script> <!-- Modernizr -->
-        <script src="timeline/jquery-2.1.4.js"></script>
+        <!--<script src="timeline/jquery-2.1.4.js"></script>-->
         <script src="timeline/jquery.mobile.custom.min.js"></script>
         <script src="timeline/main.js"></script> <!-- Resource jQuery -->
-        <script>
+        <!--<script>
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
             m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -194,6 +301,6 @@
   			$('#carbonads-container').hide();
   		});
             });
-        </script>
+        </script>-->
 			<!-- Pié de página -->				
 <?php include('../template/pie.php'); ?>

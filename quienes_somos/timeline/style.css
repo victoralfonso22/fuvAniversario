@@ -182,7 +182,7 @@ xcarbonads
 #carbonads-container .ui8ad .carbon-wrap a:hover, .no-touch
 #ui8ads-container .carbonad .carbon-wrap a:hover, .no-touch
 #ui8ads-container .ui8ad .carbon-wrap a:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 #carbonads-container .carbonad .carbonad-tag,
 #carbonads-container .carbonad .carbon-poweredby,
@@ -237,7 +237,7 @@ Main Components
 -------------------------------- */
 .cd-horizontal-timeline {
   opacity: 0;
-  margin: 2em auto;
+  margin: 5em auto;
   -webkit-transition: opacity 0.2s;
   -moz-transition: opacity 0.2s;
   transition: opacity 0.2s;
@@ -254,8 +254,8 @@ Main Components
 .cd-horizontal-timeline .timeline {
   position: relative;
   height: 100px;
-  width: 90%;
-  max-width: 800px;
+  width: 100%;
+  max-width: 980px;
   margin: 0 auto;
 }
 .cd-horizontal-timeline .events-wrapper {
@@ -284,7 +284,7 @@ Main Components
   background-image: linear-gradient(to left, #f8f8f8, rgba(248, 248, 248, 0));*/
 }
 .cd-horizontal-timeline .events {
-  /* this is the grey line/timeline */
+  /* línea del tiempo - donde van las fechas */
   position: absolute;
   z-index: 1;
   left: 0;
@@ -297,7 +297,7 @@ Main Components
   transition: transform 0.4s;
 }
 .cd-horizontal-timeline .filling-line {
-  /* this is used to create the green line filling the timeline */
+  /* línea que llena hacia el evento */
   position: absolute;
   z-index: 1;
   left: 0;
@@ -319,13 +319,14 @@ Main Components
   -moz-transition: -moz-transform 0.3s;
   transition: transform 0.3s;
 }
-.cd-horizontal-timeline .events a {
+.cd-horizontal-timeline .events a { /*texto en la línea del tiempo*/
   position: absolute;
   bottom: 0;
   z-index: 2;
   text-align: center;
-  font-size: 1.3rem;
+  font-size: 1rem;
   padding-bottom: 15px;
+  text-decoration: none;
   color: #003cb3;
   /* fix bug on Safari - text flickering while timeline translates */
   -webkit-transform: translateZ(0);
@@ -371,7 +372,7 @@ Main Components
 }
 @media only screen and (min-width: 1100px) {
   .cd-horizontal-timeline {
-    margin: 6em auto;
+    margin: 1em auto;
   }
   .cd-horizontal-timeline::before {
     /* never visible - this is used in jQuery to check the current MQ */
@@ -380,7 +381,7 @@ Main Components
 }
 
 .cd-timeline-navigation a {
-  /* these are the left/right arrows to navigate the timeline */
+  /* flechas línea del tiempo */
   position: absolute;
   z-index: 1;
   top: 50%;
@@ -500,8 +501,8 @@ Main Components
   -moz-animation-direction: reverse;
   animation-direction: reverse;
 }
-.cd-horizontal-timeline .events-content li > * {
-  max-width: 800px;
+.cd-horizontal-timeline .events-content li > * { /*marco o contenedor para el evento (imagen) seleccionado*/
+  max-width: 960px;
   margin: 0 auto;
 }
 .cd-horizontal-timeline .events-content h2 {
@@ -523,12 +524,12 @@ Main Components
 .cd-horizontal-timeline .events-content p {
   font-size: 1.4rem;
   color: #fff;
-  padding-bottom: 1em;
+  /*padding-bottom: -2em;*/
 }
 .cd-horizontal-timeline .events-content em, .cd-horizontal-timeline .events-content p {
   line-height: 1.6;  
 }
-@media only screen and (min-width: 768px) {
+@media screen and (min-width: 736px) {    
   .cd-horizontal-timeline .events-content h2 {
     font-size: 3rem;
     color: white;

@@ -20,7 +20,7 @@
 		var settings = $.extend({
 			animation:  true,
 			showIcon:   true,
-			closeAble:  false,
+			closeAble:  true,
 			closeOther: true,
 			slideSpeed: 150,
 			activeIndex: false

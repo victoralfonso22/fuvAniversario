@@ -10,14 +10,14 @@
     <!-- Accordion begin -->
     <div class="accordion_example1">		
         <!-- Section 1 -->
-	<div class="accordion_in">
+	<div class="accordion_in acc_active">
 		<div class="acc_head">Órganos de gobierno</div>
 		<div class="acc_content">
 			<!-- Your text here. For this demo, the content is generated automatically. -->
 		</div>
 	</div>
 	<!-- Section 2 -->
-	<div class="accordion_in  acc_active">
+	<div class="accordion_in">
 		<div class="acc_head">Comités Regionales de Becas(Voluntarios)</div>
 		<div class="acc_content">
 				<!-- Your text here. For this demo, the content is generated automatically. -->
