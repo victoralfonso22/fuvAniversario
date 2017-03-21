@@ -212,7 +212,7 @@ Con la finalidad de sumar esfuerzos a esta causa social, que permitiera maximiza
 <p>Con la finalidad de fortalecer la labor de procuraci&oacute;n de fondos en beneficio de los estudiantes UV, se ha implementado la realizaci&oacute;n de eventos con causa, en los cuales los asistentes pueden disfrutar del programa art&iacute;stico a la vez que contribuyen con nuestro Programa de Becas. </p>
 <p>Te invitamos a estar al pendiente de los pr&oacute;ximos eventos que se llevar&aacute;n a cabo.</p>
 </div>
-<div class="div2Notas" style=" text-align: right !important; padding-top: 10px; padding-bottom: 20px;">
+<div class="div2Notas" style=" padding-top: 10px; padding-bottom: 20px;">
     <div>
         <a data-fancybox="gallery" href="img/cata/IMG_20141017_212604.jpg">
             <img src="img/cata/IMG_20141017_212604.jpg">

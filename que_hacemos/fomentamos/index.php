@@ -94,7 +94,7 @@ if($_GET['tipo'] == 1){
         </ul>
         
         </div>
-        <div class="div2Notas" style=" text-align: right !important;">
+        <div class="div2Notas" >
             
                         <div>
                         <a data-fancybox="gallery" href="img/HAL_7158.jpg">

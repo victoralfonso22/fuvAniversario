@@ -198,7 +198,7 @@ if($_GET['tipo'] == 1){
             </ul>
     <p>Consulta la disponibilidad de este espacio llamando al (228) 842 17 00 ext. 11034 o al (228) 117 94 96</p>
     </div>
-    <div class="div2Notas" style=" text-align: right !important;">
+    <div class="div2Notas" >
             <div>
                 <a data-fancybox="gallery" href="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(103).jpg">
                     <img src="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(103).jpg">

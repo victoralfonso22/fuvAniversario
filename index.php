@@ -43,19 +43,19 @@
             <table id="tabla">
                 <tr>
                     <td >
-                        <a target="_blank" href="https://fundacionuv.org/solicitudes/"><img src="imagenes/accesosRapidos/action beca.png" onmouseover="this.src = 'imagenes/accesosRapidos/action beca-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action beca.png'"></a>
+                        <a href="https://fundacionuv.org/solicitudes/"><img src="imagenes/accesosRapidos/action beca.png" onmouseover="this.src = 'imagenes/accesosRapidos/action beca-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action beca.png'"></a>
                     </td>
                     <td >
-                        <a target="_blank" href="http://localhost/fuvAniversario/que_hacemos/becas/"><img src="imagenes/accesosRapidos/action-Apoyar-a-un-becario.png" onmouseover="this.src = 'imagenes/accesosRapidos/action-Apoyar-a-un-becario-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action-Apoyar-a-un-becario.png'"></a>
+                        <a href="http://localhost/fuvAniversario/que_hacemos/becas/"><img src="imagenes/accesosRapidos/action-Apoyar-a-un-becario.png" onmouseover="this.src = 'imagenes/accesosRapidos/action-Apoyar-a-un-becario-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action-Apoyar-a-un-becario.png'"></a>
                     </td>
                     <td>
-                        <a target="_blank" href="http://localhost/fuvAniversario/que_hacemos/guiamos/"><img src="imagenes/accesosRapidos/action proyecto.png" onmouseover="this.src = 'imagenes/accesosRapidos/action proyecto-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action proyecto.png'"></a>
+                        <a href="http://localhost/fuvAniversario/que_hacemos/guiamos/"><img src="imagenes/accesosRapidos/action proyecto.png" onmouseover="this.src = 'imagenes/accesosRapidos/action proyecto-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action proyecto.png'"></a>
                     </td>
                     <td>
-                        <a target="_blank" href="http://localhost/fuvAniversario/que_hacemos/administramos/"><img src="imagenes/accesosRapidos/action renta.png" onmouseover="this.src = 'imagenes/accesosRapidos/action renta-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action renta.png'"></a>
+                        <a href="http://localhost/fuvAniversario/que_hacemos/ofrecemos/"><img src="imagenes/accesosRapidos/action renta.png" onmouseover="this.src = 'imagenes/accesosRapidos/action renta-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action renta.png'"></a>
                     </td>
                     <td>
-                        <a target="_blank" href="http://localhost/fuvAniversario/que_hacemos/colaboramos/"><img src="imagenes/accesosRapidos/action lego.png" onmouseover="this.src = 'imagenes/accesosRapidos/action lego-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action lego.png'"></a>
+                        <a href="http://localhost/fuvAniversario/que_hacemos/colaboramos/"><img src="imagenes/accesosRapidos/action lego.png" onmouseover="this.src = 'imagenes/accesosRapidos/action lego-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action lego.png'"></a>
                     </td>
                 </tr>
                 <tr>
@@ -109,24 +109,83 @@
     <div id="tablaNoticiasHome" >
         <table id="tablaNoticias">
             <tr>
-                <td rowspan="2" colspan="2"><a href="imagenes/carrusel-1.jpg" data-subtitle="Ver noticia"  >
-                    <img class="imagenPrincipalNoticia"  src="imagenes/carrusel-1.jpg" alt="Alt Image Text" /></a></td>
-                <td ><a href="imagenes/carrusel-1.jpg" data-subtitle="Ver noticia"  >
-              <img  src="imagenes/carrusel-1.jpg" alt="Alt Image Text" /></a></td>
+                <td rowspan="2" colspan="2">
+                <div class="contenedor-img example2">
+                    <img class="imagenPrincipalNoticia"  src="imagenes/carrusel-1.jpg" />
+                    <div class="mascara">
+                    <div class="contenido">
+                        <h2>Prueba de mas noticia con mascara</h2>
+                             <p>Comunicación UV, Marzo 21 de 2017</p>
+                        
+                        </div>
+                        </div>
+                </td>
+                <td >
+                    <div class="contenedor-img example2">
+                    <img  src="imagenes/carrusel-1.jpg" />
+                    <div class="mascara">
+                           <div class="contenido">
+                              <h2>Prueba de mas noticia con mascara</h2>
+                             <p>Comunicación UV, Marzo 21 de 2017</p>
+                           </div> 
+                    </div>
+                    </div>
+                  
+              </td>
                 
             </tr>
             <tr>
                 
-                <td ><a href="imagenes/carrusel-1.jpg" data-subtitle="Ver noticia"  >
-              <img  src="imagenes/carrusel-1.jpg" alt="Alt Image Text" /></a></td>         
+                <td >
+                    <div class="contenedor-img example2">
+                    <img  src="imagenes/carrusel-1.jpg" />
+                    <div class="mascara">
+                           <div class="contenido">
+                              <h2>Prueba de mas noticia con mascara</h2>
+                             <p>Comunicación UV, Marzo 21 de 2017</p>
+                           </div> 
+                    </div>
+                    </div>
+                  
+              </td>       
             </tr>
             <tr>
-                <td ><a href="imagenes/carrusel-1.jpg" data-subtitle="Ver noticia"  >
-              <img  src="imagenes/carrusel-1.jpg" alt="Alt Image Text" /></a></td>
-                <td ><a href="imagenes/carrusel-1.jpg" data-subtitle="Ver noticia"  >
-              <img  src="imagenes/carrusel-1.jpg" alt="Alt Image Text" /></a></td>
-                <td ><a href="imagenes/carrusel-1.jpg" data-subtitle="Ver noticia"  >
-              <img  src="imagenes/carrusel-1.jpg" alt="Alt Image Text" /></a></td>
+                <td >
+                    <div class="contenedor-img example2">
+                    <img  src="imagenes/carrusel-1.jpg" />
+                    <div class="mascara">
+                           <div class="contenido">
+                              <h2>Prueba de mas noticia con mascara</h2>
+                             <p>Comunicación UV, Marzo 21 de 2017</p>
+                           </div> 
+                    </div>
+                    </div>
+                  
+              </td>
+               <td >
+                    <div class="contenedor-img example2">
+                    <img  src="imagenes/carrusel-1.jpg" />
+                    <div class="mascara">
+                           <div class="contenido">
+                           <h2>Prueba de mas noticia con mascara</h2>
+                             <p>Comunicación UV, Marzo 21 de 2017</p>
+                           </div> 
+                    </div>
+                    </div>
+                  
+              </td>
+               <td >
+                    <div class="contenedor-img example2">
+                    <img  src="imagenes/carrusel-1.jpg" />
+                    <div class="mascara">
+                           <div class="contenido">
+                              <h2>Prueba de mas noticia con mascara</h2>
+                             <p>Comunicación UV, Marzo 21 de 2017</p>
+                           </div> 
+                    </div>
+                    </div>
+                  
+              </td>
             </tr>
             <tr><td colspan="3"><br/></td></tr>
             <tr><td colspan="3" style="text-align: right"><input class="botonNoticas" type="button" value="M&aacute;s noticias"/></td></tr>

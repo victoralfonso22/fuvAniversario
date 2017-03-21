@@ -115,7 +115,7 @@ if($_GET['tipo'] == 1){
         <p>Es un espacio deportivo primordialmente, pero su multifuncionalidad ha permitido desarrollar conciertos, bienvenidas estudiantiles, informes, entrega de reconocimientos, galas y cenas.</p>
         <p>Se encuentra en funciones de lunes a sábado, de 7:00 a 21:00 horas y es utilizado por los estudiantes UV que cursan las materias de baloncesto, volibol y acondicionamiento físico que forman parte del Modelo Educativo Integral y Flexible (MEIF) </p>
         </div>
-        <div class="div2Notas" style=" text-align: right !important; padding-top: 10px;">
+        <div class="div2Notas" style=" padding-top: 10px;">
             <div>
                 <a data-fancybox="gallery" href="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(103).jpg">
                     <img src="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(103).jpg">
