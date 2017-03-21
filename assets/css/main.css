@@ -1636,6 +1636,10 @@
             background: url("images/back-azul.png");
             display: none;
 	}
+        
+        #donabecas2 {            
+            display: none;
+	}
 
 		#footer-wrapper h1, #footer-wrapper h2, #footer-wrapper h3, #footer-wrapper h4, #footer-wrapper h5, #footer-wrapper h6, #footer-wrapper strong, #footer-wrapper b, #footer-wrapper a {
 			color: #fff;
@@ -2896,6 +2900,10 @@
                                 background: url("images/back-azul.png");
 				display: none;
 			}
+                        
+                        #donabecas2 {            
+                           display: none;
+                        }
 		/* Header */
 
 			#header {
@@ -3433,6 +3441,14 @@
                                 display: block;
 				padding-top: 1em;
 			}
+                        
+                        #donabecas {            
+                            display: none;
+                        }
+                        
+                        #donabecas2 {            
+                           display: block;
+                        }
 				/*#footer-wrapper .feature-list section {
 					border-top-color: #eee;
 					border-top-color: rgba(255, 255, 255, 0.05);
