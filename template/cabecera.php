@@ -27,14 +27,18 @@
                                     <div class="container">
                                         <div  id="logoPrincipal"><a href="http://localhost/fuvAniversario/"><img src="http://localhost/fuvAniversario/imagenes/principales/logo.png"></a></div>
                                     <div id="fechaPrincipal" ><label><?PHP setlocale(LC_ALL,"es_ES");
-                                            echo strftime("%A %d de %B de %Y");
+                                            echo ucwords(strftime("%A %d"))
+                                                    . " de ".ucwords(strftime("%B"))
+                                                    . " de ".strftime("%Y");                                            
                                             ?></label>&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://www.facebook.com/FundacionUV.AC/"><img src="http://localhost/fuvAniversario/assets/css/images/face.png" onmouseover="this.src='http://localhost/fuvAniversario/assets/css/images/face-hover.png'" onmouseout="this.src='http://localhost/fuvAniversario/assets/css/images/face.png'"></a>
                                             &nbsp;&nbsp;<a target="_blank" href="https://twitter.com/FundacionUV"><img src="http://localhost/fuvAniversario/assets/css/images/twett.png" onmouseover="this.src='http://localhost/fuvAniversario/assets/css/images/twett-hover.png'" onmouseout="this.src='http://localhost/fuvAniversario/assets/css/images/twett.png'"></a>
                                     &nbsp;&nbsp;<a target="_blank" href="https://www.youtube.com/channel/UCxrRKzpGarDUDO6qlSqiU2g"><img src="http://localhost/fuvAniversario/assets/css/images/yout.png" onmouseover="this.src='http://localhost/fuvAniversario/assets/css/images/yout-hover.png'" onmouseout="this.src='http://localhost/fuvAniversario/assets/css/images/yout.png'"></a>
                                     </div>
                                         
                                         <div id="fechaPrincipalMovil" ><label><?PHP setlocale(LC_ALL,"es_ES");
-                                            echo strftime("%A %d de %B de %Y");
+                                            echo ucwords(strftime("%A %d"))
+                                                    . " de ".ucwords(strftime("%B"))
+                                                    . " de ".strftime("%Y");  
                                             ?></label><br /><a target="_blank" href="https://www.facebook.com/FundacionUV.AC/"><img src="http://localhost/fuvAniversario/assets/css/images/face.png" onmouseover="this.src='http://localhost/fuvAniversario/assets/css/images/face-hover.png'" onmouseout="this.src='http://localhost/fuvAniversario/assets/css/images/face.png'"></a>
                                             &nbsp;&nbsp;<a target="_blank" href="https://twitter.com/FundacionUV"><img src="http://localhost/fuvAniversario/assets/css/images/twett.png" onmouseover="this.src='http://localhost/fuvAniversario/assets/css/images/twett-hover.png'" onmouseout="this.src='http://localhost/fuvAniversario/assets/css/images/twett.png'"></a>
                                     &nbsp;&nbsp;<a target="_blank" href="https://www.youtube.com/channel/UCxrRKzpGarDUDO6qlSqiU2g"><img src="http://localhost/fuvAniversario/assets/css/images/yout.png" onmouseover="this.src='http://localhost/fuvAniversario/assets/css/images/yout-hover.png'" onmouseout="this.src='http://localhost/fuvAniversario/assets/css/images/yout.png'"></a>
@@ -73,7 +77,7 @@
                                                                                     <table>
                                                                                         <tr><th><li><a href="http://localhost/fuvAniversario/que_hacemos/fomentamos/">Fomentamos el deporte</a></li></th></tr>
                                                                                         <tr><td>
-                                                                                                <li type= disc><a href="http://localhost/fuvAniversario/que_hacemos/fomentamos/?tipo=1">Uso de canchas deportivas</a></li>
+                                                                                                <li type= disc><a href="http://localhost/fuvAniversario/que_hacemos/fomentamos/?tipo=1">Uso de instalaciones deportivas</a></li>
                                                                                                 <li type= disc><a href="http://localhost/fuvAniversario/que_hacemos/fomentamos/?tipo=2">Centros de formaci&oacute;n infantil y juvenil (Baloncesto, Soccer y Americano)</a></li>
                                                                                                 <li type= disc><a href="http://localhost/fuvAniversario/que_hacemos/fomentamos/?tipo=3">Programa de Fútbol Americano</a></li>
                                                                                         </td></tr>

@@ -40,6 +40,21 @@ if($_GET['tipo'] == 1){
 </div>
 <div id="contenedorBlog" class="container">
 <div  class="container">
+    
+    <div id="div100SliderNotas" class="container">
+        <div id="divSliderNotas" >                            
+            <div id="Glide" class="glide">
+            
+            <div class="glide__wrapper">
+                <ul class="glide__track">
+                    <li class="glide__slide"><img id="imgSliderNotas" src="img/encabezado-eventos.png" /></li>                    
+                </ul>
+            </div>
+            
+            </div>        
+        </div>
+        </div>
+    
     <div id="contenidoSub">
     <!----------------    Texto para seccion Programa de becas     ----------------->
     <p>Tú puedes apoyar el mantenimiento de los programas que ofrece la Fundación UV a través de la renta de alguno de nuestros espacios para tus eventos musicales, proyectos culturales, deportivos o académicos. Conócelos y elige el que se adapte mejor a tus necesidades.</p>
@@ -53,8 +68,7 @@ if($_GET['tipo'] == 1){
         <img class="puntero" onclick="mostrarOcultar('tlaqMenos','tlaqMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Tlaqná. Centro Cultural</label>
     </div>
             <div class="div1Notas">
-    <ul>
-        <li type= disc>Sala principal
+    <p class="h3subMenu">Sala principal</p>
             <ul>
                 <li type= disc>Considerando que es una sala diseñada acústicamente, los eventos y actividades que se presenten dentro de ella deben tomar en cuenta como característica especial la apreciación del sonido sin ningún equipo de amplificación. Es por ello que la música sinfónica, de cámara y presentaciones acústicas, entre otras actividades de este tipo, son los eventos ideales para esta sala.</li>
                 <li type= disc>Capacidad para 1,205 espectadores sentados y espacio para sillas de ruedas.</li>
@@ -78,35 +92,39 @@ if($_GET['tipo'] == 1){
         <li type= disc>Guardarropa.</li>
             </ul>
         
-        </li>
+        
         </div>
         <div class="div2Notas" style=" text-align: right ; padding-top: 10px;" >
                 <div style="padding-left: 0 !important;">
-                <a data-fancybox="gallery" href="img/tlaqna/DJI_0134-Editar.jpg">
+                <a data-fancybox="tlaqna" href="img/tlaqna/DJI_0134-Editar.jpg">
                     <img src="img/tlaqna/DJI_0134-Editar.jpg">
                 </a>
 
-                <a data-fancybox="gallery" href="img/tlaqna/DJI_0214-Editar.jpg">
+                <a data-fancybox="tlaqna" href="img/tlaqna/DJI_0214-Editar.jpg">
                     <img src="img/tlaqna/DJI_0214-Editar.jpg">
                 </a>
             </div>
                 <div style="padding-left: 0 !important;">
-                    <a data-fancybox="gallery" href="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(30).jpg">
+                    <a data-fancybox="tlaqna" href="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(30).jpg">
                         <img src="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(30).jpg">
                 </a>
 
-                    <a data-fancybox="gallery" href="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(5).jpg">
+                    <a data-fancybox="tlaqna" href="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(5).jpg">
                         <img src="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(5).jpg">
                 </a>
             </div>
                 <div style="padding-left: 0 !important;">
-                    <a data-fancybox="gallery" href="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(56).jpg">
+                    <a data-fancybox="tlaqna" href="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(56).jpg">
                         <img src="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(56).jpg">
+                </a>
+                    <a data-fancybox="tlaqna" href="img/tlaqna/Croquis-Tlaqna.png">
+                        <img src="img/tlaqna/Croquis-Tlaqna.png">
                 </a>
 
             </div>
             </div>
-         <li type= disc>Sala anexa
+         <p class="h3subMenu">Sala anexa</p>
+         <div class="div1Notas">
          <ul>
                 <li type= disc>Capacidad para 420 espectadores en formato Teatro (dos niveles).</li>
                 <li type= disc>Servicios audiovisuales con pantalla de 8 x 3 mt.</li>
@@ -118,10 +136,30 @@ if($_GET['tipo'] == 1){
                 <li type= disc>Bodega de servicios.</li>
                 <li type= disc>4 puertas de entrada a la sala y 2 puertas de entrada al escenario.</li>                
             </ul>
-         </li>    
-         <fotosSalaAnexa>
+         </div>
+         <div class="div2Notas" style=" text-align: right ; padding-top: 10px;" >
+                <div style="padding-left: 0 !important;">
+                    <a data-fancybox="tlaqnaA" href="img/tlaqnaAnexa/anexa-(10).jpg">
+                    <img src="img/tlaqnaAnexa/anexa-(10).jpg">
+                </a>
+
+                    <a data-fancybox="tlaqnaA" href="img/tlaqnaAnexa/anexa-(4).jpg">
+                    <img src="img/tlaqnaAnexa/anexa-(4).jpg">
+                </a>
+            </div>
+                <div style="padding-left: 0 !important;">
+                    <a data-fancybox="tlaqnaA" href="img/tlaqnaAnexa/anexa-(6).jpg">
+                        <img src="img/tlaqnaAnexa/anexa-(6).jpg">
+                </a>
+
+                    <a data-fancybox="tlaqnaA" href="img/tlaqnaAnexa/anexa-(8).jpg">
+                        <img src="img/tlaqnaAnexa/anexa-(8).jpg">
+                </a>
+            </div>
+                
+            </div>
              
-         <li type= disc>Servicios adicionales del Centro Cultural
+         <p class="h3subMenu">Servicios adicionales del Centro Cultural</p>
          <ul>
                 <li type= disc>Aire acondicionado.</li>
                 <li type= disc>Súper-poste de iluminación externa.</li>
@@ -133,8 +171,8 @@ if($_GET['tipo'] == 1){
                 <li type= disc>Personal de acomodo y atención al público.</li>
                 <li type= disc>Estacionamiento techado para 126 autos (espacio total disponible dentro del Campus CAD: 1000 autos).</li>                
             </ul>
-         </li>    
-    </ul>
+         
+    
     <p>Solicita más información sobre este espacio llamando al (228) 817 13 43</p>
     
 </div>
@@ -164,10 +202,8 @@ if($_GET['tipo'] == 1){
                 <li type= disc>Este espacio está disponible de diciembre a abril.</li>
                 <li type= disc>Entre los artistas que se han presentado en este espacio se encuentran Alejandra Guzmán, Moderatto, Silvio Rodríguez y Juan Formell y los Van Van, entre otros.</li>
             </ul>
-    <p>Consulta la disponibilidad de este espacio llamando al (228) 842 17 00 ext. 11034 o al (228) 117 94 96</p>
-    
-    
     </div>
+        <p>Consulta la disponibilidad de este espacio llamando al (228) 842 17 00 ext. 11034 o al (228) 117 94 96</p>
 </div>
 
 </div>
@@ -200,17 +236,20 @@ if($_GET['tipo'] == 1){
     </div>
     <div class="div2Notas" >
             <div>
-                <a data-fancybox="gallery" href="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(103).jpg">
+                <a data-fancybox="gym" href="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(103).jpg">
                     <img src="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(103).jpg">
                 </a>
 
-                <a data-fancybox="gallery" href="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(110).jpg">
+                <a data-fancybox="gym" href="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(110).jpg">
                     <img src="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(110).jpg">
                 </a>
             </div>
             <div>
-                <a data-fancybox="gallery" href="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(95).jpg">
+                <a data-fancybox="gym" href="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(95).jpg">
                     <img src="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(95).jpg">
+                </a>
+                <a data-fancybox="gym" href="img/gym/Croquis-Gimnasio.png">
+                    <img src="img/gym/Croquis-Gimnasio.png">
                 </a>
             </div>
         </div>

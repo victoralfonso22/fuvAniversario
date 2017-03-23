@@ -33,6 +33,24 @@ if($_GET['tipo'] == 1){
 
 <div id="contenedorBlog" class="container">
 <div  class="container">
+    
+    
+    <div id="div100SliderNotas" class="container">
+        <div id="divSliderNotas" >                            
+            <div id="Glide" class="glide">
+            
+            <div class="glide__wrapper">
+                <ul class="glide__track">
+                    <li class="glide__slide"><img id="imgSliderNotas" src="img/encabezado-administramos-instalaciones.png" /></li>                    
+                </ul>
+            </div>
+            
+            </div>        
+        </div>
+        </div>
+    
+    
+    
     <div id="contenidoSub">
     <!----------------    Texto para seccion campus CAD     ----------------->
     <div id="cadMenos" class="encabezadoSub">
@@ -55,40 +73,58 @@ if($_GET['tipo'] == 1){
         </div>
         <div class="div2Notas" style=" text-align: right !important; padding-top: 10px;">
             <div>
-                <a data-fancybox="gallery" href="img/fauna/DSCN2139.jpg">
+                <a data-fancybox="fauna" href="img/fauna/DSCN2139.jpg">
                     <img src="img/fauna/DSCN2139.jpg">
                 </a>
 
-                <a data-fancybox="gallery" href="img/fauna/DSCN2385.jpg">
+                <a data-fancybox="fauna" href="img/fauna/DSCN2385.jpg">
                     <img src="img/fauna/DSCN2385.jpg">
                 </a>
             </div>
             
             <div>
-                <a data-fancybox="gallery" href="img/fauna/DSCN2480.jpg">
+                <a data-fancybox="fauna" href="img/fauna/DSCN2480.jpg">
                     <img src="img/fauna/DSCN2480.jpg">
                 </a>
 
-                <a data-fancybox="gallery" href="img/fauna/DSCN2758.jpg">
+                <a data-fancybox="fauna" href="img/fauna/DSCN2758.jpg">
                     <img src="img/fauna/DSCN2758.jpg">
                 </a>
             </div>
             
             <div>
-                <a data-fancybox="gallery" href="img/fauna/DSCN3481.jpg">
+                <a data-fancybox="fauna" href="img/fauna/DSCN3481.jpg">
                     <img src="img/fauna/DSCN3481.jpg">
                 </a>
 
-                <a data-fancybox="gallery" href="img/fauna/DSCN3643.jpg">
+                <a data-fancybox="fauna" href="img/fauna/DSCN3643.jpg">
                     <img src="img/fauna/DSCN3643.jpg">
                 </a>
             </div>
             
         </div>
     <p>A los animales que son encontrados por esta Unidad se les toman medidas, se determina su género y se les marca, antes de volver a liberarlos. Los ejemplares que se encuentran atrapados, lastimados o enfermos son llevados a cuarentena, rehabilitados y posteriormente liberados.  Además, para apoyar en la generación de conciencia sobre el cuidado y la preservación de las especies, la Unidad de Manejo de Fauna organiza periódicamente congresos, cursos y eventos sobre el manejo adecuado de la fauna venenosa y no venenosa. </p>
-    <crockis>
+    <div id="div100SliderNotas" class="container">
+    <div id="divSliderNotasBoton" >                            
+        <div id="Glide" class="glide">
+
+            
+
+            <div class="glide__wrapper">
+                <ul class="glide__track" style="padding-left: 10px;">
+                    <li class="glide__slide" ><img style="width: 100%; text-align: center;-webkit-border-radius: 5px 10px;  -moz-border-radius: 5px 10px;" id="imgSliderNotas" src="img/CROQUIS.png" /></li>                    
+                </ul>
+            </div>
+
+            
+
+        </div>
+    </div>
+</div>
         
-       
+       <br/>
+       <br/>
+       <br/>
         <p class="h3subMenu">Unidad Deportiva Universitaria (UDU)</p>    
         <div class="div1Notas">
     <p>El Campus CAD Xalapa ofrece este espacio para todas las personas de la comunidad universitaria y el público general que busca cuidar su salud y mantenerse activo, practicando deportes al aire libre.</p>
@@ -100,14 +136,27 @@ if($_GET['tipo'] == 1){
         <li type= disc>Liga varonil y femenil de Futbol Americano avalada por la ONEFA (Organización Nacional Estudiantil de Futbol Americano).</li>
         <li type= disc>Torneo de dependencias y empresas. De registro libre, en él participan equipos formados por dependencias UV, maestros y/o estudiantes de facultades, dependencias gubernamentales o empresas de la iniciativa privada.</li>
     </ul>
-    <p>También, es sede de los Centros de Formación Deportiva para niños y jóvenes y sus instalaciones fueron sede de algunas competencias durante los Juegos Centroamericanos y del Caribe, Veracruz 2014.</p>
+    
     </div>
-        <div class="div2Notas">
+        <div class="div2Notas" style="padding-top: 10px;">
+              <div>
+                  <a data-fancybox="udu" href="img/udu/HAL_7099.jpg">
+                      <img src="img/udu/HAL_7099.jpg">                            
+                        </a>
+                    
+                  <a data-fancybox="udu" href="img/udu/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(143).jpg">
+                      <img src="img/udu/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(143).jpg">
+                        </a>
+                        </div>
+                        <div>
+                            <a data-fancybox="udu" href="img/udu/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(149).jpg">
+                                <img src="img/udu/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(149).jpg">
+                        </a>
+                    
+                        </div>
             
         </div>
-        
-    <fotosssUDU>
-        
+        <p>También, es sede de los Centros de Formación Deportiva para niños y jóvenes y sus instalaciones fueron sede de algunas competencias durante los Juegos Centroamericanos y del Caribe, Veracruz 2014.</p>
         
         <p class="h3subMenu">Gimnasio Universitario</p>
         <div class="div1Notas">
@@ -117,16 +166,16 @@ if($_GET['tipo'] == 1){
         </div>
         <div class="div2Notas" style=" padding-top: 10px;">
             <div>
-                <a data-fancybox="gallery" href="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(103).jpg">
+                <a data-fancybox="gym" href="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(103).jpg">
                     <img src="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(103).jpg">
                 </a>
 
-                <a data-fancybox="gallery" href="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(110).jpg">
+                <a data-fancybox="gym" href="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(110).jpg">
                     <img src="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(110).jpg">
                 </a>
             </div>
             <div>
-                <a data-fancybox="gallery" href="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(95).jpg">
+                <a data-fancybox="gym" href="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(95).jpg">
                     <img src="img/gym/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(95).jpg">
                 </a>
             </div>
@@ -137,25 +186,25 @@ if($_GET['tipo'] == 1){
             <div id="tlaqnaDesk">
             <div class="div2Notas" style="width: 51%; text-align: left !important; padding-top: 10px;">
                 <div style="padding-left: 0 !important;">
-                <a data-fancybox="gallery" href="img/tlaqna/DJI_0134-Editar.jpg">
+                <a data-fancybox="tlaq" href="img/tlaqna/DJI_0134-Editar.jpg">
                     <img src="img/tlaqna/DJI_0134-Editar.jpg">
                 </a>
 
-                <a data-fancybox="gallery" href="img/tlaqna/DJI_0214-Editar.jpg">
+                <a data-fancybox="tlaq" href="img/tlaqna/DJI_0214-Editar.jpg">
                     <img src="img/tlaqna/DJI_0214-Editar.jpg">
                 </a>
             </div>
                 <div style="padding-left: 0 !important;">
-                    <a data-fancybox="gallery" href="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(30).jpg">
+                    <a data-fancybox="tlaq" href="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(30).jpg">
                         <img src="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(30).jpg">
                 </a>
 
-                    <a data-fancybox="gallery" href="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(5).jpg">
+                    <a data-fancybox="tlaq" href="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(5).jpg">
                         <img src="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(5).jpg">
                 </a>
             </div>
                 <div style="padding-left: 0 !important;">
-                    <a data-fancybox="gallery" href="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(56).jpg">
+                    <a data-fancybox="tlaq" href="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(56).jpg">
                         <img src="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(56).jpg">
                 </a>
 
@@ -178,25 +227,25 @@ if($_GET['tipo'] == 1){
         <p>Este mural tuvo un proceso de creación de nueve meses y cuenta con 2,272 paneles poblados de personajes, motivos de Xalapa y paisajes aledaños, los cuales recorren ininterrumpidamente los cuatro muros perimetrales de la Sala. </p>
             <div class="div2Notas" style=" text-align: left !important; padding-top: 10px;" >
                 <div style="padding-left: 0 !important;">
-                <a data-fancybox="gallery" href="img/tlaqna/DJI_0134-Editar.jpg">
+                <a data-fancybox="tlaqM" href="img/tlaqna/DJI_0134-Editar.jpg">
                     <img src="img/tlaqna/DJI_0134-Editar.jpg">
                 </a>
 
-                <a data-fancybox="gallery" href="img/tlaqna/DJI_0214-Editar.jpg">
+                <a data-fancybox="tlaqM" href="img/tlaqna/DJI_0214-Editar.jpg">
                     <img src="img/tlaqna/DJI_0214-Editar.jpg">
                 </a>
             </div>
                 <div style="padding-left: 0 !important;">
-                    <a data-fancybox="gallery" href="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(30).jpg">
+                    <a data-fancybox="tlaqM" href="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(30).jpg">
                         <img src="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(30).jpg">
                 </a>
 
-                    <a data-fancybox="gallery" href="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(5).jpg">
+                    <a data-fancybox="tlaqM" href="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(5).jpg">
                         <img src="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(5).jpg">
                 </a>
             </div>
                 <div style="padding-left: 0 !important;">
-                    <a data-fancybox="gallery" href="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(56).jpg">
+                    <a data-fancybox="tlaqM" href="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(56).jpg">
                         <img src="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(56).jpg">
                 </a>
 
@@ -234,61 +283,61 @@ if($_GET['tipo'] == 1){
             </div>
         <div class="div2Notas" style=" text-align: right !important;" >
                 <div style="padding-left: 0 !important;">
-                    <a data-fancybox="gallery" href="img/ixtac/IMG_3187.jpg">
+                    <a data-fancybox="ixtac" href="img/ixtac/IMG_3187.jpg">
                         <img src="img/ixtac/IMG_3187.jpg">
                 </a>
 
-                    <a data-fancybox="gallery" href="img/ixtac/IMG_3209.jpg">
+                    <a data-fancybox="ixtac" href="img/ixtac/IMG_3209.jpg">
                         <img src="img/ixtac/IMG_3209.jpg">
                 </a>
             </div>
                 <div style="padding-left: 0 !important;">
-                    <a data-fancybox="gallery" href="img/ixtac/IMG_3260.jpg">
+                    <a data-fancybox="ixtac" href="img/ixtac/IMG_3260.jpg">
                         <img src="img/ixtac/IMG_3260.jpg">
                 </a>
 
-                    <a data-fancybox="gallery" href="img/ixtac/IMG_3261.jpg">
+                    <a data-fancybox="ixtac" href="img/ixtac/IMG_3261.jpg">
                         <img src="img/ixtac/IMG_3261.jpg">
                 </a>
             </div>
                 <div style="padding-left: 0 !important;">
-                    <a data-fancybox="gallery" href="img/ixtac/IMG_3263.jpg">
+                    <a data-fancybox="ixtac" href="img/ixtac/IMG_3263.jpg">
                         <img src="img/ixtac/IMG_3263.jpg">
                 </a>
                     
-                        <a data-fancybox="gallery" href="img/ixtac/IMG_3267.jpg">
+                        <a data-fancybox="ixtac" href="img/ixtac/IMG_3267.jpg">
                             <img src="img/ixtac/IMG_3267.jpg">
                 </a>
 
             </div>
             <div style="padding-left: 0 !important;">
-                <a data-fancybox="gallery" href="img/ixtac/IMG_3324.jpg">
+                <a data-fancybox="ixtac" href="img/ixtac/IMG_3324.jpg">
                     <img src="img/ixtac/IMG_3324.jpg">
                 </a>
                     
-                <a data-fancybox="gallery" href="img/ixtac/IMG_3361.jpg">
+                <a data-fancybox="ixtac" href="img/ixtac/IMG_3361.jpg">
                     <img src="img/ixtac/IMG_3361.jpg">
                 </a>
 
             </div>
             
             <div style="padding-left: 0 !important;">
-                <a data-fancybox="gallery" href="img/ixtac/IMG_3364.jpg">
+                <a data-fancybox="ixtac" href="img/ixtac/IMG_3364.jpg">
                     <img src="img/ixtac/IMG_3364.jpg">
                 </a>
                     
-                <a data-fancybox="gallery" href="img/ixtac/IMG_3389.jpg">
+                <a data-fancybox="ixtac" href="img/ixtac/IMG_3389.jpg">
                     <img src="img/ixtac/IMG_3389.jpg">
                 </a>
 
             </div>
             
             <div style="padding-left: 0 !important;">
-                <a data-fancybox="gallery" href="img/ixtac/IMG_3390.jpg">
+                <a data-fancybox="ixtac" href="img/ixtac/IMG_3390.jpg">
                     <img src="img/ixtac/IMG_3390.jpg">
                 </a>
                     
-                <a data-fancybox="gallery" href="img/ixtac/IMG_3482.jpg">
+                <a data-fancybox="ixtac" href="img/ixtac/IMG_3482.jpg">
                     <img src="img/ixtac/IMG_3482.jpg">
                 </a>
 

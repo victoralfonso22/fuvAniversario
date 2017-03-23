@@ -48,6 +48,22 @@ if($_GET['tipo'] == 1){
 </div>
 <div id="contenedorBlog" class="container">
     <div  class="container">
+        
+        <div id="div100SliderNotas" class="container">
+        <div id="divSliderNotas" >                            
+            <div id="Glide" class="glide">
+            
+            <div class="glide__wrapper">
+                <ul class="glide__track">
+                    <li class="glide__slide"><img id="imgSliderNotas" src="img/otros-programas.png" /></li>                    
+                </ul>
+            </div>
+            
+            </div>        
+        </div>
+        </div>
+        
+        
         <div id="contenidoSub">
             <div id="centroMenos" class="encabezadoSub">
         <img class="puntero" onclick="mostrarOcultar('centroMas','centroMenos');" style="vertical-align: middle; padding-top: .3em;" src="img/desplegar icon.png">&nbsp;&nbsp;<label>Centro de Atención para el Cáncer</label>
@@ -139,6 +155,9 @@ if($_GET['tipo'] == 1){
         
 </div>    
 </div>
+        </div>
+        </div>
+    </div>
         
 <!-- contenido -->
 

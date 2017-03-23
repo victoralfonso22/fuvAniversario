@@ -40,15 +40,31 @@ if($_GET['tipo'] == 1){
 </div>
 <div id="contenedorBlog" class="container">
     <div  class="container">
+        
+        <div id="div100SliderNotas" class="container">
+        <div id="divSliderNotas" >                            
+            <div id="Glide" class="glide">
+            
+            <div class="glide__wrapper">
+                <ul class="glide__track">
+                    <li class="glide__slide"><img id="imgSliderNotas" src="img/encabezadofomentamos-el-deporte.png" /></li>                    
+                </ul>
+            </div>
+            
+            </div>        
+        </div>
+        </div>
+        
+        
         <div id="contenidoSub">
   <div id="canchaMenos" class="encabezadoSub">
-        <img class="puntero" onclick="mostrarOcultar('canchaMas','canchaMenos');" style="vertical-align: middle; padding-top: .3em;" src="img/desplegar icon.png">&nbsp;&nbsp;<label>Uso de canchas deportivas</label>
+        <img class="puntero" onclick="mostrarOcultar('canchaMas','canchaMenos');" style="vertical-align: middle; padding-top: .3em;" src="img/desplegar icon.png">&nbsp;&nbsp;<label>Uso de instalaciones deportivas</label>
     </div>
     <div id="canchaMas" style="display: none">
     <div id="divSubMenuNota">
         <div class="div1Notas">
     <div class="encabezadoSub">
-        <img class="puntero" onclick="mostrarOcultar('canchaMenos','canchaMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Uso de canchas deportivas</label>
+        <img class="puntero" onclick="mostrarOcultar('canchaMenos','canchaMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Uso de instalaciones deportivas</label>
     </div>          
             
 
@@ -59,9 +75,11 @@ if($_GET['tipo'] == 1){
             <li type= disc>Frontenis</li>
             <li type= disc>Futbol americano</li>
             <li type= disc>Futbol soccer</li>
+            <li type= disc>Futbol rápido</li>
             <li type= disc>Tenis</li>
             <li type= disc>Volibol</li>
             <li type= disc>Volibol playero</li>
+            <li type= disc>Beisbol</li>            
         </ul>
         
         <div class="divSub">
@@ -87,71 +105,73 @@ if($_GET['tipo'] == 1){
         
         <br /><br />
         <p>Consulta la disponibilidad de las canchas llamando al (228) 842 17 00 ext. 11034 o al (228) 117 94 96</p>
+        
+        
+        </div>
+        <div class="div2Notas" >
+            <div>
+                <a data-fancybox="insta" href="img/instalaciones/Canchas Baloncesto y Volibol (concreto).jpg" title="Canchas Baloncesto y Volibol (concreto)">
+                    <img src="img/instalaciones/Canchas Baloncesto y Volibol (concreto).jpg">
+                </a>
+
+                <a data-fancybox="insta" href="img/instalaciones/Cancha de Frontenis1.jpg" title="Frontenis">
+                    <img src="img/instalaciones/Cancha de Frontenis1.jpg">
+                </a>
+            </div>
+                      
+            <div>
+                <a data-fancybox="insta" href="img/instalaciones/Cancha de Frontenis2.jpg" title="Frontenis">
+                    <img src="img/instalaciones/Cancha de Frontenis2.jpg">
+                </a>
+                
+                <a data-fancybox="insta" href="img/instalaciones/Americano-.jpg" title="Americano">
+                    <img src="img/instalaciones/Americano-.jpg">
+                </a>
+            </div>
+            
+            <div>
+                <a data-fancybox="insta" href="img/instalaciones/Americano.jpg" title="Americano">
+                    <img src="img/instalaciones/Americano.jpg">
+                </a>
+                
+                <a data-fancybox="insta" href="img/instalaciones/Cancha Futbol Soccer.jpg" title="Cancha Futbol Soccer">
+                    <img src="img/instalaciones/Cancha Futbol Soccer.jpg">
+                </a>
+            </div>
+            
+            <div>
+                <a data-fancybox="insta" href="img/instalaciones/Cancha de Futbol rápido.jpg" title="Cancha de Futbol rápido">
+                    <img src="img/instalaciones/Cancha de Futbol rápido.jpg">
+                </a>
+                
+                <a data-fancybox="insta" href="img/instalaciones/Cancha de tenis.jpg" title="Cancha de tenis">
+                    <img src="img/instalaciones/Cancha de tenis.jpg">
+                </a>
+            </div>
+            
+            <div>
+                <a data-fancybox="insta" href="img/instalaciones/Cancha de tenis2.jpg" title="Cancha de tenis">
+                    <img src="img/instalaciones/Cancha de tenis2.jpg">
+                </a>
+                
+                <a data-fancybox="insta" href="img/instalaciones/Cancha de Volibol playero.jpg" title="Cancha de Volibol playero">
+                    <img src="img/instalaciones/Cancha de Volibol playero.jpg">
+                </a>
+            </div>
+            
+            <div>
+                <a data-fancybox="insta" href="img/instalaciones/Campo de Beisbol.jpg" title="Campo de Beisbol">
+                    <img src="img/instalaciones/Campo de Beisbol.jpg">
+                </a>                
+            </div>
+            
+        </div>
+        <br /><br />
         <p>Como parte de las acciones de fomento de la práctica de deportes, la Fundación UV ofrece desde el año 2001, la oportunidad a equipos de la ciudad de Xalapa y la región, en los distintos torneos que organiza anualmente. Lo recaudado a través de la inscripción de éstos se utiliza para dar mantenimiento a las canchas.</p>
         <ul>
             <li type= disc>Torneo Premier de Futbol Soccer Varonil. Dirigido a jugadores nacidos antes y hasta 1960. Se realizan alrededor de 24 jornadas durante el año. Con casi 20 años de antigüedad, este torneo se ha convertido en una tradición en Xalapa para los veteranos que disfrutan jugar un partido de futbol cada fin de semana.</li>
             <li type= disc>Torneo Master de Futbol Soccer Varonil. Dirigido a los nacidos entre 1961 y 1969. Se organizan partidos de visita recíproca entre los equipos, por lo que dura todo el año. </li>
         </ul>
-        
-        </div>
-        <div class="div2Notas" >
-            
-                        <div>
-                        <a data-fancybox="gallery" href="img/HAL_7158.jpg">
-                            <img src="img/HAL_7158.jpg">
-                        </a>
-                    
-                        <a data-fancybox="gallery" href="img/HAL_7170.jpg">
-                            <img src="img/HAL_7170.jpg">
-                        </a>
-                        </div>
-                        <div>
-                        <a data-fancybox="gallery" href="img/HAL_7196.jpg">
-                            <img src="img/HAL_7196.jpg">
-                        </a>
-                    
-                        <a data-fancybox="gallery" href="img/HAL_7206.jpg">
-                            <img src="img/HAL_7206.jpg">
-                        </a>
-                        </div>
-            <div>
-                        <a data-fancybox="gallery" href="img/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(141).jpg">
-                            <img src="img/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(141).jpg">
-                        </a>
-                    
-                <a data-fancybox="gallery" href="img/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(125).jpg">
-                    <img src="img/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(125).jpg">
-                        </a>
-                        </div>
-            <div>
-                <a data-fancybox="gallery" href="img/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(131).jpg">
-                    <img src="img/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(131).jpg">
-                        </a>
-                    
-                <a data-fancybox="gallery" href="img/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(136).jpg">
-                    <img src="img/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(136).jpg">
-                        </a>
-                        </div>
-            
-            <div>
-                <a data-fancybox="gallery" href="img/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(144).jpg">
-                    <img src="img/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(144).jpg">
-                        </a>
-                    
-                <a data-fancybox="gallery" href="img/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(151).jpg">
-                    <img src="img/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(151).jpg">
-                        </a>
-                        </div>
-            
-            <div>
-                <a data-fancybox="gallery" href="img/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(138).jpg">
-                    <img src="img/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(138).jpg">
-                        </a>
-             
-                
-                        </div>
-            
-        </div>
 </div>
 
 </div>

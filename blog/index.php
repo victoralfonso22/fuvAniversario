@@ -11,20 +11,20 @@
 </header>
     
 </div>
-<div id="contenedorBlog" class="container">
+<div id="contenedorBlogSec" class="container">
     <div id="divMenuBlog">
         <div>
             <table>
                 <tr><td class="tituloNoticia">Primera noticia posteada por viko</td></tr>
                 <tr><td><img src="img/ancho-290-px-copia-5.png"></td></tr>
-                <tr><td class="pieNoticia">Universo noviembre 8 de 2016</td></tr>
+                <tr><td class="pieNoticia">Marzo de 2017</td></tr>
                 <tr><td class="masNoticia">Estan Cansado??, noooooo.... Que si estan cansado???, nooooooooooo</td></tr>
                 <tr><td class="botonNoticia"><img src="img/leer-mas.png" onmouseover="this.src='img/leer-mas-hover.png'" onmouseout="this.src='img/leer-mas.png'"></td></tr>
             </table>
         <table>
                 <tr><td class="tituloNoticia">Primera noticia posteada por viko</td></tr>
                 <tr><td><img src="img/ancho-290-px-copia-5.png"></td></tr>
-                <tr><td class="pieNoticia">Universo noviembre 8 de 2016</td></tr>
+                <tr><td class="pieNoticia">Marzo de 2017</td></tr>
                 <tr><td class="masNoticia">Estan Cansado??, noooooo.... Que si estan cansado???, nooooooooooo</td></tr>
                 <tr><td class="botonNoticia"><img src="img/leer-mas.png" onmouseover="this.src='img/leer-mas-hover.png'" onmouseout="this.src='img/leer-mas.png'"></td></tr>
             </table>
@@ -33,7 +33,7 @@
         <div><table>
                 <tr><td class="tituloNoticia">Primera noticia posteada por viko</td></tr>
                 <tr><td><img src="img/ancho-290-px-copia-5.png"></td></tr>
-                <tr><td class="pieNoticia">Viko noviembre 8 de 2016</td></tr>
+                <tr><td class="pieNoticia">Marzo de 2017</td></tr>
                 <tr><td class="masNoticia">Estan Cansado??, noooooo.... Que si estan cansado???, nooooooooooo</td></tr>
                 <tr><td class="botonNoticia"><img src="img/leer-mas.png" onmouseover="this.src='img/leer-mas-hover.png'" onmouseout="this.src='img/leer-mas.png'"></td></tr>
             </table>
@@ -41,7 +41,7 @@
             <table>
                 <tr><td class="tituloNoticia">Primera noticia posteada por viko</td></tr>
                 <tr><td><img src="img/ancho-290-px-copia-5.png"></td></tr>
-                <tr><td class="pieNoticia">Viko noviembre 8 de 2016</td></tr>
+                <tr><td class="pieNoticia">Marzo de 2017</td></tr>
                 <tr><td class="masNoticia">Estan Cansado??, noooooo.... Que si estan cansado???, nooooooooooo</td></tr>
                 <tr><td class="botonNoticia"><img src="img/leer-mas.png" onmouseover="this.src='img/leer-mas-hover.png'" onmouseout="this.src='img/leer-mas.png'"></td></tr>
             </table>
@@ -49,7 +49,7 @@
         <div><table>
                 <tr><td class="tituloNoticia">Primera noticia posteada por viko</td></tr>
                 <tr><td><img src="img/ancho-290-px-copia.png"></td></tr>
-                <tr><td class="pieNoticia">Jamás besada noviembre 8 de 2016</td></tr>
+                <tr><td class="pieNoticia">Marzo de 2017</td></tr>
                 <tr><td class="masNoticia">Estan Cansado??, noooooo.... Que si estan cansado???, nooooooooooo</td></tr>
                 <tr><td class="botonNoticia"><img src="img/leer-mas.png" onmouseover="this.src='img/leer-mas-hover.png'" onmouseout="this.src='img/leer-mas.png'"></td></tr>
             </table>
@@ -57,7 +57,7 @@
             <table>
                 <tr><td class="tituloNoticia">Primera noticia posteada por viko</td></tr>
                 <tr><td><img src="img/ancho-290-px-copia.png"></td></tr>
-                <tr><td class="pieNoticia">Jamás besada noviembre 8 de 2016</td></tr>
+                <tr><td class="pieNoticia">Marzo de 2017</td></tr>
                 <tr><td class="masNoticia">Estan Cansado??, noooooo.... Que si estan cansado???, nooooooooooo</td></tr>
                 <tr><td class="botonNoticia"><img src="img/leer-mas.png" onmouseover="this.src='img/leer-mas-hover.png'" onmouseout="this.src='img/leer-mas.png'"></td></tr>
             </table>

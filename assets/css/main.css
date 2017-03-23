@@ -2178,7 +2178,7 @@
                                                 #div100Slider{
                                                     height: 380px;
                                                     width: 100%;
-                                                    background: #223c62;
+                                                    background: #013965;
                                                 }
 
                                                 #imgSlider {
@@ -2665,6 +2665,11 @@
                                  /*Ajustes para el submenú*/
                                  
                                  #contenedorBlog{
+                                     background-color: #fff; 
+                                     margin-top:-43px;
+                                 }
+                                 
+                                 #contenedorBlogSec{
                                      background-color: #fff; 
                                      margin-top:-43px;
                                  }
@@ -3225,10 +3230,16 @@
                                     margin: 0 auto;
                                 }
                             /* Version movil del blog 09-03-2017 by viko*/    
-                          #contenedorBlog{
+                          #contenedorBlogSec{
                                      background-color: #fff; 
                                      margin-top:0px;
                                      padding-top: 2em;
+                                 }
+                                 
+                                 #contenedorBlog{
+                                     background-color: #fff; 
+                                     margin-top:0px;
+                                    
                                  }
                                  
                                  .tituloNoticia{
@@ -3663,7 +3674,7 @@
                         #div100Slider{
                             height: auto;
                             width: 100%;
-                            background: #223c62;
+                            background: #013965;
                         }
 
                         #imgSlider {

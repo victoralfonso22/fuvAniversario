@@ -22,6 +22,8 @@
                     <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-1.jpg" /></li>
                     <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-2.jpg" /></li>
                     <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-3.jpg" /></li>
+                    <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-4.jpg" /></li>
+                    <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-5.jpg" /></li>
                 </ul>
             </div>
 
@@ -55,7 +57,7 @@
                         <a href="http://localhost/fuvAniversario/que_hacemos/ofrecemos/"><img src="imagenes/accesosRapidos/action renta.png" onmouseover="this.src = 'imagenes/accesosRapidos/action renta-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action renta.png'"></a>
                     </td>
                     <td>
-                        <a href="http://localhost/fuvAniversario/que_hacemos/colaboramos/"><img src="imagenes/accesosRapidos/action lego.png" onmouseover="this.src = 'imagenes/accesosRapidos/action lego-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action lego.png'"></a>
+                        <a href="http://localhost/fuvAniversario/que_hacemos/colaboramos/?tipo=2"><img src="imagenes/accesosRapidos/action lego.png" onmouseover="this.src = 'imagenes/accesosRapidos/action lego-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action lego.png'"></a>
                     </td>
                 </tr>
                 <tr>

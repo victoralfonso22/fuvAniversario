@@ -134,7 +134,7 @@ Con la finalidad de sumar esfuerzos a esta causa social, que permitiera maximiza
 
             <div class="glide__wrapper">
                 <ul class="glide__track" style="padding-left: 0;">
-                    <li class="glide__slide" ><a  href="http://fundacionuv.org/solicitudes/" target="_blank"><img style="width: 50%;" id="imgSliderNotas" src="img/boton-informe-2016.png" /></a></li>                    
+                    <li class="glide__slide" ><a  href="pdf/Informe 2016 - Unidad de Becas.pdf" target="_blank"><img style="width: 50%;" id="imgSliderNotas" src="img/boton-informe-2016.png" /></a></li>                    
                 </ul>
             </div>
 
