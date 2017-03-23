@@ -8,7 +8,7 @@
                                                 </header>
 						<!-- Image -->
                                                         <a href="" class="image featured" style="margin-top: -3.6%" style="cursor: none">
-                                                            <img src="img/quienes_somos.jpg" alt="" />
+                                                            <img src="img/quienes_somos.png" alt="" />
 							</a>
 
 						<!-- Features -->
@@ -40,14 +40,16 @@
                                                                                                 <b>Siempre universitarios</b> refleja la responsable apertura al cambio y el espíritu que el universitario construye en su paso por la universidad.</p>
                                                                                                 <br/>
 												<p><span style="font-family:Open Sans Bold; color: #5FA8CA; font-size: 19px;">Valores</span><br/>
-                                                                                                   ● Honorabilidad<br>
-                                                                                                   ● Transparencia<br>
-                                                                                                   ● Efectividad<br>
-                                                                                                   ● Ámbitos de impacto<br><div style="padding-left:20%">
-                                                                                                        ● Económico<br>
-                                                                                                        ● Social<br>
-                                                                                                        ● Deportivo<br>
-                                                                                                        ● Sostenible<br>
+                                                                                                   <div style="padding-left:20%">
+                                                                                                        ● Honorabilidad<br>
+                                                                                                        ● Transparencia<br>
+                                                                                                        ● Efectividad<br></div></p><br/>
+                                                                                                <p><span style="font-family:Open Sans Bold; color: #5FA8CA; font-size: 19px;">Ámbitos de impacto</span><br/>
+                                                                                                   <div style="padding-left:20%">
+                                                                                                        ● Económico<br/>
+                                                                                                        ● Social<br/>
+                                                                                                        ● Deportivo<br/>
+                                                                                                        ● Sostenible<br/>
                                                                                                         ● Cultural</div>
                                                                                                 </p>
 
@@ -62,79 +64,169 @@
 <section class="cd-horizontal-timeline" style="background: white;">	
         <div class="events-content" style="background: url(img/back-azul.png) repeat;">
 		<ol>
-			<li class="selected" data-date="01/03/1992">                                 				
+			<li class="selected" data-date="01/01/1991">                                 				
                                 <p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+			<li data-date="01/06/1991">				
+				<p class="contenido">	
                                     <img src="img/evento1.png">                                    
 				</p>
 			</li>
 
-			<li data-date="09/03/1992">				
+                        <li data-date="01/01/1992">				
+				<p class="contenido">	
+                                    <img src="img/evento3.png">                                    
+				</p>
+			</li>
+
+			<li data-date="01/06/1992">				
+				<p class="contenido">	
+                                    <img src="img/evento4.png">                                    
+				</p>
+			</li>
+
+			<li data-date="01/01/1993">				
+				<p class="contenido">	
+                                    <img src="img/evento5.png">                                    
+				</p>
+			</li>
+
+			<li data-date="01/06/1993">				
+				<p class="contenido">	
+                                    <img src="img/evento6.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="01/01/1994">				
 				<p class="contenido">	
                                     <img src="img/evento2.png">                                    
 				</p>
 			</li>
 
-                        <li data-date="28/05/1992">				
+			<li data-date="01/06/1994">				
 				<p class="contenido">	
                                     <img src="img/evento2.png">                                    
 				</p>
 			</li>
 
-			<li data-date="01/10/1992">				
+			<li data-date="01/01/1995">				
 				<p class="contenido">	
                                     <img src="img/evento2.png">                                    
 				</p>
 			</li>
 
-			<li data-date="01/11/1992">				
+			<li data-date="01/06/1995">				
 				<p class="contenido">	
                                     <img src="img/evento2.png">                                    
 				</p>
 			</li>
 
-			<li data-date="06/12/1997">				
+			<li data-date="01/01/1996">				
 				<p class="contenido">	
                                     <img src="img/evento2.png">                                    
 				</p>
 			</li>
 
-                        <li data-date="04/10/1998">				
+			<li data-date="01/06/1996">				
 				<p class="contenido">	
                                     <img src="img/evento2.png">                                    
 				</p>
 			</li>
 
-			<li data-date="19/11/1998">				
+			<li data-date="01/01/1997">				
 				<p class="contenido">	
                                     <img src="img/evento2.png">                                    
 				</p>
 			</li>
 
-			<li data-date="09/10/2001">				
+                        <li data-date="01/06/1997">
 				<p class="contenido">	
                                     <img src="img/evento2.png">                                    
 				</p>
 			</li>
 
-			<li data-date="01/01/2002">				
+                        <li data-date="01/01/1998">
 				<p class="contenido">	
                                     <img src="img/evento2.png">                                    
 				</p>
 			</li>
 
-			<li data-date="26/04/2002">				
+                        <li data-date="01/06/1998">
 				<p class="contenido">	
                                     <img src="img/evento2.png">                                    
 				</p>
 			</li>
 
-			<li data-date="11/04/2003">				
+                        <li data-date="01/01/1999">
 				<p class="contenido">	
                                     <img src="img/evento2.png">                                    
 				</p>
 			</li>
 
-			<li data-date="01/04/2004">				
+                        <li data-date="01/06/1999">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="01/01/2000">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="01/06/2000">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="01/01/2001">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="01/06/2001">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="01/01/2002">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="01/06/2002">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="01/01/2003">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="01/06/2003">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="01/01/2004">
+				<p class="contenido">	
+                                    <img src="img/evento2.png">                                    
+				</p>
+			</li>
+
+                        <li data-date="01/06/2004">
 				<p class="contenido">	
                                     <img src="img/evento2.png">                                    
 				</p>
@@ -145,131 +237,41 @@
                                     <img src="img/evento2.png">                                    
 				</p>
 			</li>
-
-                        <li data-date="01/01/2006">
-				<p class="contenido">	
-                                    <img src="img/evento2.png">                                    
-				</p>
-			</li>
-
-                        <li data-date="10/02/2006">
-				<p class="contenido">	
-                                    <img src="img/evento2.png">                                    
-				</p>
-			</li>
-
-                        <li data-date="16/03/2006">
-				<p class="contenido">	
-                                    <img src="img/evento2.png">                                    
-				</p>
-			</li>
-
-                        <li data-date="04/12/2006">
-				<p class="contenido">	
-                                    <img src="img/evento2.png">                                    
-				</p>
-			</li>
-
-                        <li data-date="16/03/2007">
-				<p class="contenido">	
-                                    <img src="img/evento2.png">                                    
-				</p>
-			</li>
-
-                        <li data-date="01/07/2007">
-				<p class="contenido">	
-                                    <img src="img/evento2.png">                                    
-				</p>
-			</li>
-
-                        <li data-date="01/10/2008">
-				<p class="contenido">	
-                                    <img src="img/evento2.png">                                    
-				</p>
-			</li>
-
-                        <li data-date="01/01/2009">
-				<p class="contenido">	
-                                    <img src="img/evento2.png">                                    
-				</p>
-			</li>
-
-                        <li data-date="01/03/2009">
-				<p class="contenido">	
-                                    <img src="img/evento2.png">                                    
-				</p>
-			</li>
-
-                        <li data-date="19/10/2010">
-				<p class="contenido">	
-                                    <img src="img/evento2.png">                                    
-				</p>
-			</li>
-
-                        <li data-date="01/01/2012">
-				<p class="contenido">	
-                                    <img src="img/evento2.png">                                    
-				</p>
-			</li>
-
-                        <li data-date="08/08/2012">
-				<p class="contenido">	
-                                    <img src="img/evento2.png">                                    
-				</p>
-			</li>
-
-                        <li data-date="01/08/2013">
-				<p class="contenido">	
-                                    <img src="img/evento2.png">                                    
-				</p>
-			</li>
-
-                        <li data-date="13/02/2014">
-				<p class="contenido">	
-                                    <img src="img/evento2.png">                                    
-				</p>
-			</li>
-
-                        <li data-date="01/01/2017">
-				<p class="contenido">	
-                                    <img src="img/evento2.png">                                    
-				</p>
-			</li>
 		</ol>
 	</div> <!-- .events-content -->
         <div class="timeline" style="margin-top: -1%;">
 		<div class="events-wrapper">
                     <div class="events">
                         <ol>
-					<li><a href="#0" data-date="01/03/1992" class="selected">1</a></li>
-                                        <li><a href="#0" data-date="09/03/1992">2</a></li>
-					<li><a href="#0" data-date="28/05/1992">3</a></li>
-					<li><a href="#0" data-date="01/10/1992">4</a></li>
-					<li><a href="#0" data-date="01/11/1992">5</a></li>
-					<li><a href="#0" data-date="06/12/1997">6</a></li>
-					<li><a href="#0" data-date="04/10/1998">7</a></li>
-					<li><a href="#0" data-date="19/11/1998">8</a></li>
-					<li><a href="#0" data-date="09/10/2001">9</a></li>
-					<li><a href="#0" data-date="01/01/2002">10</a></li>
-					<li><a href="#0" data-date="26/04/2002">11</a></li>
-                                        <li><a href="#0" data-date="11/04/2003">12</a></li>
-                                        <li><a href="#0" data-date="01/04/2004">13</a></li>
-                                        <li><a href="#0" data-date="01/01/2005">14</a></li>
-                                        <li><a href="#0" data-date="01/01/2006">15</a></li>
-                                        <li><a href="#0" data-date="10/02/2006">16</a></li>
-                                        <li><a href="#0" data-date="16/03/2006">17</a></li>
-                                        <li><a href="#0" data-date="04/12/2006">18</a></li>
-                                        <li><a href="#0" data-date="16/03/2007">19</a></li>
-                                        <li><a href="#0" data-date="01/07/2007">20</a></li>
-                                        <li><a href="#0" data-date="01/10/2008">21</a></li>
-                                        <li><a href="#0" data-date="01/01/2009">22</a></li>
-                                        <li><a href="#0" data-date="01/03/2009">23</a></li>
-                                        <li><a href="#0" data-date="19/10/2010">24</a></li>
-                                        <li><a href="#0" data-date="01/01/2012">25</a></li>
-                                        <li><a href="#0" data-date="08/08/2012">26</a></li>
-                                        <li><a href="#0" data-date="01/08/2013">27</a></li>
-                                        <li><a href="#0" data-date="13/02/2014">28</a></li>
-                                        <li><a href="#0" data-date="01/01/2017">29</a></li>
+					<li><a href="#0" data-date="01/01/1991" class="selected">1</a></li>
+                                        <li><a href="#0" data-date="01/06/1991">2</a></li>
+					<li><a href="#0" data-date="01/01/1992">3</a></li>
+					<li><a href="#0" data-date="01/06/1992">4</a></li>
+					<li><a href="#0" data-date="01/01/1993">5</a></li>
+					<li><a href="#0" data-date="01/06/1993">6</a></li>
+					<li><a href="#0" data-date="01/01/1994">7</a></li>
+					<li><a href="#0" data-date="01/06/1994">8</a></li>
+					<li><a href="#0" data-date="01/01/1995">9</a></li>
+					<li><a href="#0" data-date="01/06/1995">10</a></li>
+					<li><a href="#0" data-date="01/01/1996">11</a></li>
+                                        <li><a href="#0" data-date="01/06/1996">12</a></li>
+                                        <li><a href="#0" data-date="01/01/1997">13</a></li>
+                                        <li><a href="#0" data-date="01/06/1997">14</a></li>
+                                        <li><a href="#0" data-date="01/01/1998">15</a></li>
+                                        <li><a href="#0" data-date="01/06/1998">16</a></li>
+                                        <li><a href="#0" data-date="01/01/1999">17</a></li>
+                                        <li><a href="#0" data-date="01/06/1999">18</a></li>
+                                        <li><a href="#0" data-date="01/01/2000">19</a></li>
+                                        <li><a href="#0" data-date="01/06/2000">20</a></li>
+                                        <li><a href="#0" data-date="01/01/2001">21</a></li>
+                                        <li><a href="#0" data-date="01/06/2001">22</a></li>
+                                        <li><a href="#0" data-date="01/01/2002">23</a></li>
+                                        <li><a href="#0" data-date="01/06/2002">24</a></li>
+                                        <li><a href="#0" data-date="01/01/2003">25</a></li>
+                                        <li><a href="#0" data-date="01/06/2003">26</a></li>
+                                        <li><a href="#0" data-date="01/01/2004">27</a></li>
+                                        <li><a href="#0" data-date="01/06/2004">28</a></li>
+                                        <li><a href="#0" data-date="01/01/2005">29</a></li>
 				</ol>
 				<span class="filling-line" aria-hidden="true"></span>
 			</div> <!-- .events -->

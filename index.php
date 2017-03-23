@@ -200,7 +200,7 @@
             
         </div>
 
-<div id="div100Slider" style="background: #345399">
+<div id="div100Slider" style="background: #17529d;">
     <div id="divSlider" class="container">                            
         <div id="Glide2" class="glide">
             <div id="flechasSlider" class="glide__arrows">
@@ -209,7 +209,7 @@
             </div>
             <div class="glide__wrapper">
                 <ul class="glide__track">
-                    <li class="glide__slide">
+                    <!--<li class="glide__slide">
                         <div style="text-align: center; width: 80%; margin-left: 10%; margin-top:8%; color:white; font-family: gill sans; vertical-align: top;"><table>
                                 <tr><td colspan="10"><img src="imagenes/numeralia/Boca-del-Río.png" /></td></tr>                                
                                 <tr><td style="vertical-align: top"><div style="color: #fcffab; font-weight: bold; font-size: 5em; padding-top: 20px">1,<span id="contador1" data-from="0" data-to="164" class="contador"></span></div><br/>Becas entregadas</td>
@@ -224,9 +224,10 @@
                                     <td style="vertical-align: top">Monto de becas otorgadas<br/><div style="color: #fcffab; font-weight: bold; font-size: 3em; padding-top: 20px;">$5'587,<span id="contador3" data-from="0" data-to="200" class="contador"></span></div></td>
                                 </tr>                             
                         </table></div>
-                    </li>
-                    <li class="glide__slide"><div style="text-align: center">Numeraria 2</div></li>
-                    <li class="glide__slide"><div style="text-align: center">Numeraria 3</div></li>
+                    </li>-->
+                    <li class="glide__slide"><img id="imgSlider" src="imagenes/numeralia/numeralia1.png" style="padding-top: 3%"/></li>
+                    <li class="glide__slide"><img id="imgSlider" src="imagenes/numeralia/numeralia2.png" style="padding-top: 3%"/></li>
+                    <li class="glide__slide"><img id="imgSlider" src="imagenes/numeralia/numeralia3.png" style="padding-top: 3%"/></li>
                 </ul>
             </div>
             <!--<div id="puntosSlider" class="glide__bullets"></div>-->

@@ -22,8 +22,8 @@
 							<div class="4u 12u(mobile)">
 								<section class="highlight">									
 									<h3>Unidad de transparencia</h3><br/>
-									<p><a><b>Obligaciones</b></a><br /><br/><a><b>Derechos ARCO</b></a><br/><br/><a><b>Acreditaciones y certificaciones</a></b><br/><br/><a><b>Aviso de privacidad</b></a></p><br>
-                                                                        <a><h3 style="font-size:25px">Informe de labores</h3></a>
+									<p><a href="http://localhost/fuvAniversario/transparencia/?tipo=1"><b>Obligaciones</b></a><br/><br/><!--<a><b>Acreditaciones y certificaciones</b></a><br/><br/>--><a href="http://localhost/fuvAniversario/transparencia/?tipo=3"><b>Aviso de privacidad</b></a></p><br><br/><br/>
+                                                                        <a href="../transparencia/pdf/IAL FUV 2015-16 v con fotos.pdf" target="_blank"><h3 style="font-size:25px">Informe de labores</h3></a>
 								</section>
 							</div>
                                                     </div>
@@ -34,8 +34,8 @@
                                                     <table>
                                                         <tr>
                                                             <td style="text-align: right; padding-right:5%; vertical-align: middle" width="50%">Todos los derechos reservados© 2017 Fundación de la Universidad Veracruzana, A.C.</td>
-                                                            <td width="10%"><img src="http://localhost/fuvAniversario/assets/css/images/logo-UV.png"/></td>
-                                                            <td width="20%"><img src="http://localhost/fuvAniversario/assets/css/images/logo-semefi.png"/></td>
+                                                            <td width="10%"><a href="http://www.uv.mx/" target="_blank"><img src="http://localhost/fuvAniversario/assets/css/images/logo-UV.png"/></a></td>
+                                                            <td width="20%"><a href="https://www.cemefi.org/images/stories/directorios/" target="_blank"><img src="http://localhost/fuvAniversario/assets/css/images/logo-semefi.png"/></a></td>
                                                         </tr>
                                                     </table>                                                        													
                                                                                               
@@ -52,17 +52,17 @@
 							</div>
 							<div class="4u 12u(mobile)">
 								<section class="highlight">									
-									<h3>Organización y estructura</h3>                                                                        
+									<a href="http://localhost/fuvAniversario/organizacion/"><h3>Organización y estructura</h3></a>
 								</section>
 							</div>
 							<div class="4u 12u(mobile)">
 								<section class="highlight">									
-									<h3>Unidad de transparencia</h3>   									
+                                                                        <a href="http://localhost/fuvAniversario/transparencia/"><h3>Unidad de transparencia</h3></a>
 								</section>
 							</div>
                                                         <div class="4u 12u(mobile)">
 								<section class="highlight">									
-									<h3 style="font-size:25px">Informe de labores</h3>  									
+                                                                        <a href="../transparencia/pdf/IAL FUV 2015-16 v con fotos.pdf" target="_blank"><h3 style="font-size:25px">Informe de labores</h3></a>
 								</section>
 							</div>
                                                     </div>
