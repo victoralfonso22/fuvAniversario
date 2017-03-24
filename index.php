@@ -18,10 +18,9 @@
             </div>
 
             <div class="glide__wrapper">
-                <ul class="glide__track">
-                    <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-1.jpg" /></li>
+                <ul class="glide__track">                    
                     <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-2.jpg" /></li>
-                    <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-3.jpg" /></li>
+                    <li class="glide__slide"><a href="http://localhost/fuvAniversario/que_hacemos/becas/?tipo=4"><img id="imgSlider" src="imagenes/carrusel-3.jpg" /></a></li>
                     <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-4.jpg" /></li>
                     <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-5.jpg" /></li>
                 </ul>
@@ -269,7 +268,7 @@
 
     $("#Glide2").glide({
         type: "slideshow",
-        autoplay: false       
+        autoplay: 5000       
     });
 
     $(document).ready(function(){

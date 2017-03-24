@@ -3043,6 +3043,28 @@
 				#logo h1 {
 					font-size: 1.75em;
 				}
+                                
+                                /*Slider tablet*/
+                                
+                                #divSlider{    
+                            height: 310px !important;
+                            margin: 0 auto !important;
+                            display: block !important;
+                            vertical-align:middle;
+                        }
+
+                        #div100Slider{
+                            height: auto;
+                            width: 100%;
+                            background: #013965;
+                        }
+
+                        #imgSlider {
+                            display: block !important;			
+                            margin: auto !important;
+                            width: 100% !important;
+                            height: 100% !important;
+                        }
                         
                                 
                         /* Seccion de noticas en el home*/
@@ -3583,8 +3605,12 @@
 		/* Logo */
                         
                 #logoPrincipal{
-                    text-align: center;
-                }
+                             
+                             z-index: 4;                             
+                             position: relative;
+                             text-align: center;
+                                          
+                        }
                 
                 #fechaPrincipalMovil{
                     display: block;
@@ -3664,27 +3690,26 @@
                         }
                         
                         /*Implementacion del slider para version mobil By viko 01-03-2017*/ 
-                        #divSlider{    
-                            height: 110px !important;
-                            margin: 0 auto !important;
+                        #divSlider{          
+                         height: 150px;
                             display: block !important;
                             vertical-align:middle;
                         }
-
+                            
                         #div100Slider{
-                            height: auto;
+                            height: 100% !important;
                             width: 100%;
                             background: #013965;
                         }
 
                         #imgSlider {
                             display: block !important;			
-                            margin: auto !important;
+                            height: 100% !important;
                             width: 100% !important;
                         }
                         
                         #divSliderNotas{
-                            height: 110px !important;
+                            height: 120px !important;
                             margin: 0 auto !important;
                             display: block !important;
                             vertical-align:middle;
@@ -3699,6 +3724,7 @@
                             display: block !important;			
                             margin: auto !important;
                             width: 100% !important;                            
+                            height: 100% !important;                            
                             padding: 0 !important;
                         }
                         

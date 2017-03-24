@@ -187,7 +187,7 @@ if($_GET['tipo'] == 1){
     </div>
     <div id="beisMas" style="display: none">
     <div id="divSubMenuNota">
-        <div class="div1">
+        <div class="div1Notas">
     <div class="encabezadoSub">
         <img class="puntero" onclick="mostrarOcultar('beisMenos','beisMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Campo de Béisbol</label>
     </div>
@@ -203,6 +203,43 @@ if($_GET['tipo'] == 1){
                 <li type= disc>Entre los artistas que se han presentado en este espacio se encuentran Alejandra Guzmán, Moderatto, Silvio Rodríguez y Juan Formell y los Van Van, entre otros.</li>
             </ul>
     </div>
+        <div class="div2Notas" style=" text-align: right ; " >
+                <div style="padding-left: 0 !important;">
+                    <a data-fancybox="beis" href="img/beis/1.jpg">
+                    <img src="img/beis/1.jpg">
+                </a>
+
+                <a data-fancybox="beis" href="img/beis/2.jpg">
+                    <img src="img/beis/2.jpg">
+                </a>
+            </div>
+                <div style="padding-left: 0 !important;">
+                    <a data-fancybox="beis" href="img/beis/3.jpg">
+                        <img src="img/beis/3.jpg">
+                </a>
+
+                    <a data-fancybox="beis" href="img/beis/4.jpg">
+                        <img src="img/beis/4.jpg">
+                </a>
+            </div>
+                <div style="padding-left: 0 !important;">
+                    <a data-fancybox="beis" href="img/beis/5.jpg">
+                        <img src="img/beis/5.jpg">
+                </a>
+                    <a data-fancybox="beis" href="img/beis/6.jpg">
+                        <img src="img/beis/6.jpg">
+                </a>
+
+            </div>
+            
+            <div style="padding-left: 0 !important;">
+                    
+                    <a data-fancybox="beis" href="img/beis/7.jpg">
+                        <img src="img/beis/7.jpg">
+                </a>
+
+            </div>
+            </div>
         <p>Consulta la disponibilidad de este espacio llamando al (228) 842 17 00 ext. 11034 o al (228) 117 94 96</p>
 </div>
 

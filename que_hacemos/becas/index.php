@@ -268,7 +268,7 @@ Con la finalidad de sumar esfuerzos a esta causa social, que permitiera maximiza
 <div class="encabezadoSub">
     <img class="puntero" onclick="mostrarOcultar('convocaMenos','convocaMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Convocatoria / resultados</label>
     </div>
-Convocatorias y resultados
+
 <p>
 La beca que la Fundaci&oacute;n UV otorga a estudiantes de la Universidad Veracruzana, opera la modalidad de acompa&ntilde;amiento, es decir que nuestros beneficiarios pueden mantenerla desde que ingresan al programa hasta que concluyen sus estudios profesionales, siempre y cuando cumplan con los requisitos y lineamientos que, en cada periodo escolar, se establecen en la Convocatoria P&uacute;blica de Becas. </p>
 
