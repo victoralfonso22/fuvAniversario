@@ -1,24 +1,24 @@
 	
 			<?php include('../template/cabecera.php'); ?>
 								
-					<div id="main" class="container">
+					<div class="container">
                                                 <header class="style1">
                                                     <h2>Quiénes somos</h2>
                                                     <div class="bordeAbajo"/>
                                                 </header>
 						<!-- Image -->
-                                                        <a href="" class="image featured" style="margin-top: -3.6%" style="cursor: none">
-                                                            <img src="img/quienes_somos.png" alt="" />
+                                                        <a href="" class="image featured" style="margin-top: -3.6%; margin-bottom: 0px" style="cursor: none">
+                                                            <img src="img/quienes_somos.png"/>
 							</a>
-
+                                                <div class="container" style="background-color: white;">
 						<!-- Features -->
 							<section id="features">								
 								<div class="feature-list">
-									<div class="row" style="margin-left:-11%; text-align: justify">
-                                                                            <div class="6u 12u(mobile)">
+									<div class="row" style="text-align: justify">
+                                                                            <div class="12u" style="margin-left: -5%; width: 100%;">
 
-                                                                                                <!--<h3 style="margin-left:-40%">Qué es y que hace</h3>-->
-												<p>Somos una Asociación Civil conformada por un grupo de ex alumnos UV, empresarios y miembros destacados de la sociedad veracruzana que, en 1992, 
+                                                                                                <!--<h3 style="margin-left:-40%">Qué es y que hace</h3>--><br>
+                                                                                                <p>Somos una Asociación Civil conformada por un grupo de ex alumnos UV, empresarios y miembros destacados de la sociedad veracruzana que, en 1992, 
                                                                                                 se unieron buscando estrechar el vínculo entre la Universidad Veracruzana y los diversos sectores de la sociedad.<br/><br/>Hasta el día de hoy:
                                                                                                 </p>
                                                                                                 <p style="padding-left:5%">
@@ -31,37 +31,36 @@
 												<p><span style="font-family:Open Sans Bold; color: #5FA8CA; font-size: 19px;">Misión, visión y filosofía organizacional</span><br/><b>Misión:</b> Somos una Asociación Civil sin fines de lucro que orienta necesidades sociales y productivas hacia el talento y experiencia  de la comunidad UV  para beneficio de la sociedad.<br/><br/>
                                                                                                 <b>Visión:</b> Ser la institución veracruzana con mayor índice de participación e impacto social debido a un ejercicio constante de procuración de recursos diversos.</p>
                                                                                                 <br>
-												<p><span style="font-family:Open Sans Bold; color: #5FA8CA; font-size: 19px;">Principio</span><br/><b>“Siempre Universitarios”</b><br>Retomamos el espíritu universitario para que sea principio de nuestras acciones. 
-                                                                                                 Identificamos el carácter de la Fundación con la experiencia universitaria, enriquecida al mostrar esperanza frente a los cambios y curiosidad e innovación para responder ante ellos.</p>
-
-										</div>
-										<div class="6u 12u(mobile)">                                                                                                
-                                                                                                <p>Como en la vida de un estudiante nos descubrimos en facetas deportivas, recreativas, culturales y sociales; valoramos el contacto con personas de distinta procedencia, intereses y estamos atentos al consejo de los más experimentados. Reconocemos la gran valía de la autonomía. Vivimos con entusiasmo lo que hacemos, perseverantes ante los retos, con sentido de comunidad y solidaridad abanderando el trabajo en equipo. 
+                                                                                                <p><span style="font-family:Open Sans Bold; color: #5FA8CA; font-size: 19px;">Principio</span><br/><b>“Siempre Universitarios”</b><br>Retomamos el espíritu universitario para que sea principio de nuestras acciones. 
+                                                                                                 Identificamos el carácter de la Fundación con la experiencia universitaria, enriquecida al mostrar esperanza frente a los cambios y curiosidad e innovación para responder ante ellos.
+                                                                                                Como en la vida de un estudiante nos descubrimos en facetas deportivas, recreativas, culturales y sociales; valoramos el contacto con personas de distinta procedencia, intereses y estamos atentos al consejo de los más experimentados. Reconocemos la gran valía de la autonomía. Vivimos con entusiasmo lo que hacemos, perseverantes ante los retos, con sentido de comunidad y solidaridad abanderando el trabajo en equipo. 
                                                                                                 <b>Siempre universitarios</b> refleja la responsable apertura al cambio y el espíritu que el universitario construye en su paso por la universidad.</p>
-                                                                                                <br/>
-												<p><span style="font-family:Open Sans Bold; color: #5FA8CA; font-size: 19px;">Valores</span><br/>
+                                                                                                
+										</div>
+                                                                            <div class="6u 12u(mobile)">                                                                                                                                                                                                                                                                                                											                                                                                    
+                                                                                    <p><span style="font-family:Open Sans Bold; color: #5FA8CA; font-size: 19px;">Valores</span><br>
                                                                                                    <div style="padding-left:20%">
                                                                                                         ● Honorabilidad<br>
                                                                                                         ● Transparencia<br>
-                                                                                                        ● Efectividad<br></div></p><br/>
-                                                                                                <p><span style="font-family:Open Sans Bold; color: #5FA8CA; font-size: 19px;">Ámbitos de impacto</span><br/>
+                                                                                                        ● Efectividad<br></div></p><br>
+                                                                                                <p><span style="font-family:Open Sans Bold; color: #5FA8CA; font-size: 19px;">Ámbitos de impacto</span><br>
                                                                                                    <div style="padding-left:20%">
-                                                                                                        ● Económico<br/>
-                                                                                                        ● Social<br/>
-                                                                                                        ● Deportivo<br/>
-                                                                                                        ● Sostenible<br/>
-                                                                                                        ● Cultural</div>
+                                                                                                        ● Económico<br>
+                                                                                                        ● Social<br>
+                                                                                                        ● Deportivo<br>
+                                                                                                        ● Sostenible<br>
+                                                                                                        ● Cultural</div><br>
                                                                                                 </p>
-
 										</div>
 									</div>									
 								</div>								
 							</section>
+                                                </div>
 
 					</div>
 				
                                     <div>
-<section class="cd-horizontal-timeline" style="background: white;">	
+<section class="cd-horizontal-timeline" style="background: white; margin-top: -2%" id="lineadeltiempo">	
         <div class="events-content" style="background: url(img/back-azul.png) repeat;">
 		<ol>
 			<li class="selected" data-date="01/01/1991">                                 				
@@ -255,6 +254,36 @@
                                     <img src="img/evento32.png">                                    
 				</p>
 			</li>
+                        
+                        <li data-date="01/01/2007">
+				<p class="contenido">	
+                                    <img src="img/evento33.png">                                    
+				</p>
+			</li>
+                        
+                        <li data-date="01/06/2007">
+				<p class="contenido">	
+                                    <img src="img/evento34.png">                                    
+				</p>
+			</li>
+                        
+                        <li data-date="01/01/2008">
+				<p class="contenido">	
+                                    <img src="img/evento35.png">                                    
+				</p>
+			</li>
+                        
+                        <li data-date="01/06/2008">
+				<p class="contenido">	
+                                    <img src="img/evento36.png">                                    
+				</p>
+			</li>
+                        
+                        <li data-date="01/01/2009">
+				<p class="contenido">	
+                                    <img src="img/evento37.png">                                    
+				</p>
+			</li>
 		</ol>
 	</div> <!-- .events-content -->
         <div class="timeline" style="margin-top: -1%;">
@@ -293,6 +322,11 @@
                                         <li><a href="#0" data-date="01/06/2005">30</a></li>
                                         <li><a href="#0" data-date="01/01/2006">31</a></li>
                                         <li><a href="#0" data-date="01/06/2006">32</a></li>
+                                        <li><a href="#0" data-date="01/01/2007">33</a></li>
+                                        <li><a href="#0" data-date="01/06/2007">34</a></li>
+                                        <li><a href="#0" data-date="01/01/2008">35</a></li>
+                                        <li><a href="#0" data-date="01/06/2008">36</a></li>
+                                        <li><a href="#0" data-date="01/01/2009">37</a></li>
 				</ol>
 				<span class="filling-line" aria-hidden="true"></span>
 			</div> <!-- .events -->

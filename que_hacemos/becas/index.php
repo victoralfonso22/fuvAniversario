@@ -257,7 +257,7 @@ Con la finalidad de sumar esfuerzos a esta causa social, que permitiera maximiza
 
 </div>
     </div>
-<div class="separadorSubmenu" />
+<div class="separadorSubmenu"></div>
 
 <!----------------    Texto para seccion Convocatorias y resultados ----------------->
 
@@ -274,29 +274,28 @@ La beca que la Fundaci&oacute;n UV otorga a estudiantes de la Universidad Veracr
 
 <p>La Convocatoria es abierta de forma bianual en los meses de febrero y agosto y el proceso de solicitud es como se muestra en la imagen:</p>
 
-
-
 <div id="div100SliderNotas" class="container">
     <div id="divSliderNotas" >                            
-        <div id="Glide" class="glide">
-
-            
-
+        <div id="Glide" class="glide">           
             <div class="glide__wrapper">
                 <ul class="glide__track" style="padding-left: 0;">
                     <li class="glide__slide" ><a  href="" target="_blank"><img id="imgSliderNotas" style="width: 80%" src="img/proceso para solicitar una beca.png" /></a></li>                    
                 </ul>
-            </div>
-
-            
-
-        </div>
-    </div>
+            </div>            
+        </div>              
+    </div>    
 </div>
-
 <br />
-<br />
-<div id="paddinFonfoBecas"/>
+<br /><br /><br /><br /><br />
+<div id="paddinFonfoBecas"></div>
+<p class="h3subMenu" style="margin-top: 0px">Resultados becas Fundación UV / periodo Febrero - Julio 2017</p>
+<p style="text-align: center">
+    <a style="padding-right: 7%"><img src="img/Veracruz---Boca-del-Río.png" style="height: 60px"></a>
+<a style="padding-right: 6%"><img src="img/Córdoba---Orizaba.png" style="height: 60px"></a>
+<a><img src="img/Coatzacoalcos-Minatitlan.png" style="height: 60px"></a></p>
+<p style="text-align: center">
+<a style="padding-right: 10%"><img src="img/Poza-Rica---Tuxpan.png" style="height: 60px"></a>
+<a><img src="img/Xalapa.png" style="height: 60px"></a></p>
     </div>
     </div>
 </div>

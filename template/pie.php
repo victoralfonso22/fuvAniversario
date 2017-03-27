@@ -6,9 +6,9 @@
 							<div class="4u 12u(mobile)">
 								<section class="highlight">									
                                                                         <h3>Contáctanos<br/><!--<span style="font-size:14px">Te canalizaremos al área que corresponda</span>--></h3>
-                                                                        <p><img src="http://localhost/fuvAniversario/assets/css/images/icon-mail.png"/><span style="margin-left:4%">contacto@fundacionuv.org.mx</span><br />
+                                                                        <p><a href="http://localhost/fuvAniversario/contacto"><img src="http://localhost/fuvAniversario/assets/css/images/icon-mail.png"/><span style="margin-left:4%">contacto@fundacionuv.org.mx</span></a><br />
                                                                            <img style="padding-top:5%" src="http://localhost/fuvAniversario/assets/css/images/icon-tel.png"/><span style="margin-left:6%">Teléfonos:</span><br /><a style="margin-left:15%" href="tel:018008384181">01-800-838-4181</a><br /><a style="margin-left:15%" href="tel:522288415922">+52 (228) 841 59 22</a><br />
-                                                                           <a href="https://www.google.com.mx/maps/place/Fundaci%C3%B3n+de+la+Universidad+Veracruzana+A.C./@19.5273502,-96.9103014,18z/data=!4m5!3m4!1s0x0:0x4ab4a54c408f391c!8m2!3d19.5281342!4d-96.9074573" target="_blank"><img src="http://localhost/fuvAniversario/assets/css/images/icon-map.png"/><span style="margin-left:6%">Calle Veracruz No 46 Int 2 y 3</span><br /><span style="margin-left:14%">Fraccionamiento Pomona</span><br /><span style="margin-left:14%">C.P. 91040 Xalapa, Veracruz</span></a></p>
+                                                                           <a href="http://localhost/fuvAniversario/contacto"><img src="http://localhost/fuvAniversario/assets/css/images/icon-map.png"/><span style="margin-left:6%">Calle Veracruz No 46 Int 2 y 3</span><br /><span style="margin-left:14%">Fraccionamiento Pomona</span><br /><span style="margin-left:14%">C.P. 91040 Xalapa, Veracruz</span></a></p>
 								</section>
 							</div>
 							<div class="4u 12u(mobile)">
@@ -45,26 +45,14 @@
                                             <!-- Highlights -->                                            					
                                             <div id="highlights" class="container" style="margin-bottom: 7%; margin-left:-5%;">
                                                     <div class="row 50%">
-							<div class="4u 12u(mobile)">
-								<section class="highlight">									
-                                                                        <h3>Contáctanos</h3>                                                                                                                                        
-								</section>
-							</div>
-							<div class="4u 12u(mobile)">
-								<section class="highlight">									
-									<a href="http://localhost/fuvAniversario/organizacion/"><h3>Organización y estructura</h3></a>
-								</section>
-							</div>
-							<div class="4u 12u(mobile)">
-								<section class="highlight">									
-                                                                        <a href="http://localhost/fuvAniversario/transparencia/"><h3>Unidad de transparencia</h3></a>
-								</section>
-							</div>
                                                         <div class="4u 12u(mobile)">
 								<section class="highlight">									
-                                                                        <a href="../transparencia/pdf/IAL FUV 2015-16 v con fotos.pdf" target="_blank"><h3 style="font-size:25px">Informe de labores</h3></a>
+                                                                        <h3 style="font-size:1em">Contáctanos</h3>
+                                                                        <a href="http://localhost/fuvAniversario/organizacion/"><h3 style="font-size:1em">Organización y estructura</h3></a>
+                                                                        <a href="http://localhost/fuvAniversario/transparencia/"><h3 style="font-size:1em">Unidad de transparencia</h3></a>
+                                                                        <a href="../transparencia/pdf/IAL FUV 2015-16 v con fotos.pdf" target="_blank"><h3 style="font-size:1.5em">Informe de labores</h3></a>
 								</section>
-							</div>
+							</div>							                                                        
                                                     </div>
                                                 </div>                                              
 			</div>   
