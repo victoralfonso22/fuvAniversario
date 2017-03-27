@@ -21,10 +21,10 @@ if($_GET['tipo'] == 1){
 });</script>";
 }else if ($_GET['tipo'] == 3){
     echo "<script>$(document).ready(function() {
-    $('#gimMenos').hide();
-    $('#gimMas').show();
+    $('#futMenos').hide();
+    $('#futMas').show();
     $('html,body').animate({
-    scrollTop: $('#gimMas').offset().top
+    scrollTop: $('#futMas').offset().top
     }, 1000);
 });</script>";
 }
@@ -287,6 +287,37 @@ Para el entrenamiento femenil, se aceptan desde los 10 hasta los 20 años, divid
 </div>
 
 </div>
+            
+            
+            <div id="futMenos" class="encabezadoSub">
+        <img class="puntero" onclick="mostrarOcultar('futMas','futMenos');" style="vertical-align: middle; padding-top: .3em;" src="img/desplegar icon.png">&nbsp;&nbsp;<label>Programa de Fútbol Americano</label>
+    </div>
+    <div id="futMas" style="display: none">
+    <div id="divSubMenuNota">
+        
+    <div class="encabezadoSub">
+        <img class="puntero" onclick="mostrarOcultar('futMenos','futMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Programa de Fútbol Americano</label>
+    </div>          
+            
+
+        <p>La formación integral de un estudiante exige, a la par de lo profesional, actividades deportivas.  El propósito del Programa de Futbol Americano Halcones de la Universidad Veracruzana, es ofrecer a la comunidad universitaria y público en general la oportunidad de poner en práctica los fundamentos de este deporte, tales como estrategias y posiciones dentro del campo, entrenamientos para desarrollar la habilidad de corredor, bloqueador y tacleador.</p>
+        <p>Este programa está convencido que un jugador, además de fundamentos técnicos, aprende a guiarse dentro y fuera de la cancha por valores que se desarrollan al pertenecer a un equipo. Halcones ofrece la oportunidad de conocer los beneficios de la autodisciplina, el trabajo en equipo, la obediencia a las reglas, la toma de decisiones y el dar un segundo esfuerzo, aspectos de interés común al deporte y al estudio.</p>
+        <p>Las categorías que incluye son Intermedia, Femenil y Liga Mayor. En la rama varonil pueden participar jóvenes de 18 a 25 años de edad, y en la femenil, de 13 a 25 años de edad. En ambas ramas los entrenamientos se llevan a cabo en la Unidad Deportiva del Campus CAD Xalapa todo el año y están a cargo del Head Coach José Luis Izquierdo Bustamante.</p>
+        <p>Si te interesa saber más sobre este programa comunícate al (228) 842 17 00 ext. 11673 o mantente al tanto de sus actividades por medio de sus perfiles en redes sociales.</p>
+               
+        
+        <a target="_blank" href="https://www.facebook.com/UVfutbolamericano"><img src="../../assets/css/images/face.png" onmouseover="this.src='../../assets/css/images/face-hover.png'" onmouseout="this.src='../../assets/css/images/face.png'"></a>
+        &nbsp;&nbsp;<a target="_blank" href="https://twitter.com/halconesuvfba"><img src="../../assets/css/images/twett.png" onmouseover="this.src='../../assets/css/images/twett-hover.png'" onmouseout="this.src='../../assets/css/images/twett.png'"></a>
+        <br />
+        
+</div>
+
+</div>
+            
+            
+            
+            
+            
             
             
         </div>

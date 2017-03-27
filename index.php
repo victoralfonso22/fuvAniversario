@@ -22,7 +22,7 @@
                     <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-2.jpg" /></li>
                     <li class="glide__slide"><a href="http://localhost/fuvAniversario/que_hacemos/becas/?tipo=4"><img id="imgSlider" src="imagenes/carrusel-3.jpg" /></a></li>
                     <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-4.jpg" /></li>
-                    <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-5.jpg" /></li>
+                    <li class="glide__slide"><a href="blog/noticias/acelerador.php"><img id="imgSlider" src="imagenes/carrusel-5.jpg" /></a></li>
                 </ul>
             </div>
 
@@ -95,15 +95,37 @@
     <div id="tablaNoticiasHomeMovil">
 
     <div style="padding-left: 0 !important;">
-        <a data-fancybox="gallery" href="imagenes/accesosRapidos/action beca-hover.png">
-                        <img src="imagenes/accesosRapidos/action beca-hover.png">
-                </a>
-
-                    <a data-fancybox="gallery" href="imagenes/accesosRapidos/action beca-hover.png">
-                        <img src="imagenes/accesosRapidos/action beca-hover.png">
-                </a>
+         <div id="divMenuBlog">
+        <div>
+            <table>
+                <tr><td class="tituloNoticia">Primera noticia posteada por viko</td></tr>
+                <tr><td><img src="blog/img/ancho-290-px-copia-5.png"></td></tr>
+                <tr><td class="pieNoticia">Marzo de 2017</td></tr>
+                <tr><td class="masNoticia">Estan Cansado??, noooooo.... Que si estan cansado???, nooooooooooo</td></tr>
+                <tr><td class="botonNoticia"><img src="img/leer-mas.png" onmouseover="this.src='img/leer-mas-hover.png'" onmouseout="this.src='img/leer-mas.png'"></td></tr>
+            </table>
+        <table>
+                <tr><td class="tituloNoticia">“Urgencia de equipo, urgencia de vida”: gestión de magno proyecto de la FUV</td></tr>
+                <tr><td><img class="imagenBlogPrincipal193" src="blog/img/lineal/2.jpg"></td></tr>
+                <tr><td class="pieNoticia">Marzo de 2017</td></tr>
+                <tr><td class="masNoticia">En el marco de los 25 años de la Fundación UV, “Urgencia de Equipo, Urgencia de Vida” ha logrado posicionarse como el primer proyecto de gestión a gran escala.</td></tr>
+                <tr><td class="botonNoticia"><a href="blog/noticias/acelerador.php"><img src="blog/img/leer-mas.png" onmouseover="this.src='blog/img/leer-mas-hover.png'" onmouseout="this.src='blog/img/leer-mas.png'"></a></td></tr>
+            </table>
+            
+            <table>
+                <tr><td class="tituloNoticia">Programa Becas: dirigido al estudiante de buen desempeño y vulnerabilidad económica</td></tr>
+                <tr><td><img class="imagenBlogPrincipal193" src="blog/img/becas/4-8.jpg"></td></tr>
+                <tr><td class="pieNoticia">Marzo de 2017</td></tr>
+                <tr><td class="masNoticia">Ser estudiante conlleva una formación de tiempo completo.</td></tr>
+                <tr><td class="botonNoticia"><a href="blog/noticias/becas.php"><img src="blog/img/leer-mas.png" onmouseover="this.src='blog/img/leer-mas-hover.png'" onmouseout="this.src='blog/img/leer-mas.png'"></a></td></tr>
+            </table>
+        
+        </div>
+       
+        
             </div>
         <a href="blog/" style="text-decoration: none;"><input class="botonNoticasMovil" type="button" value="M&aacute;s noticias"/></a>
+    </div>
     </div>
 
     <!-- Least Gallery: Thumbnails -->
@@ -112,23 +134,25 @@
             <tr>
                 <td rowspan="2" colspan="2">
                 <div class="contenedor-img example2">
-                    <img class="imagenPrincipalNoticia"  src="imagenes/carrusel-1.jpg" />
+                    <img class="imagenPrincipalNoticia"  src="blog/img/instalaciones/1-1.jpg" />
                     <div class="mascara">
                     <div class="contenido">
-                        <h2>Prueba de mas noticia con mascara</h2>
-                             <p>Comunicación UV, Marzo 21 de 2017</p>
+                        <h2></h2>
+                             <p>Marzo de 2017</p>
                         
                         </div>
                         </div>
                 </td>
                 <td >
                     <div class="contenedor-img example2">
-                    <img  src="imagenes/carrusel-1.jpg" />
+                       <img  src="blog/img/instalaciones/1-2.jpg" /></a>
                     <div class="mascara">
+                        <a href="blog/noticias/instalaciones.php">
                            <div class="contenido">
-                              <h2>Prueba de mas noticia con mascara</h2>
-                             <p>Comunicación UV, Marzo 21 de 2017</p>
+                              <h2>Administración de Instalaciones: plataforma para el deporte, la cultura y la recreación</h2>
+                             <p>Marzo de 2017</p>
                            </div> 
+                            </a>
                     </div>
                     </div>
                   
@@ -139,12 +163,14 @@
                 
                 <td >
                     <div class="contenedor-img example2">
-                    <img  src="imagenes/carrusel-1.jpg" />
+                        <img  src="blog/img/procura/3-1.jpg" />
                     <div class="mascara">
+                        <a href="blog/noticias/procuracion.php">
                            <div class="contenido">
-                              <h2>Prueba de mas noticia con mascara</h2>
-                             <p>Comunicación UV, Marzo 21 de 2017</p>
+                              <h2>Eventos para la Procuración de Fondos: programa que nace con la Fundación</h2>
+                             <p>Marzo de 2017</p>
                            </div> 
+                            </a>
                     </div>
                     </div>
                   
@@ -153,43 +179,49 @@
             <tr>
                 <td >
                     <div class="contenedor-img example2">
-                    <img  src="imagenes/carrusel-1.jpg" />
+                        <img  src="blog/img/lineal/2-2.jpg" />
                     <div class="mascara">
+                        <a href="blog/noticias/acelerador.php">
                            <div class="contenido">
-                              <h2>Prueba de mas noticia con mascara</h2>
-                             <p>Comunicación UV, Marzo 21 de 2017</p>
+                              <h2>“Urgencia de equipo, urgencia de vida”: gestión de magno proyecto de la FUV</h2>
+                             <p>Marzo de 2017</p>
                            </div> 
+                        </a>
                     </div>
                     </div>
                   
               </td>
                <td >
                     <div class="contenedor-img example2">
-                    <img  src="imagenes/carrusel-1.jpg" />
+                        <img  src="blog/img/admon/5-1.jpg" />
                     <div class="mascara">
+                        <a href="blog/noticias/proyectos.php">
                            <div class="contenido">
-                           <h2>Prueba de mas noticia con mascara</h2>
-                             <p>Comunicación UV, Marzo 21 de 2017</p>
+                           <h2>Programa Administración de Proyectos: una trayectoria con impacto social</h2>
+                             <p>Marzo de 2017</p>
                            </div> 
+                        </a>
                     </div>
                     </div>
                   
               </td>
                <td >
                     <div class="contenedor-img example2">
-                    <img  src="imagenes/carrusel-1.jpg" />
+                        <img  src="blog/img/becas/4-2.jpg" />
                     <div class="mascara">
+                        <a href="blog/noticias/becas.php">
                            <div class="contenido">
-                              <h2>Prueba de mas noticia con mascara</h2>
-                             <p>Comunicación UV, Marzo 21 de 2017</p>
+                              <h2>Programa Becas: dirigido al estudiante de buen desempeño y vulnerabilidad económica</h2>
+                             <p>Marzo de 2017</p>
                            </div> 
+                        </a>
                     </div>
                     </div>
                   
               </td>
             </tr>
             <tr><td colspan="3"><br/></td></tr>
-            <tr><td colspan="3" style="text-align: right"><input class="botonNoticas" type="button" value="M&aacute;s noticias"/></td></tr>
+            <tr><td colspan="3" style="text-align: right"><a href="http://localhost/fuvAniversario/blog/"><input class="botonNoticas" type="button" value="M&aacute;s noticias"/></a></td></tr>
         </table>
 
 

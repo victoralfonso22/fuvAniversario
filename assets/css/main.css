@@ -18,6 +18,7 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
+                font-family: Open Sans Regular;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -1640,7 +1641,6 @@
         #donabecas2 {            
             display: none;
 	}
-                
 
 		#footer-wrapper h1, #footer-wrapper h2, #footer-wrapper h3, #footer-wrapper h4, #footer-wrapper h5, #footer-wrapper h6, #footer-wrapper strong, #footer-wrapper b, #footer-wrapper a {
 			color: #fff;
@@ -2661,6 +2661,13 @@
                                     font-size: 20px;
                                 }
                                 
+                                .h3subMenuNota{
+                                    color: #01AACD !important;
+                                    font-family: Open Sans Bold !important;
+                                    font-size: 23px !important;
+                                    font-weight: bold;
+                                }
+                                
                                 /*Seccion de noticias 07-03-2017 by viko*/
 
                                  /*Ajustes para el submenú*/
@@ -2731,6 +2738,12 @@
                                 .pieNoticia{
                                     font-family: Open Sans Bold;
                                     font-size: .5em;
+                                }
+                                
+                                .pieNoticiaNota{
+                                    font-family: Open Sans Bold;
+                                    font-size: .6em;
+                                    color: #013965;
                                 }
                                 
                                 .masNoticia{
@@ -2939,6 +2952,18 @@
 				margin-top: 0;
 				margin-bottom: 0;
 			}
+                        
+                        .imagenBlogPrincipal419{
+                            width: 290px;
+                            height: 419px;
+                            
+                        }
+                        
+                        .imagenBlogPrincipal193{
+                            width: 290px;
+                            height: 193px;
+                            
+                        }
 
 		/* Footer */
 
@@ -3794,8 +3819,25 @@
                                     font-size: 18px;
                                 }
                                 
+                                .h3subMenuNota{
+                                    color: #01AACD !important;
+                                    font-family: Open Sans Bold !important;
+                                    font-size: 20px !important;
+                                    font-weight: bold;
+                                }
+                                
                                 #paddinFonfoBecas{
                                     padding-bottom:  6.5em;
+                                }
+                                
+                                .imagenBlogPrincipal419{
+                                    width: 290px;
+                                    height: 419px;
+                                }
+                                
+                                .imagenBlogPrincipal193{
+                                    width: 290px;
+                                    height: 193px;
                                 }
                                 
 		/* Intro */
