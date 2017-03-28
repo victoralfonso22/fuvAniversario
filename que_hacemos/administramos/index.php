@@ -62,7 +62,7 @@ if($_GET['tipo'] == 1){
     <div class="encabezadoSub">
         <img class="puntero" onclick="mostrarOcultar('cadMenos','cadMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Campus CAD Xalapa</label>
     </div>
-    <p>El Campus para la Cultura, las Artes y el Deporte fue entregado en comodato a la Fundación UV el 9 de diciembre de 1998.</p>
+    <p>El Campus para la Cultura, las Artes y el Deporte fue entregado en comodato a la Fundación UV en 1998.</p>
     <p>Ubicado en la zona universitaria de Xalapa, es un espacio reconocido, por visitantes nacionales y extranjeros, por su belleza natural y la sana convivencia que se desarrolla en su interior.</p>
     <p>Con 33 hectáreas de extensión y vocación multidisciplinaria es sede de la Unidad de Servicios Bibliotecarios y de Información (USBI), Tlaqná. Centro Cultural (TCC), la Unidad Deportiva Universitaria (UDU), el Gimnasio Universitario, y además de institutos y laboratorios de investigación especializada, campeonatos deportivos locales, regionales y nacionales, cursos de verano para niños y jóvenes (julio-agosto) así como conciertos y espectáculos internacionales.</p>
     <div class="div1Notas">
@@ -129,7 +129,8 @@ if($_GET['tipo'] == 1){
         <div class="div1Notas">
     <p>El Campus CAD Xalapa ofrece este espacio para todas las personas de la comunidad universitaria y el público general que busca cuidar su salud y mantenerse activo, practicando deportes al aire libre.</p>
     <p>Cuenta con 12 canchas en las que se puede entrenar futbol soccer y americano, baloncesto, volibol, tenis, volibol playero y frontenis. Además tiene un campo de beisbol y una vitapista que es aprovechada todo el año por corredores regulares. </p>
-    <p>Cada año dentro de la UDU, la Fundación UV organiza dos torneos de futbol soccer varonil: Premier y Master, con el objetivo de ofrecer espacios para los amantes de este deporte.<br/>Además, es sede de:</p>
+    <p>Cada año dentro de la UDU, la Fundación UV organiza dos torneos de futbol soccer varonil: Premier y Master, con el objetivo de ofrecer espacios para los amantes de este deporte.<br/></p>
+    Además, es sede de:
     <ul>
         <li type= disc>Campeonato Universitario Telmex-Telcel varonil. Torneo nacional de futbol soccer más importante a nivel universitario.</li>
         <li type= disc>Liga Universitaria de Baloncesto. Torneo varonil y femenil nacional avalado por la ABE (Asociación de Basquetbol Estudiantil).</li>
@@ -156,11 +157,11 @@ if($_GET['tipo'] == 1){
                         </div>
             
         </div>
-        <p>También, es sede de los Centros de Formación Deportiva para niños y jóvenes y sus instalaciones fueron sede de algunas competencias durante los Juegos Centroamericanos y del Caribe, Veracruz 2014.</p>
+        <p>También es sede de los Centros de Formación Deportiva para niños y jóvenes y en sus instalaciones se llevaron a cabo algunas competencias durante los Juegos Centroamericanos y del Caribe, Veracruz 2014.</p>
         
         <p class="h3subMenu">Gimnasio Universitario</p>
         <div class="div1Notas">
-        <p>Entregado en comodato a la Fundación UV el 2 de abril de 2004, se encuentra ubicado dentro del Campus CAD Xalapa y es conocido como “El Nido de los Halcones”.</p>
+        <p>Entregado en comodato a la Fundación UV en mayo de 2001, se encuentra ubicado dentro del Campus CAD Xalapa y es conocido como “El Nido de los Halcones”.</p>
         <p>Es un espacio deportivo primordialmente, pero su multifuncionalidad ha permitido desarrollar conciertos, bienvenidas estudiantiles, informes, entrega de reconocimientos, galas y cenas.</p>
         <p>Se encuentra en funciones de lunes a sábado, de 7:00 a 21:00 horas y es utilizado por los estudiantes UV que cursan las materias de baloncesto, volibol y acondicionamiento físico que forman parte del Modelo Educativo Integral y Flexible (MEIF) </p>
         </div>
@@ -211,19 +212,19 @@ if($_GET['tipo'] == 1){
             </div>
             </div>
             <div class="div1Notas" >
-                <p>Este espacio cuyo nombre es un vocablo totonaco que significa El que interpreta, fue entregado en comodato a la Fundación UV para su administración, el 23 de agosto del 2013, con el objetivo de salvaguardar y mantener en óptimas condiciones las instalaciones, así como posicionar al centro cultural como un referente de alto nivel y prestigio para la realización de eventos artísticos y culturales. </p>
-        <p>Con una propuesta de diseño arquitectónico a cargo del Arq. Enrique Murillo, en Tlaqná. Centro Cultural., confluye un estricto cuidado de la estética, funcionalidad y acústica, logrado gracias al trabajo de expertos nacionales e internacionales. </p>
-        </div><p>Cuenta con una sala principal en formato Sala de concierto, con capacidad para más de 1,200 personas; una sala anexa en formato Teatro para 420 personas, y otra de usos múltiples próxima a inaugurarse. Además de un foro al aire libre, vestíbulo y mezzanine.</p>
-        <p>El acustólogo Larry Kierkegaard, de Kierkegaard Associates, estuvo a cargo del proyecto acústico de la Sala principal que comprendió la supervisión de cada uno de los elementos constructivos, mobiliarios y ornamentales del recinto, incluido el muro escultórico de 1000 metros cuadrados, denominado Bosque de Niebla y realizado por el artista Hiroyuki Okumura.</p>
+                <p>Este espacio cuyo nombre es un vocablo totonaco que significa <i>El que interpreta</i>, fue entregado en comodato a la Fundación UV para su administración, el 23 de agosto del 2013, con el objetivo de salvaguardar y mantener en óptimas condiciones las instalaciones, así como posicionar al centro cultural como un referente de alto nivel y prestigio para la realización de eventos artísticos y culturales. </p>
+        <p>Con una propuesta de diseño arquitectónico a cargo del Arq. Enrique Murillo, en Tlaqná. Centro Cultural, confluye un estricto cuidado de la estética, funcionalidad y acústica, logrado gracias al trabajo de expertos nacionales e internacionales.</p>
+        </div><p>Cuenta con una sala principal en formato <i>Sala de concierto</i>, con capacidad para más de 1,200 personas; una sala anexa en formato <i>Teatro</i> para 420 personas, y otra de usos múltiples próxima a inaugurarse. Además de un foro al aire libre, vestíbulo y mezzanine.</p>
+        <p>El acustólogo Larry Kierkegaard, de <i>Kierkegaard Associates</i>, estuvo a cargo del proyecto acústico de la Sala principal que comprendió la supervisión de cada uno de los elementos constructivos, mobiliarios y ornamentales del recinto, incluido el muro escultórico de 1000 metros cuadrados, denominado <i>La Ciudad de Niebla</i> y realizado por el artista Hiroyuki Okumura.</p>
         <p>Este mural tuvo un proceso de creación de nueve meses y cuenta con 2,272 paneles poblados de personajes, motivos de Xalapa y paisajes aledaños, los cuales recorren ininterrumpidamente los cuatro muros perimetrales de la Sala. </p>
             
         </div>
             <div id="tlaqnaMovil" style="display: none;">
                 <div class="div1Notas" >
                  <p>Este espacio cuyo nombre es un vocablo totonaco que significa El que interpreta, fue entregado en comodato a la Fundación UV para su administración, el 23 de agosto del 2013, con el objetivo de salvaguardar y mantener en óptimas condiciones las instalaciones, así como posicionar al centro cultural como un referente de alto nivel y prestigio para la realización de eventos artísticos y culturales. </p>
-        <p>Con una propuesta de diseño arquitectónico a cargo del Arq. Enrique Murillo, en Tlaqná. Centro Cultural., confluye un estricto cuidado de la estética, funcionalidad y acústica, logrado gracias al trabajo de expertos nacionales e internacionales. </p>
+        <p>Con una propuesta de diseño arquitectónico a cargo del Arq. Enrique Murillo, en Tlaqná. Centro Cultural, confluye un estricto cuidado de la estética, funcionalidad y acústica, logrado gracias al trabajo de expertos nacionales e internacionales.</p>
         </div><p>Cuenta con una sala principal en formato Sala de concierto, con capacidad para más de 1,200 personas; una sala anexa en formato Teatro para 420 personas, y otra de usos múltiples próxima a inaugurarse. Además de un foro al aire libre, vestíbulo y mezzanine.</p>
-        <p>El acustólogo Larry Kierkegaard, de Kierkegaard Associates, estuvo a cargo del proyecto acústico de la Sala principal que comprendió la supervisión de cada uno de los elementos constructivos, mobiliarios y ornamentales del recinto, incluido el muro escultórico de 1000 metros cuadrados, denominado Bosque de Niebla y realizado por el artista Hiroyuki Okumura.</p>
+        <p>El acustólogo Larry Kierkegaard, de <i>Kierkegaard Associates</i>, estuvo a cargo del proyecto acústico de la Sala principal que comprendió la supervisión de cada uno de los elementos constructivos, mobiliarios y ornamentales del recinto, incluido el muro escultórico de 1000 metros cuadrados, denominado <i>La Ciudad de Niebla</i> y realizado por el artista Hiroyuki Okumura.</p>
         <p>Este mural tuvo un proceso de creación de nueve meses y cuenta con 2,272 paneles poblados de personajes, motivos de Xalapa y paisajes aledaños, los cuales recorren ininterrumpidamente los cuatro muros perimetrales de la Sala. </p>
             <div class="div2Notas" style=" text-align: left !important; padding-top: 10px;" >
                 <div style="padding-left: 0 !important;">

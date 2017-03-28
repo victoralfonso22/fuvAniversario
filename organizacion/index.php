@@ -42,7 +42,7 @@ if($_GET['tipo'] == 1){
 <div  class="container">
     <div id="contenidoSub">
     <!----------------    Texto para seccion Programa de becas     ----------------->
-    <p>Tú puedes apoyar el mantenimiento de los programas que ofrece la Fundación UV a través de la renta de alguno de nuestros espacios para tus eventos musicales, proyectos culturales, deportivos o académicos. Conócelos y elige el que se adapte mejor a tus necesidades.</p>
+    
     <div id="orgMenos" class="encabezadoSub">
         <img class="puntero" onclick="mostrarOcultar('orgMas','orgMenos');" style="vertical-align: middle; padding-top: .3em;" src="img/desplegar icon.png">&nbsp;&nbsp;<label>Órganos de gobierno</label>
     </div>
@@ -54,7 +54,7 @@ if($_GET['tipo'] == 1){
     </div>
             <div class="div1Notas">
     <ul>
-        <li type= disc>Asamblea General de Asociados
+        <li type= disc><h3 style="color:#73d2d3; font-weight: bolder">Asamblea General de Asociados</h3>
             <ul>                
                 <li type= disc><b>Junta Directiva</b>
                     <ul>
@@ -180,7 +180,7 @@ if($_GET['tipo'] == 1){
     <ul>
                 <li type= disc>Ing. Facundo Enrique Pacheco Rojas – Director General</li>
                 <li type= disc>C.P. Ángeles Contreras Meneses – Directora de Administración y Control</li>
-                <li type= disc>Mtro. Mauricio García Velázquez – Director de Desarrollo</li>
+                <li type= disc>Mtro. Mauricio García Velázquez – Director de Desarrollo Institucional</li>
     </ul>    
     </div>
         

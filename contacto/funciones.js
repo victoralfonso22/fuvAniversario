@@ -4,7 +4,7 @@ function enviaFormulario(){
         alert('Debe capturar tu nombre completo.');
     }else if($("#contact-email").val() == '' ){
         alert('Ingresa tu correo electrónico para poder contactarnos usted');    
-    }else if($("#contact-message").val() != ''){
+    }else if($("#contact-message").val() == ''){
         alert('Debe escribir el Asunto');
     }    
     else{				

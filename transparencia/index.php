@@ -84,6 +84,7 @@ if($_GET['tipo'] == 1){
                 <li type= disc>13. Domicilio de la Unidad de Transparencia
                     <ul>
                         <li><a style="text-decoration: none" href="pdf/13. Domicilio de la Unidad de Transparencia/Ficha de contacto FUV-UT.pdf" target="_blank">&bull;&nbsp;Ficha de contacto&nbsp;&nbsp;<img src="img/pdf-icon.png" width="5%"/></a></li>                        
+                        <li><a style="text-decoration: none" href="https://www.fundacionuv.org/fuvAniversario/contacto/">&bull;&nbsp;Ubicación geográfica</a></li>
                     </ul>
                 </li>
                 <li type= disc>14. Convocatorias a concursos para ocupar cargos públicos / No aplica</li>
@@ -138,12 +139,12 @@ if($_GET['tipo'] == 1){
                 <li type= disc>47. Listado de solicitudes a las empresas concesionarias de telecomunicaciones y proveedores de servicios o aplicaciones de internet para la intervención de comunicaciones privadas… / No aplica</li>
                 <li type= disc>48. Cualquier otra información de utilidad y del interés público
                     <ul>
-                        <li><a style="text-decoration: none" href="pdf/48. Otra información de interés público/FUV Donataria Autorizada.pdf" target="_blank">Fundación de la Universidad Veracruzana A.C., Donataria Autorizada, publicación del DOF del 9 de enero de 2017</a></li>
-                        <li><a style="text-decoration: none" href="pdf/48. Otra información de interés público/FUV Autorizada para recibir donativos deducibles de los EUA.pdf" target="_blank">Fundación de la Universidad Veracruzana A.C., Autorizada para recibir donativos deducibles de los EUA, publicación del DOF del 9 de enero de 2017</a></li>
-                        <li><a style="text-decoration: none" href="pdf/48. Otra información de interés público/Constancia RFOSC - CLUNI.PDF" target="_blank">Inscripción de la Fundación de la Universidad Veracruzana, A.C., en el Registro Federal de las Organizaciones de la Sociedad Civil (CLUNI)</a></li>
-                        <li><a style="text-decoration: none" href="pdf/48. Otra información de interés público/Acreditación CEMEFI.PDF" target="_blank">Acreditación en Institucionalidad y Transparencia otorgado por el Centro Mexicano para la Filantropía, A.C. (CEMEFI), a la Fundación de la Universidad Veracruzana, A.C.</a></li>
-                        <li><a style="text-decoration: none" href="pdf/48. Otra información de interés público/Inscripción al Padrón de Beneficencia Pública del estado de Veracruz.pdf" target="_blank">Inscripción de la Fundación de la Universidad Veracruzana, A.C., en el Padrón de Asociaciones Civiles de la Beneficencia Pública del Estado de Veracruz</a></li>
-                        <li><a style="text-decoration: none" href="pdf/48. Otra información de interés público/Constancia IVEC Actividad Cultural.pdf" target="_blank">Constancia de realización de actividades culturales emitida por el Instituto Veracruzano de la Cultural (IVEC), a la Fundación de la Universidad Veracruzana, A.C.</a></li>
+                        <li><a style="text-decoration: none" href="pdf/48. Otra información de interés público/FUV Donataria Autorizada.pdf" target="_blank">Fundación de la Universidad Veracruzana A.C., Donataria Autorizada, publicación del DOF del 9 de enero de 2017&nbsp;&nbsp;<img src="img/pdf-icon.png" width="3%"/></a></li>
+                        <li><a style="text-decoration: none" href="pdf/48. Otra información de interés público/FUV Autorizada para recibir donativos deducibles de los EUA.pdf" target="_blank">Fundación de la Universidad Veracruzana A.C., Autorizada para recibir donativos deducibles de los EUA, publicación del DOF del 9 de enero de 2017&nbsp;&nbsp;<img src="img/pdf-icon.png" width="3%"/></a></li>
+                        <li><a style="text-decoration: none" href="pdf/48. Otra información de interés público/Constancia RFOSC - CLUNI.PDF" target="_blank">Inscripción de la Fundación de la Universidad Veracruzana, A.C., en el Registro Federal de las Organizaciones de la Sociedad Civil (CLUNI)&nbsp;&nbsp;<img src="img/pdf-icon.png" width="3%"/></a></li>
+                        <li><a style="text-decoration: none" href="pdf/48. Otra información de interés público/Acreditación CEMEFI.PDF" target="_blank">Acreditación en Institucionalidad y Transparencia otorgado por el Centro Mexicano para la Filantropía, A.C. (CEMEFI), a la Fundación de la Universidad Veracruzana, A.C.&nbsp;&nbsp;<img src="img/pdf-icon.png" width="3%"/></a></li>
+                        <li><a style="text-decoration: none" href="pdf/48. Otra información de interés público/Inscripción al Padrón de Beneficencia Pública del estado de Veracruz.pdf" target="_blank">Inscripción de la Fundación de la Universidad Veracruzana, A.C., en el Padrón de Asociaciones Civiles de la Beneficencia Pública del Estado de Veracruz&nbsp;&nbsp;<img src="img/pdf-icon.png" width="3%"/></a></li>
+                        <li><a style="text-decoration: none" href="pdf/48. Otra información de interés público/Constancia IVEC Actividad Cultural.pdf" target="_blank">Constancia de realización de actividades culturales emitida por el Instituto Veracruzano de la Cultural (IVEC), a la Fundación de la Universidad Veracruzana, A.C.&nbsp;&nbsp;<img src="img/pdf-icon.png" width="3%"/></a></li>
                     </ul>
                 </li>
             </ul>             
@@ -210,7 +211,7 @@ if($_GET['tipo'] == 1){
                     <li>10. Seguimiento del trámite de Acceso, Rectificación, Cancelación y Oposición de Datos Personales.</li>
                 </ul>
                 </p>
-                <p>Para mayor información acerca del tratamiento y de los derechos que puedes hacer valer, accede al <a href="pdf/Aviso de privacidad/Aviso de Privacidad FUV (Extenso).pdf" target="_blank">Aviso de Privacidad completo.</a></p>
+                <p>Para mayor información acerca del tratamiento y de los derechos que puedes hacer valer, accede al <a href="pdf/Aviso de privacidad/Aviso de Privacidad FUV (Extenso).pdf" target="_blank">Aviso de Privacidad completo.</a><br><br><b>Última actualización: 20 de marzo de 2017</b></p>
             </div>
    
         

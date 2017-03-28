@@ -25,7 +25,7 @@
 
             <div class="glide__wrapper">
                 <ul class="glide__track">
-                    <li class="glide__slide"><img id="imgSliderNotas" src="../img/procura/3-8.jpg" /></li>                    
+                    <li class="glide__slide"><img id="imgSliderNotas" src="../img/procura/3-8.png" /></li>                    
                 </ul>
             </div>
             

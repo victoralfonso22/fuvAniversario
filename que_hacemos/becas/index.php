@@ -83,9 +83,9 @@ if($_GET['tipo'] == 1){
         <li type= disc>Obtenga oportunidades de desarrollo, mejorando sus condiciones de vida.</li>
     </ul>
 <p>
-La beca consiste en la entrega de un apoyo econ&oacute;mico semestral, no reembolsable, que permite cubrir costos de inscripci&oacute;n al inicio del periodo, transporte y materiales necesarios para el quehacer acad&eacute;mico. De esta forma, se asegura la equidad de oportunidades, independientemente de la situaci&oacute;n socioecon&oacute;mica del estudiante, logrando as&iacute; evitar que el universitario beneficiario de la beca se vea en la necesidad de abandonar sus estudios por falta de recursos econ&oacute;micos. 
+La beca consiste en la entrega de un apoyo econ&oacute;mico semestral, no reembolsable, que permite cubrir costos de inscripci&oacute;n al inicio del periodo, transporte y materiales necesarios para el quehacer acad&eacute;mico. De esta forma, se asegura la equidad de oportunidades, independientemente de la situaci&oacute;n socioecon&oacute;mica del estudiante, logrando as&iacute; evitar que el universitario beneficiario de la beca se vea en la necesidad de abandonar sus estudios por falta de recursos econ&oacute;micos.<br><br> 
 
-Este programa procura la atenci&oacute;n integral del estudiante hasta su egreso universitario, operando un modelo de acompa&ntilde;amiento, que consiste en apoyar al alumno desde el semestre que ingresa como beneficiario de beca hasta el semestre en que concluye su formaci&oacute;n profesional, impulsando en cada periodo su continuidad escolar y mejora acad&eacute;mica.</p>
+Este programa procura la atenci&oacute;n integral del estudiante hasta su egreso universitario, operando un modelo de <i>acompa&ntilde;amiento</i>, que consiste en apoyar al alumno desde el semestre que ingresa como beneficiario de beca hasta el semestre en que concluye su formaci&oacute;n profesional, impulsando en cada periodo su continuidad escolar y mejora acad&eacute;mica.</p>
 </div>
         <div id="fotoBeca" class="div2" style="padding-top: 8em; text-align: center;">
 <img src="img/P-Becas1.png">
@@ -102,7 +102,7 @@ Este programa procura la atenci&oacute;n integral del estudiante hasta su egreso
             <p>
 La entrega de becas se realiza gracias a la participaci&oacute;n altruista de la sociedad civil que decide invertir en la educaci&oacute;n y colabora para mejorar la calidad de vida de los j&oacute;venes estudiantes universitarios.
             </p><p>
-Con la finalidad de sumar esfuerzos a esta causa social, que permitiera maximizar el beneficio a los estudiantes en las regiones del estado de Veracruz donde tiene presencia la UV, se crearon  los Comit&eacute;s Regionales de Becas, integrados por miembros voluntarios de la sociedad civil que, adem&aacute;s de coadyuvar en la procuraci&oacute;n de fondos para el programa, realizan la funci&oacute;n de Contralor&iacute;a Social, garantizando la transparencia en la selecci&oacute;n de beneficiarios y vigilando el uso, asignaci&oacute;n y rendici&oacute;n de cuentas de los recursos procurados. 
+Con la finalidad de sumar esfuerzos a esta causa social, que permitiera maximizar el beneficio a los estudiantes en las regiones del estado de Veracruz donde tiene presencia la UV, se crearon  los Comit&eacute;s Regionales de Becas, integrados por miembros voluntarios de la sociedad civil que, adem&aacute;s de coadyuvar en la procuraci&oacute;n de fondos para el programa, realizan la funci&oacute;n de <i>Contralor&iacute;a Social</i>, garantizando la transparencia en la selecci&oacute;n de beneficiarios y vigilando el uso, asignaci&oacute;n y rendici&oacute;n de cuentas de los recursos procurados. 
 </p>
 </div>
 </div>
@@ -204,7 +204,7 @@ Con la finalidad de sumar esfuerzos a esta causa social, que permitiera maximiza
 </table>
 <p>Nota: En ambas campañas el benefactor elige el número de periodos y de pagos con los que desea participar en el programa.</p>
 
-<a href="../../dona/">Dona ahora</a>
+<a href="../../dona/"><img style="margin-left: 1%" src="img/Dona-ahora.png" onmouseover="this.src = 'img/Dona-ahora-hover.png'" onmouseout="this.src = 'img/Dona-ahora.png'"/></a>
 <br />
 <br />
 <p class="h3subMenu">Eventos anuales de procuraci&oacute;n</p>
@@ -262,11 +262,11 @@ Con la finalidad de sumar esfuerzos a esta causa social, que permitiera maximiza
 <!----------------    Texto para seccion Convocatorias y resultados ----------------->
 
 <div id="convocaMenos" class="encabezadoSub">
-    <img class="puntero" onclick="mostrarOcultar('convocaMas','convocaMenos');" style="vertical-align: middle; padding-top: .3em;" src="img/desplegar icon.png">&nbsp;&nbsp;<label>Convocatoria / resultados</label>
+    <img class="puntero" onclick="mostrarOcultar('convocaMas','convocaMenos');" style="vertical-align: middle; padding-top: .3em;" src="img/desplegar icon.png">&nbsp;&nbsp;<label>Convocatoria y resultados</label>
     </div>
 <div id="convocaMas"  style="display: none;">
 <div class="encabezadoSub">
-    <img class="puntero" onclick="mostrarOcultar('convocaMenos','convocaMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Convocatoria / resultados</label>
+    <img class="puntero" onclick="mostrarOcultar('convocaMenos','convocaMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Convocatoria y resultados</label>
     </div>
 
 <p>

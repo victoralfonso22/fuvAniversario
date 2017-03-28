@@ -16,7 +16,7 @@
 							<div class="6u 12u(mobile)">
 
 								<!-- Contact Form -->
-                                                                <section style="padding-left:5%">
+                                                                <section style="padding-left:15%">
 										<form method="post" action="#">
 											<div class="row 50%">
 												<div class="6u 12u(mobile)">
@@ -36,7 +36,7 @@
 													<ul class="actions">
 														<li><input type="submit" class="style1" value="Enviar" onclick="enviaFormulario()" /></li>
 														<!--<li><input type="reset" class="style2" value="Reset" /></li>--> 
-                                                                                                                <li style="font-size: 14px; font-family: Open Sans Regular; padding-top:10px;">Al enviar este formulario, consiento que mis datos personales sean tratados conforme al <a href="http://localhost/fuvAniversario/transparencia/?tipo=3"><b>Aviso de privacidad de la Fundación UV.</b></a></li>
+                                                                                                                <li style="font-size: 14px; font-family: Open Sans Regular; padding-top:10px;">Al enviar este formulario, consiento que mis datos personales sean tratados conforme al <a href="https://www.fundacionuv.org/fuvAniversario/transparencia/?tipo=3"><b>Aviso de privacidad de la Fundación UV.</b></a></li>
 													</ul>
 												</div>
 											</div>

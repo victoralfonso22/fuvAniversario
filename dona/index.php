@@ -27,7 +27,7 @@
         </div>
         </div>
         <div id="contenidoSub">
-        <p>La Fundación UV te acerca a la oportunidad de compartir lo mejor de ti. Despierta el espíritu siempre universitario que llevas dentro y conviértete en agente de cambio apoyando al talento UV.</p>       
+        <p>La Fundación UV te acerca a la oportunidad de compartir lo mejor de ti. Despierta el espíritu <i>siempre universitario</i> que llevas dentro y conviértete en agente de cambio apoyando al talento UV.</p>       
         <p style="font-family:Open Sans Bold; color: #5FA8CA; font-size: 25px; text-align: center">Puedes colaborar en cualquiera de nuestras campañas de donativo</p>     
         <p id="donabecas"><div id="donabecas" style="background: url(img/back-botones.jpg) no-repeat center; height: 34em;"></div></p>
         <p id="donabecas" style="text-align: center; margin-top: -23%;"><a href="../donativos/tcd.php"><img style="margin-left: 1%" src="img/Con-tarjeta.png" onmouseover="this.src = 'img/Con-tarjeta-hover.png'" onmouseout="this.src = 'img/Con-tarjeta.png'"/></a><a href="../donativos/tcd.php"><img style="margin-left: 11%" src="img/Con-tarjeta.png" onmouseover="this.src = 'img/Con-tarjeta-hover.png'" onmouseout="this.src = 'img/Con-tarjeta.png'" /></a></p>
