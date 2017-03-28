@@ -15,7 +15,7 @@
     <div id="divMenuBlog">
         <div>
             <table>
-                <tr><td class="tituloNoticia">25 ANIVERSARIO DE LA FUNDACIÓN UV</td></tr>
+                <tr><td class="tituloNoticia">25 aniversario de la Fundación UV</td></tr>
                 <tr><td><img class="imagenBlogPrincipal193" src="img/25Ani/para-home.png"></td></tr>
                 <tr><td class="pieNoticia">Marzo de 2017</td></tr>
                 <tr><td class="masNoticia">Hace 25 años, egresados y amigos de la Universidad Veracruzana, en un acto de gratitud decidieron crear la Fundación de la Universidad Veracruzana (FUV)</td></tr>

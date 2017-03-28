@@ -41,7 +41,7 @@
     
     <div id="divSubMenuNota">
         
-        <h3 class="h3subMenuNota">25 ANIVERSARIO DE LA FUNDACIÓN UV</h3>
+        <h3 class="h3subMenuNota">25 aniversario de la Fundación UV</h3>
         <p class="pieNoticiaNota">Marzo de 2017</p>
         <br />
     

@@ -33,7 +33,7 @@
                                                                                                 <br>
                                                                                                 <p><span style="font-family:Open Sans Bold; color: #5FA8CA; font-size: 19px;">Principio</span><br/><b>“Siempre Universitarios”</b><br>Retomamos el espíritu universitario para que sea principio de nuestras acciones. Identificamos el carácter de la Fundación con la experiencia universitaria,
                                                                                                     enriquecida al mostrar esperanza frente a los cambios y curiosidad e innovación para responder ante ellos. Como en la vida de un estudiante nos descubrimos en facetas deportivas, sociales, culturales y recreativas; valoramos el contacto con personas de distinta procedencia e intereses 
-                                                                                                    y estamos atentos al consejo de los más experimentados. Reconocemos la gran valía de la autonomía. Vivimos con entusiasmo lo que hacemos, perseverantes ante los retos, con sentido de comunidad y solidaridad abanderando el trabajo en equipo. Siempre universitarios refleja la responsable apertura al cambio y el espíritu que el universitario construye en su paso por la universidad.</p>
+                                                                                                    y estamos atentos al consejo de los más experimentados. Reconocemos la gran valía de la autonomía. Vivimos con entusiasmo lo que hacemos, perseverantes ante los retos, con sentido de comunidad y solidaridad abanderando el trabajo en equipo. <b>Siempre universitarios</b> refleja la responsable apertura al cambio y el espíritu que el universitario construye en su paso por la universidad.</p>
                                                                                                 
 										</div>
                                                                             <div class="6u 12u(mobile)">                                                                                                                                                                                                                                                                                                											                                                                                    
@@ -64,13 +64,13 @@
 		<ol>
 			<li class="selected" data-date="01/01/1991">                                 				
                                 <p class="contenido">	
-                                    <img src="img/evento2.png">                                    
+                                    <img src="img/evento1.png">                                    
 				</p>
 			</li>
 
 			<li data-date="01/06/1991">				
 				<p class="contenido">	
-                                    <img src="img/evento1.png">                                    
+                                    <img src="img/evento2.png">                                    
 				</p>
 			</li>
 
@@ -289,43 +289,43 @@
 		<div class="events-wrapper">
                     <div class="events">
                         <ol>
-					<li><a href="#0" data-date="01/01/1991" class="selected">1</a></li>
-                                        <li><a href="#0" data-date="01/06/1991">2</a></li>
-					<li><a href="#0" data-date="01/01/1992">3</a></li>
-					<li><a href="#0" data-date="01/06/1992">4</a></li>
-					<li><a href="#0" data-date="01/01/1993">5</a></li>
-					<li><a href="#0" data-date="01/06/1993">6</a></li>
-					<li><a href="#0" data-date="01/01/1994">7</a></li>
-					<li><a href="#0" data-date="01/06/1994">8</a></li>
-					<li><a href="#0" data-date="01/01/1995">9</a></li>
-					<li><a href="#0" data-date="01/06/1995">10</a></li>
-					<li><a href="#0" data-date="01/01/1996">11</a></li>
-                                        <li><a href="#0" data-date="01/06/1996">12</a></li>
-                                        <li><a href="#0" data-date="01/01/1997">13</a></li>
-                                        <li><a href="#0" data-date="01/06/1997">14</a></li>
-                                        <li><a href="#0" data-date="01/01/1998">15</a></li>
-                                        <li><a href="#0" data-date="01/06/1998">16</a></li>
-                                        <li><a href="#0" data-date="01/01/1999">17</a></li>
-                                        <li><a href="#0" data-date="01/06/1999">18</a></li>
-                                        <li><a href="#0" data-date="01/01/2000">19</a></li>
-                                        <li><a href="#0" data-date="01/06/2000">20</a></li>
-                                        <li><a href="#0" data-date="01/01/2001">21</a></li>
-                                        <li><a href="#0" data-date="01/06/2001">22</a></li>
-                                        <li><a href="#0" data-date="01/01/2002">23</a></li>
-                                        <li><a href="#0" data-date="01/06/2002">24</a></li>
-                                        <li><a href="#0" data-date="01/01/2003">25</a></li>
-                                        <li><a href="#0" data-date="01/06/2003">26</a></li>
-                                        <li><a href="#0" data-date="01/01/2004">27</a></li>
-                                        <li><a href="#0" data-date="01/06/2004">28</a></li>
-                                        <li><a href="#0" data-date="01/01/2005">29</a></li>
-                                        <li><a href="#0" data-date="01/06/2005">30</a></li>
-                                        <li><a href="#0" data-date="01/01/2006">31</a></li>
-                                        <li><a href="#0" data-date="01/06/2006">32</a></li>
-                                        <li><a href="#0" data-date="01/01/2007">33</a></li>
-                                        <li><a href="#0" data-date="01/06/2007">34</a></li>
-                                        <li><a href="#0" data-date="01/01/2008">35</a></li>
-                                        <li><a href="#0" data-date="01/06/2008">36</a></li>
-                                        <li><a href="#0" data-date="01/01/2009">37</a></li>
+					<li><a href="#0" data-date="01/01/1991" class="selected" style="font-size:13px; color:green">mar 92</a></li>
+                                        <li><a href="#0" data-date="01/06/1991" style="font-size:13px">mar 92</a></li>
+					<li><a href="#0" data-date="01/01/1992" style="font-size:13px; color:green">oct 92</a></li>
+					<li><a href="#0" data-date="01/06/1992" style="font-size:13px">nov 92</a></li>
+					<li><a href="#0" data-date="01/01/1993" style="font-size:13px; color:green">may 93</a></li>
+					<li><a href="#0" data-date="01/06/1993" style="font-size:13px">dic 97</a></li>
+					<li><a href="#0" data-date="01/01/1994" style="font-size:13px; color:green">nov 98</a></li>
+					<li><a href="#0" data-date="01/06/1994" style="font-size:13px">oct 00</a></li>
+					<li><a href="#0" data-date="01/01/1995" style="font-size:13px; color:green">may 01</a></li>
+					<li><a href="#0" data-date="01/06/1995" style="font-size:13px">sep 01</a></li>
+					<li><a href="#0" data-date="01/01/1996" style="font-size:13px; color:green">02</a></li>
+                                        <li><a href="#0" data-date="01/06/1996" style="font-size:13px">abr 02</a></li>
+                                        <li><a href="#0" data-date="01/01/1997" style="font-size:13px; color:green">abr 03</a></li>
+                                        <li><a href="#0" data-date="01/06/1997" style="font-size:13px">03</a></li>
+                                        <li><a href="#0" data-date="01/01/1998" style="font-size:13px; color:green">03</a></li>
+                                        <li><a href="#0" data-date="01/06/1998" style="font-size:13px">03</a></li>
+                                        <li><a href="#0" data-date="01/01/1999" style="font-size:13px; color:green">nov 03</a></li>
+                                        <li><a href="#0" data-date="01/06/1999" style="font-size:13px">05</a></li>
+                                        <li><a href="#0" data-date="01/01/2000" style="font-size:13px; color:green">05</a></li>
+                                        <li><a href="#0" data-date="01/06/2000" style="font-size:13px">feb 06</a></li>
+                                        <li><a href="#0" data-date="01/01/2001" style="font-size:13px; color:green">06</a></li>
+                                        <li><a href="#0" data-date="01/06/2001" style="font-size:13px">mar 06</a></li>
+                                        <li><a href="#0" data-date="01/01/2002" style="font-size:13px; color:green">dic 06</a></li>
+                                        <li><a href="#0" data-date="01/06/2002" style="font-size:13px">mar 07</a></li>
+                                        <li><a href="#0" data-date="01/01/2003" style="font-size:13px; color:green">jul 07</a></li>
+                                        <li><a href="#0" data-date="01/06/2003" style="font-size:13px">08</a></li>
+                                        <li><a href="#0" data-date="01/01/2004" style="font-size:13px; color:green">oct 08</a></li>
+                                        <li><a href="#0" data-date="01/06/2004" style="font-size:13px">09</a></li>
+                                        <li><a href="#0" data-date="01/01/2005" style="font-size:13px; color:green">mar 09</a></li>
+                                        <li><a href="#0" data-date="01/06/2005" style="font-size:13px">oct 10</a></li>
+                                        <li><a href="#0" data-date="01/01/2006" style="font-size:13px; color:green">12</a></li>
+                                        <li><a href="#0" data-date="01/06/2006" style="font-size:13px">ago 12</a></li>
+                                        <li><a href="#0" data-date="01/01/2007" style="font-size:13px; color:green">ago 13</a></li>
+                                        <li><a href="#0" data-date="01/06/2007" style="font-size:13px">14</a></li>
+                                        <li><a href="#0" data-date="01/01/2008" style="font-size:13px; color:green">17</a></li>
+                                        <li><a href="#0" data-date="01/06/2008" style="font-size:13px">17</a></li>
+                                        <li><a href="#0" data-date="01/01/2009" style="font-size:13px; color:green">mar 17</a></li>
 				</ol>
 				<span class="filling-line" aria-hidden="true"></span>
 			</div> <!-- .events -->

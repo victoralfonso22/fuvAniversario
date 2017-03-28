@@ -24,7 +24,7 @@ function enviaFormulario(){
                                 function(data){
                                     data = data.replace(/^\s*|\s*$/g,"");				    
                                     if(data== 1){
-                                        $("#envioInfo").html("");
+                                        //$("#envioInfo").html("");
                                         alert("Gracias por comunicarse con nosotros. En breve te canalizaremos al área que corresponda");
                                     }else{
                                         alert("Su mensaje no se pudo enviar correctamente. Inténtelo mas tarde");                                        

@@ -286,14 +286,14 @@ La beca que la Fundaci&oacute;n UV otorga a estudiantes de la Universidad Veracr
 <br />
 <br /><br /><br /><br /><br />
 <div id="paddinFonfoBecas"></div>
-<p class="h3subMenu" style="margin-top: 0px">Resultados becas Fundación UV / periodo Febrero - Julio 2017</p>
+<!--<p class="h3subMenu" style="margin-top: 0px">Resultados becas Fundación UV / periodo Febrero - Julio 2017</p>
 <p style="text-align: center">
     <a style="padding-right: 7%"><img src="img/Veracruz---Boca-del-Río.png" style="height: 60px"></a>
 <a style="padding-right: 6%"><img src="img/Córdoba---Orizaba.png" style="height: 60px"></a>
 <a><img src="img/Coatzacoalcos-Minatitlan.png" style="height: 60px"></a></p>
 <p style="text-align: center">
 <a style="padding-right: 10%"><img src="img/Poza-Rica---Tuxpan.png" style="height: 60px"></a>
-<a><img src="img/Xalapa.png" style="height: 60px"></a></p>
+<a><img src="img/Xalapa.png" style="height: 60px"></a></p>-->
     </div>
     </div>
 </div>

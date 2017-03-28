@@ -44,10 +44,10 @@
             <table id="tabla">
                 <tr>
                     <td >
-                        <a href="https://fundacionuv.org/solicitudes/"><img src="imagenes/accesosRapidos/action beca.png" onmouseover="this.src = 'imagenes/accesosRapidos/action beca-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action beca.png'"></a>
+                        <a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/becas/?tipo=4"><img src="imagenes/accesosRapidos/action beca.png" onmouseover="this.src = 'imagenes/accesosRapidos/action beca-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action beca.png'"></a>
                     </td>
                     <td >
-                        <a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/becas/"><img src="imagenes/accesosRapidos/action-Apoyar-a-un-becario.png" onmouseover="this.src = 'imagenes/accesosRapidos/action-Apoyar-a-un-becario-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action-Apoyar-a-un-becario.png'"></a>
+                        <a href="https://www.fundacionuv.org/fuvAniversario/dona/"><img src="imagenes/accesosRapidos/action-Apoyar-a-un-becario.png" onmouseover="this.src = 'imagenes/accesosRapidos/action-Apoyar-a-un-becario-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action-Apoyar-a-un-becario.png'"></a>
                     </td>
                     <td>
                         <a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/guiamos/"><img src="imagenes/accesosRapidos/action proyecto.png" onmouseover="this.src = 'imagenes/accesosRapidos/action proyecto-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action proyecto.png'"></a>
@@ -73,7 +73,7 @@
                         Conseguir un espacio para mi evento
                     </td>
                     <td>
-                        Tomar un curso de Lego
+                        Tomar un curso de LEGO®
                     </td>
                 </tr>
             </table>
@@ -98,7 +98,7 @@
          <div id="divMenuBlog">
         <div>
             <table>
-                <tr><td class="tituloNoticia">25 ANIVERSARIO DE LA FUNDACIÓN UV</td></tr>
+                <tr><td class="tituloNoticia">25 aniversario de la Fundación UV</td></tr>
                 <tr><td><img class="imagenBlogPrincipal193" src="blog/img/25Ani/para-home.png"></td></tr>
                 <tr><td class="pieNoticia">Marzo de 2017</td></tr>
                 <tr><td class="masNoticia">Hace 25 años, egresados y amigos de la Universidad Veracruzana, en un acto de gratitud decidieron crear la Fundación de la Universidad Veracruzana (FUV)</td></tr>
@@ -138,7 +138,7 @@
                     <a href="blog/noticias/25Aniversario.php">
                     <div class="mascara">
                     <div class="contenido">
-                        <h2>25 ANIVERSARIO DE LA FUNDACIÓN UV</h2>
+                        <h2>25 aniversario de la Fundación UV</h2>
                              <p>Marzo de 2017</p>
                         
                         </div>

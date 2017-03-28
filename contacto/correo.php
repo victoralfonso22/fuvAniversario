@@ -7,7 +7,7 @@ session_start();
     $cuerpo = "
     <table width='500' cellspacing='0' cellpadding='0'>        
         <tr>
-            <td width='200' align='right'><b>NOMBRE:</b></td>
+            <td width='200' align='left'><b>NOMBRE:</b></td>
             <td width='10'></td>
             <td width='240'>".utf8_decode($_POST["nombre"])."</td>
         </tr>
@@ -15,7 +15,7 @@ session_start();
             <td><br /></td>           
         </tr>
         <tr>
-            <td align='right'><b>CORREO:</b></td>
+            <td align='left'><b>CORREO:</b></td>
             <td></td>
             <td>".$_POST["correo"]."</td>
         </tr>
@@ -23,7 +23,7 @@ session_start();
             <td><br /></td>           
         </tr>        
         <tr>
-            <td align='right'><b>ASUNTO:</b></td>
+            <td align='left'><b>ASUNTO:</b></td>
             <td></td>
             <td>".$_POST["asunto"]."</td>
         </tr>

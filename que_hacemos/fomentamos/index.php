@@ -228,7 +228,7 @@ Uniformes: se utilizan 3 modelos (verde, blanco y azul) cada uno con un precio d
 
                             <div class="glide__wrapper">
                                 <ul class="glide__track" style="padding-left: 0;">
-                                    <li class="glide__slide" ><img style="width: 100%;" id="imgSliderNotas" src="img/Americano.jpg" /></li>                    
+                                    <li class="glide__slide" ><img style="width: 100%;" id="imgSliderNotas" src="img/Baloncesto.jpg" /></li>                    
                                 </ul>
                             </div>
 
@@ -252,7 +252,7 @@ Uniformes: se utilizan 3 modelos (verde, blanco y azul) cada uno con un precio d
 
                             <div class="glide__wrapper">
                                 <ul class="glide__track" style="padding-left: 0;">
-                                    <li class="glide__slide" ><img style="width: 100%;" id="imgSliderNotas" src="img/Baloncesto.jpg" /></li>                    
+                                    <li class="glide__slide" ><img style="width: 100%;" id="imgSliderNotas" src="img/Americano.jpg" /></li>                    
                                 </ul>
                             </div>
 
@@ -296,13 +296,13 @@ Entrenamiento femenil:<br />
             
             
             <div id="futMenos" class="encabezadoSub">
-        <img class="puntero" onclick="mostrarOcultar('futMas','futMenos');" style="vertical-align: middle; padding-top: .3em;" src="img/desplegar icon.png">&nbsp;&nbsp;<label>Programa de Fútbol Americano</label>
+        <img class="puntero" onclick="mostrarOcultar('futMas','futMenos');" style="vertical-align: middle; padding-top: .3em;" src="img/desplegar icon.png">&nbsp;&nbsp;<label>Programa de Futbol Americano</label>
     </div>
     <div id="futMas" style="display: none">
     <div id="divSubMenuNota">
         
     <div class="encabezadoSub">
-        <img class="puntero" onclick="mostrarOcultar('futMenos','futMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Programa de Fútbol Americano</label>
+        <img class="puntero" onclick="mostrarOcultar('futMenos','futMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Programa de Futbol Americano</label>
     </div>          
             
 
