@@ -6,7 +6,7 @@
 							<div class="4u 12u(mobile)">
 								<section class="highlight">									
                                                                         <h3>Contáctanos<br/><!--<span style="font-size:14px">Te canalizaremos al área que corresponda</span>--></h3>
-                                                                        <p><a href="https://www.fundacionuv.org/fuvAniversario/contacto/"><img src="https://www.fundacionuv.org/fuvAniversario/assets/css/images/icon-mail.png"/><span style="margin-left:4%">contacto@fundacionuv.org.mx</span></a><br />
+                                                                        <p><a href="https://www.fundacionuv.org/fuvAniversario/contacto/"><img src="https://www.fundacionuv.org/fuvAniversario/assets/css/images/icon-mail.png"/><span style="margin-left:4%">contacto@fundacionuv.org</span></a><br />
                                                                            <img style="padding-top:5%" src="https://www.fundacionuv.org/fuvAniversario/assets/css/images/icon-tel.png"/><span style="margin-left:6%">Teléfonos:</span><br /><a style="margin-left:15%" href="tel:018008384181">01-800-838-4181</a><br /><a style="margin-left:15%" href="tel:522288414580">+52 (228) 841 45 80</a><br />
                                                                            <a href="https://www.fundacionuv.org/fuvAniversario/contacto"><img src="https://www.fundacionuv.org/fuvAniversario/assets/css/images/icon-map.png"/><span style="margin-left:6%">Calle Veracruz No 46 Int 2 y 3</span><br /><span style="margin-left:14%">Fraccionamiento Pomona</span><br /><span style="margin-left:14%">C.P. 91040 Xalapa, Veracruz, México</span></a></p>
 								</section>

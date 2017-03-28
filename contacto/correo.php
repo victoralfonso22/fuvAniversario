@@ -32,7 +32,7 @@ session_start();
         </tr>       
     </table>
     ";
-    $asunto = "Correo contacto Fundación UV";
+    $asunto = "Correo contacto FUV";
     //para el env�o en formato HTML
     $headers = "MIME-Version: 1.0\r\n";
     $headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
@@ -43,9 +43,9 @@ session_start();
     //ruta del mensaje desde origen a destino
     //$headers .= "Return-path:  \r\n";
     //direcciones que recibir�n copia oculta
-    $headers .= "Bcc: jhernandez@sorteosuv.org.mx";  
+    $headers .= "Bcc: contacto@fundacionuv.org";  
                            
     
-        if(mail("contacto@sorteouv.org.mx",$asunto,$cuerpo,$headers)){ echo "1"; }
+        if(mail("contacto@fundacionuv.org",$asunto,$cuerpo,$headers)){ echo "1"; }
         else{ echo "0"; }    
 ?>
