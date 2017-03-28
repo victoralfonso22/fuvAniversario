@@ -72,10 +72,10 @@ if($_GET['tipo'] == 1){
             <ul>
                 <li type= disc>Considerando que es una sala diseñada acústicamente, los eventos y actividades que se presenten dentro de ella deben tomar en cuenta como característica especial la apreciación del sonido sin ningún equipo de amplificación. Es por ello que la música sinfónica, de cámara y presentaciones acústicas, entre otras actividades de este tipo, son los eventos ideales para esta sala.</li>
                 <li type= disc>Capacidad para 1,205 espectadores sentados y espacio para sillas de ruedas.</li>
-                <li type= disc>En formato Sala de Conciertos, es decir un escenario rodeado de butacas que permite ofrecer zona de Balcones (uno trasero y dos laterales), zona Frontal (aforo general) y zona de Palcos (general y elevado).</li>
-                <li type= disc>Foro para orquesta de 110 músicos y coro de 100 cantantes; escenario de 190 m<sup>2</sup> que cuenta con plataforma elevadiza mecánica para participación de diferentes tipos de orquestas.</li>
+                <li type= disc>En formato <i>Sala de Conciertos</i>, es decir un escenario rodeado de butacas que permite ofrecer zona de Balcones (uno trasero y dos laterales), zona Frontal (aforo general) y zona de Palcos (general y elevado).</li>
+                <li type= disc>Foro para orquesta de 110 músicos y coro de 100 cantantes; escenario de 190 m<sup>2</sup> que cuenta con plataforma levadiza mecánica para participación de diferentes tipos de orquestas.</li>
                 <li type= disc>Sistema acústico ajustable con:
-            <ul>
+                    <ul class="margen2Ul">
                 <li type= disc>Canopy o difusor acústico superior mecanizado.</li>
                 <li type= disc>Cortinas acústicas laterales mecanizadas.</li>
                 <li type= disc>Muro escultórico acústico rodeante de 1000 m<sup>2</sup>.</li>
@@ -117,8 +117,8 @@ if($_GET['tipo'] == 1){
                     <a data-fancybox="tlaqna" href="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(56).jpg">
                         <img src="img/tlaqna/HOYLUCES-UNIDAD-DEPORTIVA-TLAQNA-EXTERIORES-DRON-(56).jpg">
                 </a>
-                    <a data-fancybox="tlaqna" href="img/tlaqna/Croquis-Tlaqna.png">
-                        <img src="img/tlaqna/Croquis-Tlaqna.png">
+                    <a data-fancybox="tlaqna" href="img/tlaqna/Croquis-Tlaqna(1).png">
+                        <img src="img/tlaqna/Croquis-Tlaqna(1).png">
                 </a>
 
             </div>
@@ -126,8 +126,8 @@ if($_GET['tipo'] == 1){
          <p class="h3subMenu">Sala anexa</p>
          <div class="div1Notas">
          <ul>
-                <li type= disc>Capacidad para 420 espectadores en formato Teatro (dos niveles).</li>
-                <li type= disc>Servicios audiovisuales con pantalla de 8 x 3 mt.</li>
+             <li type= disc>Capacidad para 420 espectadores en formato <i>Teatro</i> (dos niveles).</li>
+                <li type= disc>Servicios audiovisuales con pantalla de 8 x 3 m.</li>
                 <li type= disc>Tramoya.</li>
                 <li type= disc>Foso para ópera.</li>
                 <li type= disc>Vestíbulo.</li>
@@ -160,7 +160,8 @@ if($_GET['tipo'] == 1){
             </div>
              
          <p class="h3subMenu">Servicios adicionales del Centro Cultural</p>
-         <ul>
+         
+             <ul style="padding-left: 4%;">
                 <li type= disc>Aire acondicionado.</li>
                 <li type= disc>Súper-poste de iluminación externa.</li>
                 <li type= disc>Sanitarios.</li>
@@ -183,13 +184,13 @@ if($_GET['tipo'] == 1){
     
 </div>
    <div id="beisMenos" class="encabezadoSub">
-        <img class="puntero" onclick="mostrarOcultar('beisMas','beisMenos');" style="vertical-align: middle; padding-top: .3em;" src="img/desplegar icon.png">&nbsp;&nbsp;<label>Campo de Béisbol</label>
+        <img class="puntero" onclick="mostrarOcultar('beisMas','beisMenos');" style="vertical-align: middle; padding-top: .3em;" src="img/desplegar icon.png">&nbsp;&nbsp;<label>Campo de Beisbol</label>
     </div>
     <div id="beisMas" style="display: none">
     <div id="divSubMenuNota">
         <div class="div1Notas">
     <div class="encabezadoSub">
-        <img class="puntero" onclick="mostrarOcultar('beisMenos','beisMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Campo de Béisbol</label>
+        <img class="puntero" onclick="mostrarOcultar('beisMenos','beisMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Campo de Beisbol</label>
     </div>
     
     <ul>

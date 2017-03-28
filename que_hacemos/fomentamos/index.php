@@ -167,7 +167,7 @@ if($_GET['tipo'] == 1){
             
         </div>
         <br /><br />
-        <p>Como parte de las acciones de fomento de la práctica de deportes, la Fundación UV ofrece desde el año 2001, la oportunidad a equipos de la ciudad de Xalapa y la región, en los distintos torneos que organiza anualmente. Lo recaudado a través de la inscripción de éstos se utiliza para dar mantenimiento a las canchas.</p>
+        <p>Como parte de las acciones de fomento de la práctica de deportes, la Fundación UV ofrece desde el año 2001, la oportunidad a equipos de la ciudad de Xalapa y la región, de participar en los distintos torneos que organiza anualmente. Lo recaudado a través de la inscripción de éstos se utiliza para dar mantenimiento a las canchas.</p>
         <ul>
             <li type= disc>Torneo Premier de Futbol Soccer Varonil. Dirigido a jugadores nacidos antes y hasta 1960. Se realizan alrededor de 24 jornadas durante el año. Con casi 20 años de antigüedad, este torneo se ha convertido en una tradición en Xalapa para los veteranos que disfrutan jugar un partido de futbol cada fin de semana.</li>
             <li type= disc>Torneo Master de Futbol Soccer Varonil. Dirigido a los nacidos entre 1961 y 1969. Se organizan partidos de visita recíproca entre los equipos, por lo que dura todo el año. </li>
@@ -191,7 +191,7 @@ if($_GET['tipo'] == 1){
         
         
         
-            <p>El programa de fomento y apoyo al deporte, coordinado por la Fundación UV, tiene como objetivos desarrollar deportistas para la Universidad Veracruzana a corto plazo, formar la identidad universitaria en los niños, jóvenes y sus familias y fomentar el deporte, lo que repercutirá en el bienestar de la sociedad xalapeña y sus alrededores. De este programa forman parte, los Centros de Formación Deportiva infantil y juvenil de futbol soccer, futbol americano y baloncesto, este último a cargo de la Fundación UV desde 2013.</p>
+            <p>El programa de fomento y apoyo al deporte, coordinado por la Fundación UV, tiene como objetivos desarrollar deportistas para la Universidad Veracruzana a corto plazo, formar la identidad universitaria en los niños, jóvenes y sus familias y fomentar el deporte, lo que repercutirá en el bienestar de la sociedad xalapeña y sus alrededores. De este programa forman parte, los Centros de Formación Deportiva infantil y juvenil en futbol soccer, futbol americano y baloncesto, este último a cargo de la Fundación UV desde 2013.</p>
         
         <ul>
             <li type= disc>Futbol soccer <br /><br /><br />
@@ -215,10 +215,11 @@ if($_GET['tipo'] == 1){
                <br> Coordinador:  Miguel Ángel Maldonado Hernández<br>
 Inscripciones abiertas todo el año<br>
 Entrenamiento para niñas y niños<br>
-Uniformes: se utilizan 3 modelos de uniforme verde, blanco y azul, cada uno con un precio de $450.00 <br/><br/><br/>
+Uniformes: se utilizan 3 modelos (verde, blanco y azul) cada uno con un precio de $450.00<br/><br/><br/>
 
             </li>
-            <li type= disc>Futbol americano   <br /><br />Inició actividades en el 2010 <br><br /><br />
+            <li type= disc>Baloncesto   <br /><br /><br />
+           
                 <div id="div100SliderNotas" class="container">
                     <div id="divSliderNotasBoton" >                            
                         <div id="Glide" class="glide">
@@ -236,13 +237,13 @@ Uniformes: se utilizan 3 modelos de uniforme verde, blanco y azul, cada uno con 
                         </div>
                     </div>
                 </div>
-                Coordinador: Néstor Otilio Hernández Flores<br/>
+                Coordinador: Néstor Otilio Hernández Flores<br/><br/>
                 Inscripciones abiertas todo el año<br/>
                 Uniforme doble vista: $700.00<br/>
                 Inscripción: $150.00<br/><br/><br/>
 
             </li>
-            <li type= disc>Baloncesto   <br /><br />Inició actividades en el 2003 <br><br /><br />
+             <li type= disc>Futbol americano   <br /><br /><br />
                 <div id="div100SliderNotas" class="container">
                     <div id="divSliderNotasBoton" >                            
                         <div id="Glide" class="glide">
@@ -262,22 +263,27 @@ Uniformes: se utilizan 3 modelos de uniforme verde, blanco y azul, cada uno con 
                 </div>
                 
                 Coordinador: José Luis Izquierdo Bustamante<br />
-El costo de la temporada le incluye: <br /><br />
-<ul>
+El costo de la temporada le incluye: <br />
+<ul >
     <li type= disc>1 uniforme de cortos (short y playera)</li>
     <li type= disc>1 uniforme de juego (jersey y fundas)</li>
-    <li type= disc>Préstamo de utileria (casco, shoulders e integraciones)</li>
+    <li type= disc>Préstamo de utilería (casco, shoulders e integraciones)</li>
 </ul>
 
 
-El entrenamiento varonil se encuentra dividido en dos categorías:<br /><br />
+El entrenamiento varonil se encuentra dividido en dos categorías:<br />
 <ul>
-    <li type= disc>Infantil que va de los 6 a los 15 años juega la temporada de Primavera que es de enero a junio y una pre-temporada de octubre a diciembre.</li>
-    <li type= disc>Juvenil que va de los 16 a los 18 años tiene dos temporadas al año, la de Primavera que es de enero a junio y la de Otoño que es de julio a diciembre.
-Para el entrenamiento femenil, se aceptan desde los 10 hasta los 20 años, divididas en 3 categorías: novatas, intermedia y mayor. Con el objetivo de impulsar la práctica de este deporte entre el género femenino, no se cobra ninguna cuota.</li>
+    <li type= disc>Infantil. De 6 a 15 años. Juega la temporada de primavera (enero a junio) y una pre-temporada (octubre a diciembre).</li>
+    <li type= disc>Juvenil. De 16 a 18 años. Tiene dos temporadas al año: primavera (enero a junio) y otoño (julio a diciembre).</li>
 
 </ul>
 
+Entrenamiento femenil:<br />
+<ul>
+    <li type= disc>De 10 a 20 años.</li>
+    <li type= disc>Divididas en 3 categorías: Novatas, Intermedia y Mayor.</li>
+    <li type= disc>Con el objetivo de impulsar la práctica de este deporte entre el género femenino, no se cobra ninguna cuota.</li>
+</ul>
 
 
             </li>

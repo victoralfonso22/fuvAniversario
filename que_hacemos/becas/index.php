@@ -226,21 +226,21 @@ Con la finalidad de sumar esfuerzos a esta causa social, que permitiera maximiza
                 <a data-fancybox="gallery" href="img/cata/IMG_20141017_214604.jpg">
                     <img src="img/cata/IMG_20141017_214604.jpg">
                 </a>
-                <a data-fancybox="gallery" href="img/conciertos/DSC03663.jpg">
-                    <img src="img/conciertos/DSC03663.jpg">
+                <a data-fancybox="gallery" href="img/conciertos/1.png">
+                    <img src="img/conciertos/1.png">
                 </a>
             </div>
     <div>
-        <a data-fancybox="gallery" href="img/conciertos/DSC03665.jpg">
-                    <img src="img/conciertos/DSC03665.jpg">
+        <a data-fancybox="gallery" href="img/conciertos/2.png">
+            <img src="img/conciertos/2.png">
                 </a>
-        <a data-fancybox="gallery" href="img/conciertos/DSC03683.jpg">
-                    <img src="img/conciertos/DSC03683.jpg">
+        <a data-fancybox="gallery" href="img/conciertos/3.png">
+            <img src="img/conciertos/3.png">
                 </a>
             </div>
     <div>
-        <a data-fancybox="gallery" href="img/conciertos/DSC03729.jpg">
-                    <img src="img/conciertos/DSC03729.jpg">
+        <a data-fancybox="gallery" href="img/conciertos/4.png">
+            <img src="img/conciertos/4.png">
                 </a>
         <a data-fancybox="gallery" href="img/conciertos/z4.jpg">
                     <img src="img/conciertos/z4.jpg">

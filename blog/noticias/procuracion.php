@@ -25,7 +25,7 @@
 
             <div class="glide__wrapper">
                 <ul class="glide__track">
-                    <li class="glide__slide"><img id="imgSliderNotas" src="../img/procura/3-8.png" /></li>                    
+                    <li class="glide__slide"><img id="imgSliderNotas" src="../img/procura/Eventos-para-la-Procuración-de-Fondos.png" /></li>                    
                 </ul>
             </div>
             
@@ -68,7 +68,7 @@
                 </a>
             </div>
             <div>
-                <a data-fancybox="gallery" href="../img/procura/3-4.jpg.jpg">
+                <a data-fancybox="gallery" href="../img/procura/3-4.jpg">
                     <img src="../img/procura/3-4.jpg">
                 </a>
                 <a data-fancybox="gallery" href="../img/procura/3-6.jpg">

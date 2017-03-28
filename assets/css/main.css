@@ -2548,7 +2548,7 @@
 
                                 .div2Notas{
                                     width: 51%;
-                                    padding-top: 8%;
+                                    padding-top: 1%;
                                 }
                                 
                                 .div2Notas div img{
@@ -2659,6 +2659,11 @@
                                     color: #5fa8ca;
                                     font-family: Open Sans Bold;
                                     font-size: 20px;
+                                    margin-bottom: .8em !important;
+                                }
+                                
+                                .margen2Ul{
+                                    margin-bottom: .2em;
                                 }
                                 
                                 .h3subMenuNota{
@@ -2801,13 +2806,14 @@
                                     font-size: 15px;                                    
                                     background: rgba(0, 0, 0, 0.9);   
                                     text-align: left;
-                                    bottom: 65px;
+                                    line-height: normal !important;
+                                    bottom: 40px;
                                 }
                                 .contenedor-img p {
                                     font-size: 10px;
                                     position: absolute;
                                     color: #fff;
-                                    bottom: 10px;                                  
+                                    bottom: -5px;                                  
                                     text-align: left;
                                 }
                                 .contenedor-img a.link {
@@ -2864,19 +2870,19 @@
                                     transition: all 0.3s 0.1s ease-in-out;
                                 }
 
-                                .example2:hover .mascara {
+                                .example2 .mascara {
                                     opacity: .95;
                                     transform: translate(0px, 0px) rotate(0deg);
                                 }
-                                .example2:hover h2 {
+                                .example2 h2 {
                                     transform: translate(0px,0px);
                                     transition-delay: 0.3s;
                                 }
-                                .example2:hover p {
+                                .example2 p {
                                     transform: translate(0px,0px);
                                     transition-delay: 0.4s;
                                 }
-                                .example2:hover a.link {
+                                .example2 a.link {
                                     transform: translate(0px,0px);
                                     transition-delay: 0.5s;
                                 }

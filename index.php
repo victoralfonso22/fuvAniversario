@@ -22,7 +22,7 @@
                     <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-2.jpg" /></li>
                     <li class="glide__slide"><a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/becas/?tipo=4"><img id="imgSlider" src="imagenes/carrusel-3.jpg" /></a></li>
                     <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-4.jpg" /></li>
-                    <li class="glide__slide"><a href="blog/noticias/acelerador.php"><img id="imgSlider" src="imagenes/carrusel-5.jpg" /></a></li>
+                    <li class="glide__slide"><a href="blog/noticias/acelerador.php"><img id="imgSlider" src="imagenes/carrusel-5.png" /></a></li>
                 </ul>
             </div>
 
@@ -179,7 +179,7 @@
             <tr>
                 <td >
                     <div class="contenedor-img example2">
-                        <img  src="blog/img/lineal/2-2.jpg" />
+                        <img  src="blog/img/lineal/2.jpg" />
                     <div class="mascara">
                         <a href="blog/noticias/acelerador.php">
                            <div class="contenido">
@@ -260,7 +260,7 @@
                     </li>-->
                     <li class="glide__slide"><img id="imgSlider" src="imagenes/numeralia/numeralia1.png" style="padding-top: 3%"/></li>
                     <li class="glide__slide"><img id="imgSlider" src="imagenes/numeralia/numeralia2.png" style="padding-top: 3%"/></li>
-                    <li class="glide__slide"><img id="imgSlider" src="imagenes/numeralia/numeralia3.png" style="padding-top: 3%"/></li>
+                    <li class="glide__slide"><img id="imgSlider" src="imagenes/numeralia/datos-de-numeralia-Coatzacoalcos-–-Minatitlán.png" style="padding-top: 3%"/></li>
                 </ul>
             </div>
             <!--<div id="puntosSlider" class="glide__bullets"></div>-->
