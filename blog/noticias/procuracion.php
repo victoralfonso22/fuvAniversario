@@ -68,9 +68,12 @@
                 </a>
             </div>
             <div>
-                <a data-fancybox="gallery" href="../img/procura/3-4.jpg">
-                    <img src="../img/procura/3-4.jpg">
+                <a data-fancybox="gallery" href="../img/procura/3.jpg">
+            <img src="../img/procura/3.jpg">
                 </a>
+                <!--<a data-fancybox="gallery" href="../img/procura/3-4.jpg">
+                    <img src="../img/procura/3-4.jpg">
+                </a>-->
                 <a data-fancybox="gallery" href="../img/procura/3-6.jpg">
                     <img src="../img/procura/3-6.jpg">
                 </a>
@@ -83,11 +86,8 @@
             <img src="../img/procura/3-8.jpg">
                 </a>
             </div>
-    <div>
-        <a data-fancybox="gallery" href="../img/procura/3.jpg">
-            <img src="../img/procura/3.jpg">
-                </a>
-        <a data-fancybox="gallery" href="../img/procura/Cartel Cara a Cara v7.jpg">
+   
+    <!--    <a data-fancybox="gallery" href="../img/procura/Cartel Cara a Cara v7.jpg">
             <img src="../img/procura/Cartel Cara a Cara v7.jpg">
                 </a>
             </div>
@@ -96,7 +96,7 @@
             <img src="../img/procura/El_coronel.jpg">
                 </a>
         
-            </div>
+            </div>-->
     
 </div>
         

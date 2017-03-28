@@ -223,9 +223,12 @@ Con la finalidad de sumar esfuerzos a esta causa social, que permitiera maximiza
                 </a>
             </div>
             <div>
-                <a data-fancybox="gallery" href="img/cata/IMG_20141017_214604.jpg">
-                    <img src="img/cata/IMG_20141017_214604.jpg">
+                 <a data-fancybox="gallery" href="img/conciertos/z6.jpg">
+            <img src="img/conciertos/z6.jpg">
                 </a>
+                <!--<a data-fancybox="gallery" href="img/cata/IMG_20141017_214604.jpg">
+                    <img src="img/cata/IMG_20141017_214604.jpg">
+                </a>-->
                 <a data-fancybox="gallery" href="img/conciertos/1.png">
                     <img src="img/conciertos/1.png">
                 </a>
@@ -246,12 +249,7 @@ Con la finalidad de sumar esfuerzos a esta causa social, que permitiera maximiza
                     <img src="img/conciertos/z4.jpg">
                 </a>
             </div>
-    <div>
-        <a data-fancybox="gallery" href="img/conciertos/z6.jpg">
-            <img src="img/conciertos/z6.jpg">
-                </a>
-  
-            </div>
+    
     
 </div>
 

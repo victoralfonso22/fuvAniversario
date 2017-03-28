@@ -44,7 +44,7 @@
             <table id="tabla">
                 <tr>
                     <td >
-                        <a href="httpss://fundacionuv.org/solicitudes/"><img src="imagenes/accesosRapidos/action beca.png" onmouseover="this.src = 'imagenes/accesosRapidos/action beca-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action beca.png'"></a>
+                        <a href="https://fundacionuv.org/solicitudes/"><img src="imagenes/accesosRapidos/action beca.png" onmouseover="this.src = 'imagenes/accesosRapidos/action beca-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action beca.png'"></a>
                     </td>
                     <td >
                         <a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/becas/"><img src="imagenes/accesosRapidos/action-Apoyar-a-un-becario.png" onmouseover="this.src = 'imagenes/accesosRapidos/action-Apoyar-a-un-becario-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action-Apoyar-a-un-becario.png'"></a>
