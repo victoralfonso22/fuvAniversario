@@ -9,7 +9,7 @@
                 <link rel="shortcut icon" type="image/x-icon" href="https://www.fundacionuv.org/fuvAniversario/imagenes/favicon.ico" />       		
                 <script src="https://www.fundacionuv.org/fuvAniversario/assets/js/jquery.min.js"></script>
                 <script src="https://www.fundacionuv.org/fuvAniversario/assets/js/funciones.js"></script>
-                <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
                 <script src="https://www.fundacionuv.org/fuvAniversario/assets/js/jquery.slicknav.js"></script>
                 <link rel="stylesheet" href="https://www.fundacionuv.org/fuvAniversario/assets/css/glide.core.css" />
                 <link rel="stylesheet" href="https://www.fundacionuv.org/fuvAniversario/assets/css/glide.theme.css" />                
@@ -59,16 +59,16 @@
                                                                                         <tr><td><li type= disc><a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/becas/?tipo=1">Programa de becas</a></li>
                                                                                                 <li type= disc><a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/becas/?tipo=2">Dona a becas</a></li>
                                                                                                 <!-- <li type= disc><a>Testimonios</a></li> -->
-                                                                                                <li type= disc><a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/becas/?tipo=4">Convocatoria / Resultados</a></li></td></tr>   
+                                                                                                <li type= disc><a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/becas/?tipo=4">Convocatoria y Resultados</a></li></td></tr>   
                                                                                         </table>
                                                                                         
                                                                                         </div>
                                                                                         <div >
                                                                                     <table>
                                                                                        <tr><th><li><a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/ofrecemos/">Ofrecemos espacios para eventos</a></li></th></tr>
-                                                                                        <tr><td><li type= disc><a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/ofrecemos/?tipo=1">Tlaqn&aacute; centro cultural</a></li>
+                                                                                        <tr><td><li type= disc><a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/ofrecemos/?tipo=1">Tlaqn&aacute;. Centro cultural</a></li>
                                                                                                 <li type= disc><a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/ofrecemos/?tipo=2">Campo de beisbol</a></li>
-                                                                                                <li type= disc><a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/ofrecemos/?tipo=3">Gimnacio universitario</a></li>
+                                                                                                <li type= disc><a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/ofrecemos/?tipo=3">Gimnasio universitario</a></li>
                                                                                        </td></tr>
                                                                                          </table>
                                                                                             
@@ -78,8 +78,8 @@
                                                                                         <tr><th><li><a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/fomentamos/">Fomentamos el deporte</a></li></th></tr>
                                                                                         <tr><td>
                                                                                                 <li type= disc><a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/fomentamos/?tipo=1">Uso de instalaciones deportivas</a></li>
-                                                                                                <li type= disc><a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/fomentamos/?tipo=2">Centros de formaci&oacute;n infantil y juvenil (Baloncesto, Soccer y Americano)</a></li>
-                                                                                                <li type= disc><a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/fomentamos/?tipo=3">Programa de Fútbol Americano</a></li>
+                                                                                                <li type= disc><a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/fomentamos/?tipo=2">Centros de formaci&oacute;n DEPORTIVA INFANTIL Y JUVENIL</a></li>
+                                                                                                <li type= disc><a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/fomentamos/?tipo=3">Programa de Futbol Americano</a></li>
                                                                                         </td></tr>
                                                                                                      </table>
                                                                                             
@@ -90,8 +90,8 @@
                                                                                         <div >
                                                                                         <table>                                                                                        
                                                                                             <tr><th><li><a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/administramos/">Administramos instalaciones</a></li></th></tr>
-                                                                                        <tr><td><li type= disc><a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/administramos/?tipo=1">Campus para la cultura, las artes y el deporte (campus cad)</a></li>
-                                                                                                <li type= disc><a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/administramos/?tipo=2">Campus ixtaczoquitl&aacute;n</a></li></td></tr>                                                                                        
+                                                                                        <tr><td><li type= disc><a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/administramos/?tipo=1">Campus CAD Xalapa</a></li>
+                                                                                                <li type= disc><a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/administramos/?tipo=2">Campus IXTAC</a></li></td></tr>                                                                                        
                                                                                     </table>
                                                                                         
                                                                                         </div>
