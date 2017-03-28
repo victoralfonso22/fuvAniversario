@@ -98,11 +98,11 @@
          <div id="divMenuBlog">
         <div>
             <table>
-                <tr><td class="tituloNoticia">Primera noticia posteada por viko</td></tr>
-                <tr><td><img src="blog/img/ancho-290-px-copia-5.png"></td></tr>
+                <tr><td class="tituloNoticia">25 ANIVERSARIO DE LA FUNDACIÓN UV</td></tr>
+                <tr><td><img class="imagenBlogPrincipal193" src="blog/img/25Ani/para-home.png"></td></tr>
                 <tr><td class="pieNoticia">Marzo de 2017</td></tr>
-                <tr><td class="masNoticia">Estan Cansado??, noooooo.... Que si estan cansado???, nooooooooooo</td></tr>
-                <tr><td class="botonNoticia"><img src="img/leer-mas.png" onmouseover="this.src='img/leer-mas-hover.png'" onmouseout="this.src='img/leer-mas.png'"></td></tr>
+                <tr><td class="masNoticia">Hace 25 años, egresados y amigos de la Universidad Veracruzana, en un acto de gratitud decidieron crear la Fundación de la Universidad Veracruzana (FUV)</td></tr>
+                <tr><td class="botonNoticia"><a href="blog/noticias/25Aniversario.php"><img src="blog/img/leer-mas.png" onmouseover="this.src='blog/img/leer-mas-hover.png'" onmouseout="this.src='blog/img/leer-mas.png'"></a></td></tr>
             </table>
         <table>
                 <tr><td class="tituloNoticia">“Urgencia de equipo, urgencia de vida”: gestión de magno proyecto de la FUV</td></tr>
@@ -134,14 +134,16 @@
             <tr>
                 <td rowspan="2" colspan="2">
                 <div class="contenedor-img example2">
-                    <img class="imagenPrincipalNoticia"  src="blog/img/instalaciones/1-1.jpg" />
+                    <img class="imagenPrincipalNoticia"  src="blog/img/25Ani/para-home.png" />
+                    <a href="blog/noticias/25Aniversario.php">
                     <div class="mascara">
                     <div class="contenido">
-                        <h2></h2>
+                        <h2>25 ANIVERSARIO DE LA FUNDACIÓN UV</h2>
                              <p>Marzo de 2017</p>
                         
                         </div>
                         </div>
+                        </a>
                 </td>
                 <td >
                     <div class="contenedor-img example2">

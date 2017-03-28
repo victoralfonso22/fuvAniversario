@@ -15,11 +15,11 @@
     <div id="divMenuBlog">
         <div>
             <table>
-                <tr><td class="tituloNoticia">Primera noticia posteada por viko</td></tr>
-                <tr><td><img src="img/ancho-290-px-copia-5.png"></td></tr>
+                <tr><td class="tituloNoticia">25 ANIVERSARIO DE LA FUNDACIÓN UV</td></tr>
+                <tr><td><img class="imagenBlogPrincipal193" src="img/25Ani/para-home.png"></td></tr>
                 <tr><td class="pieNoticia">Marzo de 2017</td></tr>
-                <tr><td class="masNoticia">Estan Cansado??, noooooo.... Que si estan cansado???, nooooooooooo</td></tr>
-                <tr><td class="botonNoticia"><img src="img/leer-mas.png" onmouseover="this.src='img/leer-mas-hover.png'" onmouseout="this.src='img/leer-mas.png'"></td></tr>
+                <tr><td class="masNoticia">Hace 25 años, egresados y amigos de la Universidad Veracruzana, en un acto de gratitud decidieron crear la Fundación de la Universidad Veracruzana (FUV)</td></tr>
+                <tr><td class="botonNoticia"><a href="noticias/25Aniversario.php"><img src="img/leer-mas.png" onmouseover="this.src='img/leer-mas-hover.png'" onmouseout="this.src='img/leer-mas.png'"></a></td></tr>
             </table>
         <table>
                 <tr><td class="tituloNoticia">“Urgencia de equipo, urgencia de vida”: gestión de magno proyecto de la FUV</td></tr>
