@@ -1111,7 +1111,7 @@
 		-webkit-transition: color .25s ease-in-out;
 		-ms-transition: color .25s ease-in-out;
 		transition: color .25s ease-in-out;
-		text-decoration: underline;
+		text-decoration: none;
 		color: #717479;
 	}
 
@@ -2929,10 +2929,17 @@
 		/* Highlights */
 
 			#highlights .highlight h3 {
+                                text-decoration: none;
 				margin: 0 0 0.75em 0;
 				font-size: 1.15em;
 				letter-spacing: 0.05em;
 			}
+                        
+                        #highlights .highlight a {
+			text-decoration: none;
+                        cursor: pointer;
+                        
+		}
 
 		/* Main */
                 /*Se pone el height estipulado en las imagenes que pasaron como estandar para el home 01-03-2017 by viko*/
@@ -3212,7 +3219,14 @@
 
 			#copyright {
 				margin: 3em 0 0 0;
+                                text-decoration: none;
 			}
+                        
+                        #highlights .highlight a {
+			text-decoration: none;
+                        cursor: pointer;
+                        
+		}
 
 	}
 .slicknav_menu {
@@ -3620,6 +3634,7 @@
                                 background: url("images/back-azul.png");
                                 display: block;
 				padding-top: 1em;
+                                text-decoration: none;
 			}
                         
                         #lineadeltiempo {            
@@ -3876,6 +3891,12 @@
 				#content header.style1 {
 					padding-bottom: 2.5em;
 				}
+                                
+                        #highlights .highlight a {
+			text-decoration: none;
+                        cursor: pointer;
+                        
+		}
 
 		/* Footer */
 
@@ -3887,6 +3908,7 @@
 
 			#copyright {
 				padding: 2em 0 0 0;
+                                text-decoration: none;                               
 			}
 
 				#copyright ul {

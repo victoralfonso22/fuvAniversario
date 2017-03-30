@@ -36,7 +36,7 @@
 													<ul class="actions">
 														<li><input type="submit" class="style1" value="Enviar" onclick="enviaFormulario()" /></li>
 														<!--<li><input type="reset" class="style2" value="Reset" /></li>--> 
-                                                                                                                <li style="font-size: 14px; font-family: Open Sans Regular; padding-top:10px;">Al enviar este formulario, consiento que mis datos personales sean tratados conforme al <a href="https://www.fundacionuv.org/fuvAniversario/transparencia/?tipo=3" style="text-decoration:none;"><b>Aviso de privacidad de la Fundación UV.</b></a></li>
+                                                                                                                <li style="font-size: 14px; font-family: Open Sans Regular; padding-top:10px;">Al enviar este formulario, consiento que mis datos personales sean tratados conforme al <a href="https://www.fundacionuv.org/transparencia/?tipo=3" style="text-decoration:none;"><b>Aviso de privacidad de la Fundación UV.</b></a></li>
 													</ul>
 												</div>
 											</div>

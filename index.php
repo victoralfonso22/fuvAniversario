@@ -20,7 +20,7 @@
             <div class="glide__wrapper">
                 <ul class="glide__track">                    
                     <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-2.jpg" /></li>
-                    <li class="glide__slide"><a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/becas/?tipo=4"><img id="imgSlider" src="imagenes/carrusel-3.jpg" /></a></li>
+                    <li class="glide__slide"><a href="https://www.fundacionuv.org/que_hacemos/becas/?tipo=4"><img id="imgSlider" src="imagenes/carrusel-3.jpg" /></a></li>
                     <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-4.jpg" /></li>
                     <li class="glide__slide"><a href="blog/noticias/acelerador.php"><img id="imgSlider" src="imagenes/carrusel-5.png" /></a></li>
                 </ul>
@@ -44,19 +44,19 @@
             <table id="tabla">
                 <tr>
                     <td >
-                        <a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/becas/?tipo=4"><img src="imagenes/accesosRapidos/action beca.png" onmouseover="this.src = 'imagenes/accesosRapidos/action beca-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action beca.png'"></a>
+                        <a href="https://www.fundacionuv.org/que_hacemos/becas/?tipo=4"><img src="imagenes/accesosRapidos/action beca.png" onmouseover="this.src = 'imagenes/accesosRapidos/action beca-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action beca.png'"></a>
                     </td>
                     <td >
-                        <a href="https://www.fundacionuv.org/fuvAniversario/dona/"><img src="imagenes/accesosRapidos/action-Apoyar-a-un-becario.png" onmouseover="this.src = 'imagenes/accesosRapidos/action-Apoyar-a-un-becario-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action-Apoyar-a-un-becario.png'"></a>
+                        <a href="https://www.fundacionuv.org/dona/"><img src="imagenes/accesosRapidos/action-Apoyar-a-un-becario.png" onmouseover="this.src = 'imagenes/accesosRapidos/action-Apoyar-a-un-becario-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action-Apoyar-a-un-becario.png'"></a>
                     </td>
                     <td>
-                        <a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/guiamos/"><img src="imagenes/accesosRapidos/action proyecto.png" onmouseover="this.src = 'imagenes/accesosRapidos/action proyecto-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action proyecto.png'"></a>
+                        <a href="https://www.fundacionuv.org/que_hacemos/guiamos/"><img src="imagenes/accesosRapidos/action proyecto.png" onmouseover="this.src = 'imagenes/accesosRapidos/action proyecto-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action proyecto.png'"></a>
                     </td>
                     <td>
-                        <a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/ofrecemos/"><img src="imagenes/accesosRapidos/action renta.png" onmouseover="this.src = 'imagenes/accesosRapidos/action renta-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action renta.png'"></a>
+                        <a href="https://www.fundacionuv.org/que_hacemos/ofrecemos/"><img src="imagenes/accesosRapidos/action renta.png" onmouseover="this.src = 'imagenes/accesosRapidos/action renta-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action renta.png'"></a>
                     </td>
                     <td>
-                        <a href="https://www.fundacionuv.org/fuvAniversario/que_hacemos/colaboramos/?tipo=2"><img src="imagenes/accesosRapidos/action lego.png" onmouseover="this.src = 'imagenes/accesosRapidos/action lego-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action lego.png'"></a>
+                        <a href="https://www.fundacionuv.org/que_hacemos/colaboramos/?tipo=2"><img src="imagenes/accesosRapidos/action lego.png" onmouseover="this.src = 'imagenes/accesosRapidos/action lego-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action lego.png'"></a>
                     </td>
                 </tr>
                 <tr>
@@ -223,7 +223,7 @@
               </td>
             </tr>
             <tr><td colspan="3"><br/></td></tr>
-            <tr><td colspan="3" style="text-align: right"><a href="https://www.fundacionuv.org/fuvAniversario/blog/"><input class="botonNoticas" type="button" value="M&aacute;s noticias"/></a></td></tr>
+            <tr><td colspan="3" style="text-align: right"><a href="https://www.fundacionuv.org/blog/"><input class="botonNoticas" type="button" value="M&aacute;s noticias"/></a></td></tr>
         </table>
 
 

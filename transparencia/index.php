@@ -84,7 +84,7 @@ if($_GET['tipo'] == 1){
                 <li type= disc>13. Domicilio de la Unidad de Transparencia
                     <ul>
                         <li><a style="text-decoration: none" href="pdf/13. Domicilio de la Unidad de Transparencia/Ficha de contacto FUV-UT.pdf" target="_blank">&bull;&nbsp;Ficha de contacto&nbsp;&nbsp;<img src="img/pdf-icon.png" width="5%"/></a></li>                        
-                        <li><a style="text-decoration: none" href="https://www.fundacionuv.org/fuvAniversario/contacto/">&bull;&nbsp;Ubicación geográfica</a></li>
+                        <li><a style="text-decoration: none" href="https://www.fundacionuv.org/contacto/">&bull;&nbsp;Ubicación geográfica</a></li>
                     </ul>
                 </li>
                 <li type= disc>14. Convocatorias a concursos para ocupar cargos públicos / No aplica</li>
