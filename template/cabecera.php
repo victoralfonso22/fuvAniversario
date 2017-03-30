@@ -27,7 +27,7 @@
                                     <div class="container">
                                         <div  id="logoPrincipal"><a href="https://www.fundacionuv.org/"><img src="https://www.fundacionuv.org/imagenes/principales/logo.png"></a></div>
                                     <div id="fechaPrincipal" ><label><?PHP setlocale(LC_ALL,"es_ES");
-                                            echo ucwords(strftime("%A %d"))
+                                            echo utf8_decode(ucwords(strftime("%A %d")))
                                                     . " de ".ucwords(strftime("%B"))
                                                     . " de ".strftime("%Y");                                            
                                             ?></label>&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://www.facebook.com/FundacionUV.AC/"><img src="https://www.fundacionuv.org/assets/css/images/face.png" onmouseover="this.src='https://www.fundacionuv.org/assets/css/images/face-hover.png'" onmouseout="this.src='https://www.fundacionuv.org/assets/css/images/face.png'"></a>
