@@ -211,7 +211,7 @@ if($_GET['tipo'] == 1){
                     <li>10. Seguimiento del trámite de Acceso, Rectificación, Cancelación y Oposición de Datos Personales.</li>
                 </ul>
                 </p>
-                <p>Para mayor información acerca del tratamiento y de los derechos que puedes hacer valer, accede al <a href="pdf/Aviso de privacidad/Aviso de Privacidad FUV (Extenso).pdf" target="_blank">Aviso de Privacidad completo.</a><br><br><b>Última actualización: 20 de marzo de 2017</b></p>
+                <p>Para mayor información acerca del tratamiento y de los derechos que puedes hacer valer, accede al <u><b><a href="pdf/Aviso de privacidad/Aviso de Privacidad FUV (Extenso).pdf" target="_blank">Aviso de Privacidad completo.</a></b></u><br><br><b>Última actualización: 20 de marzo de 2017</b></p>
             </div>
    
         

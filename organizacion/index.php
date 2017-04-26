@@ -33,7 +33,7 @@ if($_GET['tipo'] == 1){
 <div class="container">
 <header class="style1">
     <br/>
-<h2>Organización y estructura</h2>
+<h2 style="margin-top: 12%">Organización y estructura</h2>
 <div class="bordeAbajo"></div>
 </header>
     

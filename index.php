@@ -10,7 +10,7 @@
 <!-- Slider -->
 <div id="div100Slider">
     <div id="divSlider" class="container">                            
-        <div id="Glide" class="glide">
+        <div id="Glide" class="glide" style="top:40%; z-index: 1000">
 
             <div id="flechasSlider" class="glide__arrows">
                 <button class="glide__arrow prev" data-glide-dir="<"><img src="assets/css/images/Flacha-left.png"></button>
@@ -19,9 +19,10 @@
 
             <div class="glide__wrapper">
                 <ul class="glide__track">                    
+                    <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-4.png" /></li>
+                    <li class="glide__slide"><img id="imgSlider" src="imagenes/reconocimiento.png" /></li>
                     <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-2.jpg" /></li>
-                    <li class="glide__slide"><a href="https://www.fundacionuv.org/que_hacemos/becas/?tipo=4"><img id="imgSlider" src="imagenes/carrusel-3.jpg" /></a></li>
-                    <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-4.jpg" /></li>
+                    <li class="glide__slide"><a href="https://www.fundacionuv.org/que_hacemos/becas/?tipo=4"><img id="imgSlider" src="imagenes/carrusel-3.jpg" /></a></li>                    
                     <li class="glide__slide"><a href="blog/noticias/acelerador.php"><img id="imgSlider" src="imagenes/carrusel-5.png" /></a></li>
                 </ul>
             </div>
@@ -73,7 +74,7 @@
                         Conseguir un espacio para mi evento
                     </td>
                     <td>
-                        Tomar un curso de LEGO®
+                        Tomar un curso de capacitación
                     </td>
                 </tr>
             </table>
@@ -235,7 +236,7 @@
             
         </div>
 
-<div id="div100Slider" style="background: #17529d;">
+<div id="div100Slider" style="background: #17529d; height: 370px;">
     <div id="divSlider" class="container">                            
         <div id="Glide2" class="glide">
             <div id="flechasSlider" class="glide__arrows">
@@ -302,7 +303,7 @@
 
     $("#Glide2").glide({
         type: "slideshow",
-        autoplay: 5000       
+        autoplay: 8000       
     });
 
     $(document).ready(function(){

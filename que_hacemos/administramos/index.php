@@ -25,7 +25,7 @@ if($_GET['tipo'] == 1){
 <div class="container">
 <header class="style1">
     <br/>
-<h2>Administramos instalaciones</h2>
+    <h2 style="margin-top: 12%">Administramos instalaciones</h2>
 <div class="bordeAbajo"></div>
 </header>
     
@@ -62,9 +62,25 @@ if($_GET['tipo'] == 1){
     <div class="encabezadoSub">
         <img class="puntero" onclick="mostrarOcultar('cadMenos','cadMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Campus CAD Xalapa</label>
     </div>
-    <p>El Campus para la Cultura, las Artes y el Deporte fue entregado en comodato a la Fundación UV en 1998.</p>
-    <p>Ubicado en la zona universitaria de Xalapa, es un espacio reconocido, por visitantes nacionales y extranjeros, por su belleza natural y la sana convivencia que se desarrolla en su interior.</p>
+    <p>El Campus para la Cultura, las Artes y el Deporte fue entregado en comodato a la Fundación UV en 1998. Ubicado en la zona universitaria de Xalapa, es un espacio reconocido, por visitantes nacionales y extranjeros, por su belleza natural y la sana convivencia que se desarrolla en su interior.</p>
     <p>Con 33 hectáreas de extensión y vocación multidisciplinaria es sede de la Unidad de Servicios Bibliotecarios y de Información (USBI), Tlaqná. Centro Cultural (TCC), la Unidad Deportiva Universitaria (UDU), el Gimnasio Universitario, y además de institutos y laboratorios de investigación especializada, campeonatos deportivos locales, regionales y nacionales, cursos de verano para niños y jóvenes (julio-agosto) así como conciertos y espectáculos internacionales.</p>
+    <div id="div100SliderNotas" class="container">
+    <div id="divSliderNotasBoton" >                            
+        <div id="Glide" class="glide">
+
+            
+
+            <div class="glide__wrapper">
+                <ul class="glide__track" style="padding-left: 10px;">
+                    <li class="glide__slide" ><img style="width: 100%; text-align: center;-webkit-border-radius: 5px 10px;  -moz-border-radius: 5px 10px;" id="imgSliderNotas" src="img/CROQUIS.png" /></li>                    
+                </ul>
+            </div>
+
+            
+
+        </div>
+    </div>
+</div>
     <div class="div1Notas">
     <p>Asimismo, las áreas verdes del Campus CAD Xalapa son hogar de una gran cantidad de especies animales, y con el objetivo de preservarlas y contribuir al cuidado de nuestros recursos, la Fundación UV creó en 2015 la Unidad de Manejo de Fauna. Entre las especies que están bajo la observación y cuidado de la Unidad encontramos tortugas, tlacuaches, ardillas, armadillos, mapaches, zorros, reptiles y aves, algunas de ellas migratorias, procedentes de diversas partes del mundo que bajan a descansar y alimentarse, y otras que eligen al Campus como residencia definitiva.</p>
     
@@ -103,24 +119,7 @@ if($_GET['tipo'] == 1){
             </div>
             
         </div>
-    <p>A los animales que son encontrados por esta Unidad se les toman medidas, se determina su género y se les marca, antes de volver a liberarlos. Los ejemplares que se encuentran atrapados, lastimados o enfermos son llevados a cuarentena, rehabilitados y posteriormente liberados.  Además, para apoyar en la generación de conciencia sobre el cuidado y la preservación de las especies, la Unidad de Manejo de Fauna organiza periódicamente congresos, cursos y eventos sobre el manejo adecuado de la fauna venenosa y no venenosa. </p>
-    <div id="div100SliderNotas" class="container">
-    <div id="divSliderNotasBoton" >                            
-        <div id="Glide" class="glide">
-
-            
-
-            <div class="glide__wrapper">
-                <ul class="glide__track" style="padding-left: 10px;">
-                    <li class="glide__slide" ><img style="width: 100%; text-align: center;-webkit-border-radius: 5px 10px;  -moz-border-radius: 5px 10px;" id="imgSliderNotas" src="img/CROQUIS.png" /></li>                    
-                </ul>
-            </div>
-
-            
-
-        </div>
-    </div>
-</div>
+    <p>A los animales que son encontrados por esta Unidad se les toman medidas, se determina su género y se les marca, antes de volver a liberarlos. Los ejemplares que se encuentran atrapados, lastimados o enfermos son llevados a cuarentena, rehabilitados y posteriormente liberados.  Además, para apoyar en la generación de conciencia sobre el cuidado y la preservación de las especies, la Unidad de Manejo de Fauna organiza periódicamente congresos, cursos y eventos sobre el manejo adecuado de la fauna venenosa y no venenosa. </p>    
         
        <br/>
        <br/>
@@ -215,16 +214,16 @@ if($_GET['tipo'] == 1){
                 <p>Este espacio cuyo nombre es un vocablo totonaco que significa <i>El que interpreta</i>, fue entregado en comodato a la Fundación UV para su administración, el 23 de agosto del 2013, con el objetivo de salvaguardar y mantener en óptimas condiciones las instalaciones, así como posicionar al centro cultural como un referente de alto nivel y prestigio para la realización de eventos artísticos y culturales. </p>
         <p>Con una propuesta de diseño arquitectónico a cargo del Arq. Enrique Murillo, en Tlaqná. Centro Cultural, confluye un estricto cuidado de la estética, funcionalidad y acústica, logrado gracias al trabajo de expertos nacionales e internacionales.</p>
         </div><p>Cuenta con una sala principal en formato <i>Sala de concierto</i>, con capacidad para más de 1,200 personas; una sala anexa en formato <i>Teatro</i> para 420 personas, y otra de usos múltiples próxima a inaugurarse. Además de un foro al aire libre, vestíbulo y mezzanine.</p>
-        <p>El acustólogo Larry Kierkegaard, de <i>Kierkegaard Associates</i>, estuvo a cargo del proyecto acústico de la Sala principal que comprendió la supervisión de cada uno de los elementos constructivos, mobiliarios y ornamentales del recinto, incluido el muro escultórico de 1000 metros cuadrados, denominado <i>La Ciudad de Niebla</i> y realizado por el artista Hiroyuki Okumura.</p>
+        <p>El acustólogo <a href="http://www.kirkegaard.com/" target="_blank"><u>Larry Kierkegaard</u></a>, de <i>Kierkegaard Associates</i>, estuvo a cargo del proyecto acústico de la Sala principal que comprendió la supervisión de cada uno de los elementos constructivos, mobiliarios y ornamentales del recinto, incluido el muro escultórico de 1000 metros cuadrados, denominado <i>La Ciudad de Niebla</i> y realizado por el artista <a href="http://www.hiro-okumura.jp" target="_blank"><u>Hiroyuki Okumura</u></a>.</p>
         <p>Este mural tuvo un proceso de creación de nueve meses y cuenta con 2,272 paneles poblados de personajes, motivos de Xalapa y paisajes aledaños, los cuales recorren ininterrumpidamente los cuatro muros perimetrales de la Sala. </p>
-            
+            <a target="_blank" href="https://www.facebook.com/Tlaqna"><img src="../../assets/css/images/face.png" onmouseover="this.src='../../assets/css/images/face-hover.png'" onmouseout="this.src='../../assets/css/images/face.png'"></a>
         </div>
             <div id="tlaqnaMovil" style="display: none;">
                 <div class="div1Notas" >
                  <p>Este espacio cuyo nombre es un vocablo totonaco que significa El que interpreta, fue entregado en comodato a la Fundación UV para su administración, el 23 de agosto del 2013, con el objetivo de salvaguardar y mantener en óptimas condiciones las instalaciones, así como posicionar al centro cultural como un referente de alto nivel y prestigio para la realización de eventos artísticos y culturales. </p>
         <p>Con una propuesta de diseño arquitectónico a cargo del Arq. Enrique Murillo, en Tlaqná. Centro Cultural, confluye un estricto cuidado de la estética, funcionalidad y acústica, logrado gracias al trabajo de expertos nacionales e internacionales.</p>
         </div><p>Cuenta con una sala principal en formato Sala de concierto, con capacidad para más de 1,200 personas; una sala anexa en formato Teatro para 420 personas, y otra de usos múltiples próxima a inaugurarse. Además de un foro al aire libre, vestíbulo y mezzanine.</p>
-        <p>El acustólogo Larry Kierkegaard, de <i>Kierkegaard Associates</i>, estuvo a cargo del proyecto acústico de la Sala principal que comprendió la supervisión de cada uno de los elementos constructivos, mobiliarios y ornamentales del recinto, incluido el muro escultórico de 1000 metros cuadrados, denominado <i>La Ciudad de Niebla</i> y realizado por el artista Hiroyuki Okumura.</p>
+        <p>El acustólogo <a href="http://www.kirkegaard.com/" target="_blank">Larry Kierkegaard</a>, de <i>Kierkegaard Associates</i>, estuvo a cargo del proyecto acústico de la Sala principal que comprendió la supervisión de cada uno de los elementos constructivos, mobiliarios y ornamentales del recinto, incluido el muro escultórico de 1000 metros cuadrados, denominado <i>La Ciudad de Niebla</i> y realizado por el artista <a href="http://www.hiro-okumura.jp" target="_blank">Hiroyuki Okumura</a>.</p>
         <p>Este mural tuvo un proceso de creación de nueve meses y cuenta con 2,272 paneles poblados de personajes, motivos de Xalapa y paisajes aledaños, los cuales recorren ininterrumpidamente los cuatro muros perimetrales de la Sala. </p>
             <div class="div2Notas" style=" text-align: left !important; padding-top: 10px;" >
                 <div style="padding-left: 0 !important;">
@@ -253,7 +252,7 @@ if($_GET['tipo'] == 1){
             </div>
             </div>
             
-               
+               <a target="_blank" href="https://www.facebook.com/Tlaqna"><img src="../../assets/css/images/face.png" onmouseover="this.src='../../assets/css/images/face-hover.png'" onmouseout="this.src='../../assets/css/images/face.png'"></a>
             </div>
    </div>
 </div>

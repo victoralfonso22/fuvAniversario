@@ -1,5 +1,8 @@
 <?php include('../template/cabecera.php'); ?>
-	
+	<header class="style1">
+        <br/>            
+            <div class="bordeAbajo"></div>
+        </header>
 	<div class="contenidofrm">
 	<!--Contenido-->
 		<div class="contenedorFrm">

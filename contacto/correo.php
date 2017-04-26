@@ -17,7 +17,7 @@ session_start();
         <tr>
             <td align='left'><b>CORREO:</b></td>
             <td></td>
-            <td>".$_POST["correo"]."</td>
+            <td>".utf8_decode($_POST["correo"])."</td>
         </tr>
         <tr>           
             <td><br /></td>           
@@ -25,7 +25,7 @@ session_start();
         <tr>
             <td align='left'><b>ASUNTO:</b></td>
             <td></td>
-            <td>".$_POST["asunto"]."</td>
+            <td>".utf8_decode($_POST["asunto"])."</td>
         </tr>
         <tr>           
             <td><br /></td>           

@@ -9,7 +9,7 @@
 <div class="container">
 <header class="style1">
     <br/>
-<h2>Blog</h2>
+<h2 style="margin-top: 12%">Blog</h2>
 <div class="bordeAbajo"></div>
 </header>
     
@@ -45,20 +45,9 @@
         <p class="pieNoticiaNota">Marzo de 2017</p>
         <br />
     
-        <p>En el marco de los 25 años de la Fundación UV, “Urgencia de Equipo, Urgencia de Vida” ha logrado posicionarse como el primer proyecto de gestión a gran escala. Este resultado es producto de la madurez institucional entre UV y FUV, lo cual, además de permitir la obtención de recursos antes no registrados, evidencia un alto nivel de gestión, operatividad, transparencia y manejo de recursos.</p>
-        <p>En 2012, el Instituto de Investigaciones Médico Biológicas (IIMB) de la UV se acercó a la Fundación UV con la necesidad de desarrollar un proyecto y su posterior campaña de procuración de fondos para sustituir una máquina de Cobalto 60, la cual llegaría a su máximo nivel de obsolescencia en el mes de junio de 2013, y con la que se otorgaban sesiones de radioterapia a pacientes oncológicos del Estado de Veracruz.</p>
-        <p>Para 2013, ya se contaba con un proyecto perfectamente conceptualizado y listo para ejecutar la campaña de procuración de fondos bajo el nombre “Renovación de equipo de radioterapia para el IIMB-UV”, con una meta de 60 millones de pesos, distribuidos entre un Tomógrafo, un Acelerador Lineal y adecuaciones estructurales al edificio para dar cabida a ambos equipos.</p>
-        <p>La gestión del proyecto, entre la Unidad de Proyectos de la FUV y el IIMB de la UV, consistió en acopiar e integrar información acerca de los requerimientos oficiales que permitían a una institución obtener un equipo con estas condiciones, escenario en el que resaltan las normas de la Comisión Nacional de Seguridad Nuclear y Salvaguarda (CNSNS), y la Comisión Nacional Contra la Protección de Riesgos Sanitarios (COFEPRIS), y que garantizan que las instalaciones sean las adecuadas y seguras.</p>
-        <p>Posterior a que el proyecto se presentó a más de 200 instancias de iniciativa privada, sector público y organizaciones de la sociedad civil, se captó la atención de Fundación Gonzalo Río Arronte, institución de asistencia privada que tras tres niveles de revisión, aceptó, en septiembre de 2014, el donativo en especie para la adquisición de un Tomógrafo y aportó un gran porcentaje para la adquisición del Acelerador Lineal. Los tres niveles de revisión consistieron en: selección del proyecto dentro de la convocatoria, análisis del mismo y de la institución solicitante (Fundación UV), e inspección en sitio.</p>
-
-<br /> 
-
-
-<div class="div1Notas">
-<p>El donativo en especie por la Fundación Arronte fue aprobada, inicialmente, por 25 millones de pesos, no obstante, debido a la devaluación del peso mexicano frente al dólar estadounidense, se autorizó, en 2015, un incremento en el donativo a 31.5 millones de pesos. El costo final del proyecto se cerró en 51.5 millones de pesos, los cuales se distribuyen como sigue: 26 millones de pesos, de un Acelerador Lineal, 9.2 millones de pesos, de un tomógrafo, 11 millones de pesos, de estructura y obra, y 5.3 millones de pesos, de capital semilla para la operación inicial. En diciembre de 2015, se firmó el contrato de compra-venta de ambos equipos, estos últimos de última tecnología en la atención de pacientes oncológicos.</p>
-
-</div>
-<div class="div2Notas" style=" padding-top: 10px; padding-bottom: 20px;">
+        <div class="div1Notas"><p>En el marco de los 25 años de la Fundación UV, “Urgencia de Equipo, Urgencia de Vida” ha logrado posicionarse como el primer proyecto de gestión a gran escala. Este resultado es producto de la madurez institucional entre UV y FUV, lo cual, además de permitir la obtención de recursos antes no registrados, evidencia un alto nivel de gestión, operatividad, transparencia y manejo de recursos.</p>
+        <p>En 2012, el Instituto de Investigaciones Médico Biológicas (IIMB) de la UV se acercó a la Fundación UV con la necesidad de desarrollar un proyecto y su posterior campaña de procuración de fondos para sustituir una máquina de Cobalto 60, la cual llegaría a su máximo nivel de obsolescencia en el mes de junio de 2013, y con la que se otorgaban sesiones de radioterapia a pacientes oncológicos del Estado de Veracruz.</p></div>
+        <div class="div2Notas" style=" padding-top: 10px; padding-bottom: 20px;">
     <div>
         <a data-fancybox="gallery" href="../img/lineal/2-2.jpg">
             <img src="../img/lineal/2-2.jpg">
@@ -93,6 +82,16 @@
 
     
 </div>
+        <p>Para 2013, ya se contaba con un proyecto perfectamente conceptualizado y listo para ejecutar la campaña de procuración de fondos bajo el nombre “Renovación de equipo de radioterapia para el IIMB-UV”, con una meta de 60 millones de pesos, distribuidos entre un Tomógrafo, un Acelerador Lineal y adecuaciones estructurales al edificio para dar cabida a ambos equipos.</p>
+        <p>La gestión del proyecto, entre la Unidad de Proyectos de la FUV y el IIMB de la UV, consistió en acopiar e integrar información acerca de los requerimientos oficiales que permitían a una institución obtener un equipo con estas condiciones, escenario en el que resaltan las normas de la Comisión Nacional de Seguridad Nuclear y Salvaguarda (CNSNS), y la Comisión Nacional Contra la Protección de Riesgos Sanitarios (COFEPRIS), y que garantizan que las instalaciones sean las adecuadas y seguras.</p>
+        <p>Posterior a que el proyecto se presentó a más de 200 instancias de iniciativa privada, sector público y organizaciones de la sociedad civil, se captó la atención de Fundación Gonzalo Río Arronte, institución de asistencia privada que tras tres niveles de revisión, aceptó, en septiembre de 2014, el donativo en especie para la adquisición de un Tomógrafo y aportó un gran porcentaje para la adquisición del Acelerador Lineal. Los tres niveles de revisión consistieron en: selección del proyecto dentro de la convocatoria, análisis del mismo y de la institución solicitante (Fundación UV), e inspección en sitio.</p>
+
+<br /> 
+
+
+
+<p>El donativo en especie por la Fundación Arronte fue aprobada, inicialmente, por 25 millones de pesos, no obstante, debido a la devaluación del peso mexicano frente al dólar estadounidense, se autorizó, en 2015, un incremento en el donativo a 31.5 millones de pesos. El costo final del proyecto se cerró en 51.5 millones de pesos, los cuales se distribuyen como sigue: 26 millones de pesos, de un Acelerador Lineal, 9.2 millones de pesos, de un tomógrafo, 11 millones de pesos, de estructura y obra, y 5.3 millones de pesos, de capital semilla para la operación inicial. En diciembre de 2015, se firmó el contrato de compra-venta de ambos equipos, estos últimos de última tecnología en la atención de pacientes oncológicos.</p>
+
 
 </div>
     <p class="h3subMenu">Su impacto social</p>

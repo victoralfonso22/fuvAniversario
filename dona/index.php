@@ -6,7 +6,7 @@
 <div class="container">
 <header class="style1">
     <br/>
-<h2>Dona a becas</h2>
+<h2 style="margin-top: 12%">Dona a becas</h2>
 <div class="bordeAbajo"></div>
 </header>
     
@@ -36,7 +36,7 @@
         <p id="donabecas2" style="text-align: center;font-size: 1.5em">Microdonativos<br/>"Siempre universitarios"<a href="../donativos/mdn_vn.php"><img src="img/via-nomina.png" onmouseover="this.src = 'img/via-nomina-hover.png'" onmouseout="this.src = 'img/via-nomina.png'"/></a><a href="../donativos/tcd.php"><img src="img/Con-tarjeta.png" onmouseover="this.src = 'img/Con-tarjeta-hover.png'" onmouseout="this.src = 'img/Con-tarjeta.png'"/></a></p>
         <p style="text-align: center">Nuestros jóvenes universitarios te esperan, porque al igual que tú, quieren ser ejemplo de éxito.</p>
         <p style="font-family:Open Sans Bold; color: #5FA8CA; font-size: 25px; text-align: center">¡Participar e involucrarse es el camino para mejorar nuestro entorno social!</p>
-        <p style="text-align: center">Si deseas realizar cualquier otro tipo de aportación, comunícate con nosotros para orientarte y canalizar tu donativo de la mejor manera.</p>
+        <p style="text-align: center">Si deseas realizar cualquier otro tipo de aportación, <a href="../contacto/"><u><b>comunícate con nosotros</b></u></a><br/> para orientarte y canalizar tu donativo de la mejor manera.</p>
         <p><table style="border: 3px solid #02D1B6 !important; color: #3071a9; width: 90%; margin-left:5%"><tr><td>La Fundación de la Universidad Veracruzana, A.C., en su calidad de donataria autorizada, expedirá comprobante deducible de ISR por el total de tu aportación (Autorización 325-SAT-30-III-12390).</td></tr></table></p>        
     </div>            
     </div>        

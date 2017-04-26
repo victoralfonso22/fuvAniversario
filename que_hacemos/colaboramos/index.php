@@ -41,7 +41,7 @@ if($_GET['tipo'] == 1){
 <div class="container">
 <header class="style1">
     <br/>
-<h2>Colaboramos con otros programas</h2>
+<h2 style="margin-top: 12%">Colaboramos con otros programas</h2>
 <div class="bordeAbajo"></div>
 </header>
     
@@ -149,7 +149,7 @@ if($_GET['tipo'] == 1){
            <p>La idea de realizar un sorteo universitario de la UV surgió por la necesidad de obtener recursos extras que permitieran mejorar las condiciones de formación y desarrollo de sus estudiantes. </p>
            <p>Este programa busca, a mediano y largo plazo, obtener recursos adicionales que mejoren las condiciones de formación y desarrollo de los estudiantes UV en las cinco regiones universitarias que abarcan todo el estado de Veracruz.</p>
            <p>La Universidad Veracruzana es la permisionaria de este programa, porque ofrece su nombre y estructura, entrega cuentas y se responsabiliza legalmente ante la Secretaría de Gobernación. La Fundación UV es la operadora, ya que logísticamente maneja, administra la operación y el desarrollo de los sorteos al tiempo de rendir cuentas a la UV.</p>
-           <p>Si quieres más detalles y conocer información sobre la edición en curso, entra a <a target="_blank" href="http://www.sorteosuv.org.mx">www.sorteosuv.org.mx</a></p>
+           <p>Si quieres más detalles y conocer información sobre la edición en curso, entra a <a target="_blank" href="http://www.sorteosuv.org.mx"><b><u>www.sorteosuv.org.mx</u></b></a></p>
            <div id="paddinFonfo" />
     </div>   
         

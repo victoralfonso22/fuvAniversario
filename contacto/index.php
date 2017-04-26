@@ -4,7 +4,7 @@
                         <script type="text/javascript" src="funciones.js"></script>
                         
                                                 <header class="style1">
-                                                    <h2>Contacto</h2>
+                                                    <h2 style="margin-top: 12%">Contacto</h2>
                                                     <div class="bordeAbajo"/>
                                                 </header>
                                         <div id="main" class="container" style="background-color: white; margin-top: 2%">

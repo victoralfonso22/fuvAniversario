@@ -1,4 +1,4 @@
-﻿
+
 <!-- Header -->
 <?php include('../../template/cabecera.php'); ?>
 <link rel="stylesheet" href="../../assets/css/glide.core.css" />
@@ -38,7 +38,7 @@ if($_GET['tipo'] == 1){
 <div class="container">
 <header class="style1">
     <br/>
-<h2>Otorgamos becas</h2>
+<h2 style="margin-top: 12%">Otorgamos becas</h2>
 <div class="bordeAbajo"></div>
 </header>
     
@@ -153,25 +153,25 @@ Con la finalidad de sumar esfuerzos a esta causa social, que permitiera maximiza
 <!----------------    Texto para seccion Formas de apoyar     ----------------->
 
 <div id="formaApoyarMenos" class="encabezadoSub">
-    <img class="puntero" onclick="mostrarOcultar('formaApoyarMas','formaApoyarMenos');" style="vertical-align: middle; padding-top: .3em;" src="img/desplegar icon.png">&nbsp;&nbsp;<label>Dona a becas</label>
+    <img class="puntero" onclick="mostrarOcultar('formaApoyarMas','formaApoyarMenos');" style="vertical-align: middle; padding-top: .3em;" src="img/desplegar icon.png">&nbsp;&nbsp;<label>Campañas de donativo</label>
     </div>
 <div id="formaApoyarMas" style="display: none;">
     <div id="divSubMenuNota">
 <div class="encabezadoSub">
-    <img class="puntero" onclick="mostrarOcultar('formaApoyarMenos','formaApoyarMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Dona a becas</label>
+    <img class="puntero" onclick="mostrarOcultar('formaApoyarMenos','formaApoyarMas');" style="vertical-align: middle; padding-top: .3em;" src="img/encoger-icon.png">&nbsp;&nbsp;<label>Campañas de donativo</label>
     </div>
-<p class="h3subMenu">Campa&ntilde;as de donativo</p>
-<table>    
-    <tr  >
-        <td style="text-align: center; width: 50%;">
+<!--<p class="h3subMenu">Campa&ntilde;as de donativo</p>-->
+<table style="border: #dadada solid 2px">    
+    <tr  style="border: #dadada solid 2px">
+        <td style="text-align: center; width: 50%; font-weight: bold; color:#5fa8ca; border: #dadada solid 2px">
             Adopta un becario
         </td>
-        <td style="text-align: center; width: 50%;">
+        <td style="text-align: center; width: 50%; font-weight: bolder; color:#5fa8ca">
             Microdonativos
         </td>
     </tr>
-    <tr >
-        <td>En esta campa&ntilde;a, el benefactor:
+    <tr style="border: #dadada solid 2px">
+        <td style="border: #dadada solid 2px">En esta campa&ntilde;a, el benefactor:
             <ul>
                 <li type= disc>Participa como Padrino o Madrina de un estudiante.</li>
                 <li type= disc>Puede tener una vinculaci&oacute;n directa con su becario(a).</li>
@@ -185,8 +185,8 @@ Con la finalidad de sumar esfuerzos a esta causa social, que permitiera maximiza
             </ul>
 </td>
     </tr>
-    <tr>
-        <td>Caracter&iacute;sticas del donativo:
+    <tr style="border: #dadada solid 2px">
+        <td style="border: #dadada solid 2px">Caracter&iacute;sticas del donativo:
             <ul>
                 <li type= disc>$5,000.00 al semestre, en una o varias exhibiciones.</li>
                 <li type= disc>Se puede participar con aportaciones desde ¼ de beca ($1,250.00)</li>
@@ -204,9 +204,7 @@ Con la finalidad de sumar esfuerzos a esta causa social, que permitiera maximiza
 </table>
 <p>Nota: En ambas campañas el benefactor elige el número de periodos y de pagos con los que desea participar en el programa.</p>
 
-<a href="../../dona/"><img style="margin-left: 1%" src="img/Dona-ahora.png" onmouseover="this.src = 'img/Dona-ahora-hover.png'" onmouseout="this.src = 'img/Dona-ahora.png'"/></a>
-<br />
-<br />
+<p style="text-align: center"><a href="../../dona/" ><img style="margin-left: 1%" src="img/Dona-ahora.png" onmouseover="this.src = 'img/Dona-ahora-hover.png'" onmouseout="this.src = 'img/Dona-ahora.png'"/></a></p>
 <p class="h3subMenu">Eventos anuales de procuraci&oacute;n</p>
 <div class="div1Notas">
 <p>Con la finalidad de fortalecer la labor de procuraci&oacute;n de fondos en beneficio de los estudiantes UV, se ha implementado la realizaci&oacute;n de eventos con causa, en los cuales los asistentes pueden disfrutar del programa art&iacute;stico a la vez que contribuyen con nuestro Programa de Becas. </p>
@@ -272,27 +270,15 @@ La beca que la Fundaci&oacute;n UV otorga a estudiantes de la Universidad Veracr
 
 <p>La Convocatoria es abierta de forma bianual en los meses de febrero y agosto y el proceso de solicitud es como se muestra en la imagen:</p>
 
-<div id="div100SliderNotas" class="container">
-    <div id="divSliderNotas" >                            
-        <div id="Glide" class="glide">           
-            <div class="glide__wrapper">
-                <ul class="glide__track" style="padding-left: 0;">
-                    <li class="glide__slide" ><a  href="" target="_blank"><img id="imgSliderNotas" style="width: 80%" src="img/proceso para solicitar una beca.png" /></a></li>                    
-                </ul>
-            </div>            
-        </div>              
-    </div>    
-</div>
-<br />
-<br /><br /><br /><br /><br />
-<div id="paddinFonfoBecas"></div>
+<p><img id="imgSliderNotas" style="width: 80%" src="img/proceso para solicitar una beca.png" /></p>                               
+
 <p class="h3subMenu" style="margin-top: 0px">Resultados becas Fundación UV / periodo Febrero - Julio 2017</p>
-<p style="text-align: center">
-    <a href="pdf/Resultados VB 2017-1.pdf" style="padding-right: 7%" target="_blank"><img src="img/Veracruz---Boca-del-Río.png" style="height: 60px"></a>
-    <a href="pdf/Resultados CO 2017-1.pdf" style="padding-right: 6%" target="_blank"><img src="img/Córdoba---Orizaba.png" style="height: 60px"></a>
+<p style="text-align: left">
+    <a href="pdf/Resultados VB 2017-1.pdf" style="padding-right: 7%" target="_blank"><img src="img/Veracruz---Boca-del-Río.png" style="height: 60px"></a><br>
+    <a href="pdf/Resultados CO 2017-1.pdf" style="padding-right: 6%" target="_blank"><img src="img/Córdoba---Orizaba.png" style="height: 60px"></a><br>
     <a href="pdf/Resultados CM 2017-1.pdf" target="_blank"><img src="img/Coatzacoalcos-Minatitlan.png" style="height: 60px"></a></p>
-<p style="text-align: center">
-    <a href="pdf/Resultados PT 2017-1.pdf" style="padding-right: 10%" target="_blank"><img src="img/Poza-Rica---Tuxpan.png" style="height: 60px"></a>
+<p style="text-align: left">
+    <a href="pdf/Resultados PT 2017-1.pdf" style="padding-right: 10%" target="_blank"><img src="img/Poza-Rica---Tuxpan.png" style="height: 60px"></a><br>
     <a href="pdf/Resultados XA 2017-1.pdf" target="_blank"><img src="img/Xalapa.png" style="height: 60px"></a></p>
     </div>
     </div>

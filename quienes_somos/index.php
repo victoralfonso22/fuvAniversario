@@ -3,7 +3,7 @@
 								
 					<div class="container">
                                                 <header class="style1">
-                                                    <h2>Quiénes somos</h2>
+                                                    <h2 style="margin-top: 12%">Quiénes somos</h2>
                                                     <div class="bordeAbajo"/>
                                                 </header>
 						<!-- Image -->
@@ -22,10 +22,10 @@
                                                                                                     estrechar el vínculo entre la Universidad Veracruzana y los diversos sectores de la sociedad.<br/><br/>Hasta el día de hoy:
                                                                                                 </p>
                                                                                                 <p style="padding-left:5%">
-                                                                                                    ● Promovemos oportunidades para los estudiantes.<br>
-                                                                                                    ● Administramos instalaciones en tres de las cinco regiones UV, promoviendo su utilización eficiente. <br/>
-                                                                                                    ● Administramos y gestionamos proyectos.<br/>
-                                                                                                    ● Fomentamos la práctica del deporte, la cultura y la recreación.
+                                                                                                    ● Promovemos oportunidades para los estudiantes<br>
+                                                                                                    ● Administramos instalaciones en tres de las cinco regiones UV, promoviendo su utilización eficiente<br/>
+                                                                                                    ● Administramos y gestionamos proyectos<br/>
+                                                                                                    ● Fomentamos la práctica del deporte, la cultura y la recreación
                                                                                                 </p>
                                                                                                 <br/>
 												<p><span style="font-family:Open Sans Bold; color: #5FA8CA; font-size: 19px;">Misión, visión y filosofía organizacional</span><br/><b>Misión:</b> Somos una Asociación Civil sin fines de lucro que orienta necesidades sociales y productivas hacia el talento y experiencia  de la comunidad UV  para beneficio de la sociedad.<br/><br/>

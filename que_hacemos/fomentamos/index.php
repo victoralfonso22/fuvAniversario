@@ -33,7 +33,7 @@ if($_GET['tipo'] == 1){
 <div class="container">
 <header class="style1">
     <br/>
-<h2>Fomentamos el deporte</h2>
+<h2 style="margin-top: 12%">Fomentamos el deporte</h2>
 <div class="bordeAbajo"></div>
 </header>
     
@@ -194,7 +194,7 @@ if($_GET['tipo'] == 1){
             <p>El programa de fomento y apoyo al deporte, coordinado por la Fundación UV, tiene como objetivos desarrollar deportistas para la Universidad Veracruzana a corto plazo, formar la identidad universitaria en los niños, jóvenes y sus familias y fomentar el deporte, lo que repercutirá en el bienestar de la sociedad xalapeña y sus alrededores. De este programa forman parte, los Centros de Formación Deportiva infantil y juvenil en futbol soccer, futbol americano y baloncesto, este último a cargo de la Fundación UV desde 2013.</p>
         
         <ul>
-            <li type= disc>Futbol soccer <br /><br /><br />
+            <li><h2 style="text-align: left; font-size: 20px; font-weight: bold">Futbol soccer</h2> <br /><br /><br />
                 <div id="div100SliderNotas" class="container">
                     <div id="divSliderNotasBoton" >                            
                         <div id="Glide" class="glide">
@@ -218,7 +218,7 @@ Entrenamiento para niñas y niños<br>
 Uniformes: se utilizan 3 modelos (verde, blanco y azul) cada uno con un precio de $450.00<br/><br/><br/>
 
             </li>
-            <li type= disc>Baloncesto   <br /><br /><br />
+            <li><h2 style="text-align: left; font-size: 20px; font-weight: bold">Baloncesto</h2>   <br /><br /><br />
            
                 <div id="div100SliderNotas" class="container">
                     <div id="divSliderNotasBoton" >                            
@@ -243,7 +243,7 @@ Uniformes: se utilizan 3 modelos (verde, blanco y azul) cada uno con un precio d
                 Inscripción: $150.00<br/><br/><br/>
 
             </li>
-             <li type= disc>Futbol americano   <br /><br /><br />
+             <li><h2 style="text-align: left; font-size: 20px; font-weight: bold">Futbol americano</h2>   <br /><br /><br />
                 <div id="div100SliderNotas" class="container">
                     <div id="divSliderNotasBoton" >                            
                         <div id="Glide" class="glide">
@@ -293,7 +293,9 @@ Entrenamiento femenil:<br />
 </div>
 
 </div>
-            
+<div class="separadorSubmenu">
+    
+</div>            
             
             <div id="futMenos" class="encabezadoSub">
         <img class="puntero" onclick="mostrarOcultar('futMas','futMenos');" style="vertical-align: middle; padding-top: .3em;" src="img/desplegar icon.png">&nbsp;&nbsp;<label>Programa de Futbol Americano</label>
@@ -310,7 +312,7 @@ Entrenamiento femenil:<br />
         <p>Este programa está convencido que un jugador, además de fundamentos técnicos, aprende a guiarse dentro y fuera de la cancha por valores que se desarrollan al pertenecer a un equipo. Halcones ofrece la oportunidad de conocer los beneficios de la autodisciplina, el trabajo en equipo, la obediencia a las reglas, la toma de decisiones y el dar un segundo esfuerzo, aspectos de interés común al deporte y al estudio.</p>
         <p>Las categorías que incluye son Intermedia, Femenil y Liga Mayor. En la rama varonil pueden participar jóvenes de 18 a 25 años de edad, y en la femenil, de 13 a 25 años de edad. En ambas ramas los entrenamientos se llevan a cabo en la Unidad Deportiva del Campus CAD Xalapa todo el año y están a cargo del Head Coach José Luis Izquierdo Bustamante.</p>
         <p>Si te interesa saber más sobre este programa comunícate al (228) 842 17 00 ext. 11673 o mantente al tanto de sus actividades por medio de sus perfiles en redes sociales.</p>
-               
+        <p style="text-align: center"><a target="_blank" href="pdf/convocatoria 5k.pdf"><img src="img/boton-5-k.png" onmouseover="this.src='img/boton-5-k-hover.png'" onmouseout="this.src='img/boton-5-k.png'"></a></p>
         
         <a target="_blank" href="https://www.facebook.com/UVfutbolamericano"><img src="../../assets/css/images/face.png" onmouseover="this.src='../../assets/css/images/face-hover.png'" onmouseout="this.src='../../assets/css/images/face.png'"></a>
         &nbsp;&nbsp;<a target="_blank" href="https://twitter.com/halconesuvfba"><img src="../../assets/css/images/twett.png" onmouseover="this.src='../../assets/css/images/twett-hover.png'" onmouseout="this.src='../../assets/css/images/twett.png'"></a>
@@ -330,7 +332,7 @@ Entrenamiento femenil:<br />
     </div>
     
 </div>
-        
+
 <!-- contenido -->
 
 <!-- Pié de página -->				

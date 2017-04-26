@@ -6,7 +6,7 @@
 <div class="container">
 <header class="style1">
     <br/>
-<h2>Guiamos tus proyectos</h2>
+<h2 style="margin-top: 12%">Guiamos tus proyectos</h2>
 <div class="bordeAbajo"></div>
 </header>
     
@@ -39,47 +39,18 @@ En los casos de éxito que la Fundación UV ha promovido, se logró la mezcla ex
 </p>
 <p>Es por esto, que ponemos a tu disposición el archivo descargable <i>Elabora tu ficha de proyecto</i> en el cual encontrarás de manera clara cómo elaborar un documento concreto con la intención de presentar en máximo dos cuartillas una propuesta formal, misma que sentará las bases para iniciar el proceso de planeación de la campaña de procuración de fondos.  En la Fundación UV sabemos que es posible.</p>
         <p>Finalmente, y en caso de que ya cuentes con un proyecto de éxito con recursos asignados e interés para que la Fundación UV emita los recibos de donativos deducibles de impuestos correspondientes, reciba y administre eficientemente esos recursos, el primer paso será llenar el formato <i>Solicitud de administración de recursos</i> y entregarlo en nuestras oficinas centrales, ubicadas en la ciudad de Xalapa.</p>
+              </div>  
         
-
-        
-        <div id="div100SliderNotas" class="container" style="margin-bottom: -20%; text-align: left;">
-        <div id="divSliderNotas" >                            
-            <div id="Glide" class="glide">
-            
-            <div class="glide__wrapper">
-                <ul class="glide__track">
-                    <li class="glide__slide"> <a target="_blank" href="file/Elabora tu Ficha de Proyecto (2017).pdf"><img id="imgSliderNotas" style="width: 50%; " src="img/elabora-tu-ficha-de-proyecto.png"></a></li>                    
-                </ul>
-            </div>
-            
+        <div style="margin-left: 5%">
+            <div>                        
+               <a target="_blank" href="file/Elabora tu Ficha de Proyecto (2017).pdf"><img style="width: 50%" src="img/elabora-tu-ficha-de-proyecto.png"></a>                                                          
+            </div>                                            
+            <div>                     
+               <a href="file/Solicitud de Administración de Recursos.doc"><img style="width: 65%" src="img/solicitud-de-administracion-de-r.png"></a>                                                         
             </div>        
-        </div>
-        </div>
-        
-        <div id="div100SliderNotas" class="container" style="margin-bottom: -20%;">
-        <div id="divSliderNotas" >                            
-            <div id="Glide" class="glide">
-            
-            <div class="glide__wrapper">
-                <ul class="glide__track">
-                    <li class="glide__slide"><a href="file/Solicitud de Administración de Recursos.doc"><img id="imgSliderNotas" style="width: 65%;" src="img/solicitud-de-administracion-de-r.png"></a></li>                    
-                </ul>
-            </div>
-            
-            </div>        
-        </div>
-        </div>
-       
-            
-                
-                
-            
-        
-    <div id="paddinFonfo" />
-    </div>  
-    
+        </div><br><br>
+                                                                                   
 </div>
 </div>
-</div>
-<!-- Pié de página -->				
+		
 <?php include('../../template/pie.php'); ?>

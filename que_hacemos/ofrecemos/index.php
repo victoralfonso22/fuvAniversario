@@ -33,7 +33,7 @@ if($_GET['tipo'] == 1){
 <div class="container">
 <header class="style1">
     <br/>
-<h2>Ofrecemos espacios para eventos</h2>
+<h2 style="margin-top: 12%">Ofrecemos espacios para eventos</h2>
 <div class="bordeAbajo"></div>
 </header>
     
@@ -301,7 +301,7 @@ if($_GET['tipo'] == 1){
 
 </div>
     
-      <p>Si estás interesado en cualquiera de estos espacios, revisa los <a target="_blank" href="pdf/Uso de Instalaciones para Eventos Masivos.pdf">requisitos para apartarlo.</a></p>
+      <p>Si estás interesado en cualquiera de estos espacios, revisa los <u><b><a target="_blank" href="pdf/Uso de Instalaciones para Eventos Masivos.pdf">requisitos para apartarlo.</a></b></u></p>
     <p>* Estos recintos y sus espacios no están disponibles para actividades religiosas o políticas.</p>
     
 </div>
