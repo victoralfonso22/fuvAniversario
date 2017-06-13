@@ -7,8 +7,10 @@ include 'cabeceraAdmin.php';
 
 <div class="centrado">
     <table align="center" width="30%">
-        <tr><td><br/></td></tr>
+        <tr><td><br/><br/></td></tr>
         <tr><td><a href="menu.php">Menú principal</a></td></tr>
+        <tr><td><a href="menu.php">Subir noticia a blog</a></td></tr>
+        <tr><td><a href="menu.php">Modificar noticia blog</a></td></tr>
         <tr><td><br/></td></tr>
 
     </table>

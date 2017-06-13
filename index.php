@@ -19,10 +19,12 @@
 
             <div class="glide__wrapper">
                 <ul class="glide__track">                    
-                    <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-4.png" /></li>
-                    <li class="glide__slide"><img id="imgSlider" src="imagenes/reconocimiento.png" /></li>
-                    <li class="glide__slide"><img id="imgSlider" src="imagenes/carrusel-2.jpg" /></li>
-                    <li class="glide__slide"><a href="https://www.fundacionuv.org/que_hacemos/becas/?tipo=4"><img id="imgSlider" src="imagenes/carrusel-3.jpg" /></a></li>                    
+                    <li class="glide__slide"><a href="https://www.fundacionuv.org/que_hacemos/fomentamos/?tipo=3"><img id="imgSlider" src="imagenes/carrusel-5k.png" /></a></li>
+                    <li class="glide__slide"><a href="https://www.fundacionuv.org/blog/noticias/eventoBecasXal.php"><img id="imgSlider" src="imagenes/carrusel-7.jpg" /></a></li>                    
+                    <li class="glide__slide"><a href="https://www.fundacionuv.org/blog/noticias/eventoBecas.php"><img id="imgSlider" src="imagenes/carrusel-6.jpg" /></a></li>
+                    
+                    <li class="glide__slide"><img id="imgSlider" src="imagenes/medida-carruse-salzona.png" /></li>
+                    <li class="glide__slide"><img id="imgSlider" src="imagenes/reconocimiento.png" /></li>       
                     <li class="glide__slide"><a href="blog/noticias/acelerador.php"><img id="imgSlider" src="imagenes/carrusel-5.png" /></a></li>
                 </ul>
             </div>
@@ -45,19 +47,19 @@
             <table id="tabla">
                 <tr>
                     <td >
-                        <a href="https://www.fundacionuv.org/que_hacemos/becas/?tipo=4"><img src="imagenes/accesosRapidos/action beca.png" onmouseover="this.src = 'imagenes/accesosRapidos/action beca-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action beca.png'"></a>
+                        <a href="http://localhost/fuvAniversario/que_hacemos/becas/?tipo=4"><img src="imagenes/accesosRapidos/action beca.png" onmouseover="this.src = 'imagenes/accesosRapidos/action beca-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action beca.png'"></a>
                     </td>
                     <td >
-                        <a href="https://www.fundacionuv.org/dona/"><img src="imagenes/accesosRapidos/action-Apoyar-a-un-becario.png" onmouseover="this.src = 'imagenes/accesosRapidos/action-Apoyar-a-un-becario-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action-Apoyar-a-un-becario.png'"></a>
+                        <a href="http://localhost/fuvAniversario/dona/"><img src="imagenes/accesosRapidos/action-Apoyar-a-un-becario.png" onmouseover="this.src = 'imagenes/accesosRapidos/action-Apoyar-a-un-becario-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action-Apoyar-a-un-becario.png'"></a>
                     </td>
                     <td>
-                        <a href="https://www.fundacionuv.org/que_hacemos/guiamos/"><img src="imagenes/accesosRapidos/action proyecto.png" onmouseover="this.src = 'imagenes/accesosRapidos/action proyecto-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action proyecto.png'"></a>
+                        <a href="http://localhost/fuvAniversario/que_hacemos/guiamos/"><img src="imagenes/accesosRapidos/action proyecto.png" onmouseover="this.src = 'imagenes/accesosRapidos/action proyecto-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action proyecto.png'"></a>
                     </td>
                     <td>
-                        <a href="https://www.fundacionuv.org/que_hacemos/ofrecemos/"><img src="imagenes/accesosRapidos/action renta.png" onmouseover="this.src = 'imagenes/accesosRapidos/action renta-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action renta.png'"></a>
+                        <a href="http://localhost/fuvAniversario/que_hacemos/ofrecemos/"><img src="imagenes/accesosRapidos/action renta.png" onmouseover="this.src = 'imagenes/accesosRapidos/action renta-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action renta.png'"></a>
                     </td>
                     <td>
-                        <a href="https://www.fundacionuv.org/que_hacemos/colaboramos/?tipo=2"><img src="imagenes/accesosRapidos/action lego.png" onmouseover="this.src = 'imagenes/accesosRapidos/action lego-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action lego.png'"></a>
+                        <a href="http://localhost/fuvAniversario/que_hacemos/colaboramos/?tipo=2"><img src="imagenes/accesosRapidos/action lego.png" onmouseover="this.src = 'imagenes/accesosRapidos/action lego-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action lego.png'"></a>
                     </td>
                 </tr>
                 <tr>
@@ -99,26 +101,27 @@
          <div id="divMenuBlog">
         <div>
             <table>
-                <tr><td class="tituloNoticia">25 aniversario de la Fundación UV</td></tr>
-                <tr><td><img class="imagenBlogPrincipal193" src="blog/img/25Ani/para-home.png"></td></tr>
-                <tr><td class="pieNoticia">Marzo de 2017</td></tr>
-                <tr><td class="masNoticia">Hace 25 años, egresados y amigos de la Universidad Veracruzana, en un acto de gratitud decidieron crear la Fundación de la Universidad Veracruzana (FUV)</td></tr>
-                <tr><td class="botonNoticia"><a href="blog/noticias/25Aniversario.php"><img src="blog/img/leer-mas.png" onmouseover="this.src='blog/img/leer-mas-hover.png'" onmouseout="this.src='blog/img/leer-mas.png'"></a></td></tr>
-            </table>
-        <table>
-                <tr><td class="tituloNoticia">“Urgencia de equipo, urgencia de vida”: gestión de magno proyecto de la FUV</td></tr>
-                <tr><td><img class="imagenBlogPrincipal193" src="blog/img/lineal/2.jpg"></td></tr>
-                <tr><td class="pieNoticia">Marzo de 2017</td></tr>
-                <tr><td class="masNoticia">En el marco de los 25 años de la Fundación UV, “Urgencia de Equipo, Urgencia de Vida” ha logrado posicionarse como el primer proyecto de gestión a gran escala.</td></tr>
-                <tr><td class="botonNoticia"><a href="blog/noticias/acelerador.php"><img src="blog/img/leer-mas.png" onmouseover="this.src='blog/img/leer-mas-hover.png'" onmouseout="this.src='blog/img/leer-mas.png'"></a></td></tr>
+                <tr><td class="tituloNoticia">Fundación UV invita a la tercera edición de SalZona</td></tr>
+                <tr><td><img class="imagenBlogPrincipal193" src="blog/img/SalZona/mosaico.png"></td></tr>
+                <tr><td class="pieNoticia">Junio 2017</td></tr>
+                <tr><td class="masNoticia">La Fundación de la Universidad Veracruzana (FUV) realizará la tercera edición de SalZona 2017, el 1 de julio a partir de las 19:00 horas en el Gimnasio Universitario del Campus para la Cultura, las Artes y el Deporte (Campus CAD).</td></tr>
+                <tr><td class="botonNoticia"><a href="blog/noticias/salZona.php"><img src="blog/img/leer-mas.png" onmouseover="this.src='blog/img/leer-mas-hover.png'" onmouseout="this.src='blog/img/leer-mas.png'"></a></td></tr>
             </table>
             
             <table>
-                <tr><td class="tituloNoticia">Programa Becas: dirigido al estudiante de buen desempeño y vulnerabilidad económica</td></tr>
-                <tr><td><img class="imagenBlogPrincipal193" src="blog/img/becas/4-8.jpg"></td></tr>
-                <tr><td class="pieNoticia">Marzo de 2017</td></tr>
-                <tr><td class="masNoticia">Ser estudiante conlleva una formación de tiempo completo.</td></tr>
-                <tr><td class="botonNoticia"><a href="blog/noticias/becas.php"><img src="blog/img/leer-mas.png" onmouseover="this.src='blog/img/leer-mas-hover.png'" onmouseout="this.src='blog/img/leer-mas.png'"></a></td></tr>
+                <tr><td class="tituloNoticia">5 razones para donar</td></tr>
+                <tr><td><img class="imagenBlogPrincipal193" src="blog/img/5Razones/mosaico.png"></td></tr>
+                <tr><td class="pieNoticia">Junio 2017</td></tr>
+                <tr><td class="masNoticia">El acto de donar no cuenta con muy buena reputación. Suele verse, en el mejor de los casos, como un acto que, si bien no nos quita, tampoco nos beneficia; esto es, como un acto completamente desinteresado y con el cual no podría obtenerse ninguna ganancia. Hay, sin embargo, algunas razones[1] que podrían probar lo contrario y que quizá permitan replantear nuestro entendido frente al acto de donar.</td></tr>
+                <tr><td class="botonNoticia"><a href="blog/noticias/5Razones.php"><img src="blog/img/leer-mas.png" onmouseover="this.src='blog/img/leer-mas-hover.png'" onmouseout="this.src='blog/img/leer-mas.png'"></a></td></tr>
+            </table>
+                    
+            <table>
+                <tr><td class="tituloNoticia">Exbecario Víctor Pérez: impulso al potencial universitario</td></tr>
+                <tr><td><img class="imagenBlogPrincipal193" src="blog/img/Exbecario/Mosaico-Víctor-Pérez.png"></td></tr>
+                <tr><td class="pieNoticia">Junio 2017</td></tr>
+                <tr><td class="masNoticia">Los becarios se admiran de la confianza de sus benefactores y buscan siempre responder a ello con el mejor esfuerzo posible; no obstante, el benefactor no solo deposita su confianza sin un conocimiento pleno de la otra persona, sino que además lo hace sin conocer las consecuencias. Puesto que no se sabe en qué se transformará su ayuda, el Programa Becas de la Fundación UV es un impulso al potencial universitario.</td></tr>
+                <tr><td class="botonNoticia"><a href="blog/noticias/exBecario.php"><img src="blog/img/leer-mas.png" onmouseover="this.src='blog/img/leer-mas-hover.png'" onmouseout="this.src='blog/img/leer-mas.png'"></a></td></tr>
             </table>
         
         </div>
@@ -135,25 +138,43 @@
             <tr>
                 <td rowspan="2" colspan="2">
                 <div class="contenedor-img example2">
-                    <img class="imagenPrincipalNoticia"  src="blog/img/25Ani/para-home.png" />
-                    <a href="blog/noticias/25Aniversario.php">
+                    <img class="imagenPrincipalNoticia"  src="blog/img/SalZona/mosaico.png" />
+                    <a href="blog/noticias/salZona.php">
                     <div class="mascara">
                     <div class="contenido">
-                        <h2>25 aniversario de la Fundación UV</h2>
-                             <p>Marzo de 2017</p>
+                        <h2>Fundación UV invita a la tercera edición de SalZona</h2>
+                             <p>Junio 2017</p>                        
+                        </div>
+                        </div>
+                        </a>
+                </td>
+                
+                <td >
+                <div class="contenedor-img example2">
+                    <img   src="blog/img/5Razones/mosaico.png" />
+                    <a href="blog/noticias/5Razones.php">
+                    <div class="mascara">
+                    <div class="contenido">
+                        <h2>5 razones para donar</h2>
+                             <p>Junio 2017</p>
                         
                         </div>
                         </div>
                         </a>
                 </td>
+                
+                
+            </tr>
+            <tr>
+                
                 <td >
                     <div class="contenedor-img example2">
-                       <img  src="blog/img/instalaciones/1-2.jpg" /></a>
+                        <img  src="blog/img/Exbecario/Mosaico-Víctor-Pérez.png" /></a>
                     <div class="mascara">
-                        <a href="blog/noticias/instalaciones.php">
+                        <a href="blog/noticias/exBecario.php">
                            <div class="contenido">
-                              <h2>Administración de Instalaciones: plataforma para el deporte, la cultura y la recreación</h2>
-                             <p>Marzo de 2017</p>
+                               <h2>Exbecario Víctor Pérez: impulso al potencial universitario</h2>
+                             <p>Junio 2017</p>
                            </div> 
                             </a>
                     </div>
@@ -161,70 +182,57 @@
                   
               </td>
                 
+                     
             </tr>
             <tr>
                 
                 <td >
                     <div class="contenedor-img example2">
-                        <img  src="blog/img/procura/3-1.jpg" />
+                        <img  src="blog/img/becarios/mosaico.jpg" />
                     <div class="mascara">
-                        <a href="blog/noticias/procuracion.php">
+                        <a href="blog/noticias/becarios.php">
                            <div class="contenido">
-                              <h2>Eventos para la Procuración de Fondos: programa que nace con la Fundación</h2>
-                             <p>Marzo de 2017</p>
+                              <h2>El reto del estudiante UV</h2>
+                             <p>Junio 2017</p>
                            </div> 
                             </a>
                     </div>
                     </div>
                   
-              </td>       
-            </tr>
-            <tr>
+              </td>  
+              <td >
+                    <div class="contenedor-img example2">
+                        <img  src="blog/img/eventoBecaXal/7MosaicoGde.jpg" />
+                    <div class="mascara">
+                        <a href="blog/noticias/eventoBecasXal.php">
+                           <div class="contenido">
+                           <h2>Fundación UV entrega becas a estudiantes de la región Xalapa</h2>
+                             <p>Junio 2017</p>
+                           </div> 
+                        </a>
+                    </div>
+                    </div>
+                  
+              </td>
                 <td >
                     <div class="contenedor-img example2">
-                        <img  src="blog/img/lineal/2.jpg" />
+                        <img  src="blog/img/padreFamilia/mosaico.jpg" />
                     <div class="mascara">
-                        <a href="blog/noticias/acelerador.php">
+                        <a href="blog/noticias/padresFamilia.php">
                            <div class="contenido">
-                              <h2>“Urgencia de equipo, urgencia de vida”: gestión de magno proyecto de la FUV</h2>
-                             <p>Marzo de 2017</p>
+                              <h2>Los papás de Centros de Formación Deportiva del Campus CAD</h2>
+                             <p>Abril 2017</p>
                            </div> 
                         </a>
                     </div>
                     </div>
                   
               </td>
-               <td >
-                    <div class="contenedor-img example2">
-                        <img  src="blog/img/admon/5-1.jpg" />
-                    <div class="mascara">
-                        <a href="blog/noticias/proyectos.php">
-                           <div class="contenido">
-                           <h2>Programa Administración de Proyectos: una trayectoria con impacto social</h2>
-                             <p>Marzo de 2017</p>
-                           </div> 
-                        </a>
-                    </div>
-                    </div>
-                  
-              </td>
-               <td >
-                    <div class="contenedor-img example2">
-                        <img  src="blog/img/becas/4-2.jpg" />
-                    <div class="mascara">
-                        <a href="blog/noticias/becas.php">
-                           <div class="contenido">
-                              <h2>Programa Becas: dirigido al estudiante de buen desempeño y vulnerabilidad económica</h2>
-                             <p>Marzo de 2017</p>
-                           </div> 
-                        </a>
-                    </div>
-                    </div>
-                  
-              </td>
+               
+               
             </tr>
             <tr><td colspan="3"><br/></td></tr>
-            <tr><td colspan="3" style="text-align: right"><a href="https://www.fundacionuv.org/blog/"><input class="botonNoticas" type="button" value="M&aacute;s noticias"/></a></td></tr>
+            <tr><td colspan="3" style="text-align: right"><a href="http://localhost/fuvAniversario/blog/"><input class="botonNoticas" type="button" value="M&aacute;s noticias"/></a></td></tr>
         </table>
 
 

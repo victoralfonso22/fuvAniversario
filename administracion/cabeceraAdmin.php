@@ -10,7 +10,7 @@ if (isset($_SESSION['logueado']) && $_SESSION['logueado'] == true) {
    echo "<br><a href='index.php'>Salir</a>";
 	exit;
 }
-/*
+
 $now = time();
 if($now > $_SESSION['expire']) {
 	session_destroy();
@@ -19,7 +19,7 @@ if($now > $_SESSION['expire']) {
 	<a href='index.php'>Necesitas loguearte de nuevo.</a>";
 	exit;
 }
-*/
+
 /*Se incluye el encabezado principal */
  include("../template/cabecera.php"); ?>
 
