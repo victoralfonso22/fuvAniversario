@@ -227,9 +227,7 @@
                     </div>
                     </div>
                   
-              </td>
-               
-               
+              </td>                              
             </tr>
             <tr><td colspan="3"><br/></td></tr>
             <tr><td colspan="3" style="text-align: right"><a href="http://localhost/fuvAniversario/blog/"><input class="botonNoticas" type="button" value="M&aacute;s noticias"/></a></td></tr>
