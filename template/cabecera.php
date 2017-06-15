@@ -157,6 +157,7 @@
     
     <li><a href="http://localhost/fuvAniversario/blog/">Blog</a></li>
     
-                                    </ul>                                        
+                                    </ul>               
+        
 </div>
 </div>
