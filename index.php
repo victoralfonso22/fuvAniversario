@@ -10,7 +10,7 @@
 <!-- Slider -->
 <div id="div100Slider">
     <div id="divSlider" class="container">                            
-        <div id="Glide" class="glide" style="top:40%; z-index: 1000">
+        <div id="Glide" class="glide">
 
             <div id="flechasSlider" class="glide__arrows">
                 <button class="glide__arrow prev" data-glide-dir="<"><img src="assets/css/images/Flacha-left.png"></button>
@@ -19,13 +19,14 @@
 
             <div class="glide__wrapper">
                 <ul class="glide__track">                    
-                    <li class="glide__slide"><a href="https://www.fundacionuv.org/que_hacemos/fomentamos/?tipo=3"><img id="imgSlider" src="imagenes/carrusel-5k.png" /></a></li>
+                    <!--<li class="glide__slide"><a href="https://www.fundacionuv.org/que_hacemos/fomentamos/?tipo=3"><img id="imgSlider" src="imagenes/carrusel-5k.png" /></a></li>
                     <li class="glide__slide"><a href="https://www.fundacionuv.org/blog/noticias/eventoBecasXal.php"><img id="imgSlider" src="imagenes/carrusel-7.jpg" /></a></li>                    
-                    <li class="glide__slide"><a href="https://www.fundacionuv.org/blog/noticias/eventoBecas.php"><img id="imgSlider" src="imagenes/carrusel-6.jpg" /></a></li>
-                    
-                    <li class="glide__slide"><img id="imgSlider" src="imagenes/medida-carruse-salzona.png" /></li>
+                    <li class="glide__slide"><a href="https://www.fundacionuv.org/blog/noticias/eventoBecas.php"><img id="imgSlider" src="imagenes/carrusel-6.jpg" /></a></li>-->
+                     
+                    <li class="glide__slide"><a href="blog/noticias/salZonapost.php"><img id="imgSlider" src="imagenes/medida-carruse-salzona.png" /></a></li>
+                    <li class="glide__slide"><a href="blog/noticias/cursos.php"><img id="imgSlider" src="imagenes/diplomado.png" /></a></li>
                     <li class="glide__slide"><img id="imgSlider" src="imagenes/reconocimiento.png" /></li>       
-                    <li class="glide__slide"><a href="blog/noticias/acelerador.php"><img id="imgSlider" src="imagenes/carrusel-5.png" /></a></li>
+                    <li class="glide__slide"><a href="blog/noticias/acelerador.php"><img id="imgSlider" src="imagenes/carrusel-5.png" /></a></li>             
                 </ul>
             </div>
 
@@ -47,19 +48,19 @@
             <table id="tabla">
                 <tr>
                     <td >
-                        <a href="http://localhost/fuvAniversario/que_hacemos/becas/?tipo=4"><img src="imagenes/accesosRapidos/action beca.png" onmouseover="this.src = 'imagenes/accesosRapidos/action beca-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action beca.png'"></a>
+                        <a href="https://www.fundacionuv.org/que_hacemos/becas/?tipo=4"><img src="imagenes/accesosRapidos/action beca.png" onmouseover="this.src = 'imagenes/accesosRapidos/action beca-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action beca.png'"></a>
                     </td>
                     <td >
-                        <a href="http://localhost/fuvAniversario/dona/"><img src="imagenes/accesosRapidos/action-Apoyar-a-un-becario.png" onmouseover="this.src = 'imagenes/accesosRapidos/action-Apoyar-a-un-becario-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action-Apoyar-a-un-becario.png'"></a>
+                        <a href="https://www.fundacionuv.org/dona/"><img src="imagenes/accesosRapidos/action-Apoyar-a-un-becario.png" onmouseover="this.src = 'imagenes/accesosRapidos/action-Apoyar-a-un-becario-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action-Apoyar-a-un-becario.png'"></a>
                     </td>
                     <td>
-                        <a href="http://localhost/fuvAniversario/que_hacemos/guiamos/"><img src="imagenes/accesosRapidos/action proyecto.png" onmouseover="this.src = 'imagenes/accesosRapidos/action proyecto-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action proyecto.png'"></a>
+                        <a href="https://www.fundacionuv.org/que_hacemos/guiamos/"><img src="imagenes/accesosRapidos/action proyecto.png" onmouseover="this.src = 'imagenes/accesosRapidos/action proyecto-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action proyecto.png'"></a>
                     </td>
                     <td>
-                        <a href="http://localhost/fuvAniversario/que_hacemos/ofrecemos/"><img src="imagenes/accesosRapidos/action renta.png" onmouseover="this.src = 'imagenes/accesosRapidos/action renta-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action renta.png'"></a>
+                        <a href="https://www.fundacionuv.org/que_hacemos/ofrecemos/"><img src="imagenes/accesosRapidos/action renta.png" onmouseover="this.src = 'imagenes/accesosRapidos/action renta-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action renta.png'"></a>
                     </td>
                     <td>
-                        <a href="http://localhost/fuvAniversario/que_hacemos/colaboramos/?tipo=2"><img src="imagenes/accesosRapidos/action lego.png" onmouseover="this.src = 'imagenes/accesosRapidos/action lego-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action lego.png'"></a>
+                        <a href="https://www.fundacionuv.org/que_hacemos/colaboramos/?tipo=2"><img src="imagenes/accesosRapidos/action lego.png" onmouseover="this.src = 'imagenes/accesosRapidos/action lego-hover.png'" onmouseout="this.src = 'imagenes/accesosRapidos/action lego.png'"></a>
                     </td>
                 </tr>
                 <tr>
@@ -101,11 +102,11 @@
          <div id="divMenuBlog">
         <div>
             <table>
-                <tr><td class="tituloNoticia">Fundación UV invita a la tercera edición de SalZona</td></tr>
-                <tr><td><img class="imagenBlogPrincipal193" src="blog/img/SalZona/mosaico.png"></td></tr>
+                <tr><td class="tituloNoticia">Cartelera SalZona 2017: gran festejo al ritmo de la salsa</td></tr>
+                <tr><td><img class="imagenBlogPrincipal193" src="blog/img/SalZona2/mosaico.png"></td></tr>
                 <tr><td class="pieNoticia">Junio 2017</td></tr>
                 <tr><td class="masNoticia">La Fundación de la Universidad Veracruzana (FUV) realizará la tercera edición de SalZona 2017, el 1 de julio a partir de las 19:00 horas en el Gimnasio Universitario del Campus para la Cultura, las Artes y el Deporte (Campus CAD).</td></tr>
-                <tr><td class="botonNoticia"><a href="blog/noticias/salZona.php"><img src="blog/img/leer-mas.png" onmouseover="this.src='blog/img/leer-mas-hover.png'" onmouseout="this.src='blog/img/leer-mas.png'"></a></td></tr>
+                <tr><td class="botonNoticia"><a href="blog/noticias/salZona2.php"><img src="blog/img/leer-mas.png" onmouseover="this.src='blog/img/leer-mas-hover.png'" onmouseout="this.src='blog/img/leer-mas.png'"></a></td></tr>
             </table>
             
             <table>
@@ -138,12 +139,12 @@
             <tr>
                 <td rowspan="2" colspan="2">
                 <div class="contenedor-img example2">
-                    <img class="imagenPrincipalNoticia"  src="blog/img/SalZona/mosaico.png" />
-                    <a href="blog/noticias/salZona.php">
+                    <img class="imagenPrincipalNoticia"  src="blog/img/salZonapost/mosaico-Salzona-nuevo.png" />
+                    <a href="blog/noticias/salZonapost.php">
                     <div class="mascara">
                     <div class="contenido">
-                        <h2>Fundación UV invita a la tercera edición de SalZona</h2>
-                             <p>Junio 2017</p>                        
+                        <h2>Con éxito en taquilla, SalZona 2017 logró complacer a sus asistentes</h2>
+                             <p>Julio 2017</p>                        
                         </div>
                         </div>
                         </a>
@@ -151,12 +152,12 @@
                 
                 <td >
                 <div class="contenedor-img example2">
-                    <img   src="blog/img/5Razones/mosaico.png" />
-                    <a href="blog/noticias/5Razones.php">
+                    <img   src="blog/img/procesos/iso Mosaico.png" />
+                    <a href="blog/noticias/procesos.php">
                     <div class="mascara">
                     <div class="contenido">
-                        <h2>5 razones para donar</h2>
-                             <p>Junio 2017</p>
+                        <h2>Con miras a la internacionalidad, la FUV actualiza sus procesos internos</h2>
+                             <p>Julio 2017</p>
                         
                         </div>
                         </div>
@@ -169,11 +170,11 @@
                 
                 <td >
                     <div class="contenedor-img example2">
-                        <img  src="blog/img/Exbecario/Mosaico-Víctor-Pérez.png" /></a>
+                        <img  src="blog/img/programabecas/becaria mosaico.png" /></a>
                     <div class="mascara">
-                        <a href="blog/noticias/exBecario.php">
+                        <a href="blog/noticias/programaBecas.php">
                            <div class="contenido">
-                               <h2>Exbecario Víctor Pérez: impulso al potencial universitario</h2>
+                               <h2>Programa Becas: satisfacción de padres de familia</h2>
                              <p>Junio 2017</p>
                            </div> 
                             </a>
@@ -188,12 +189,12 @@
                 
                 <td >
                     <div class="contenedor-img example2">
-                        <img  src="blog/img/becarios/mosaico.jpg" />
+                        <img  src="blog/img/razones/No-donar-mosaico.png" />
                     <div class="mascara">
-                        <a href="blog/noticias/becarios.php">
+                        <a href="blog/noticias/razones.php">
                            <div class="contenido">
-                              <h2>El reto del estudiante UV</h2>
-                             <p>Junio 2017</p>
+                              <h2>Razones para NO donar</h2>
+                             <p>Julio 2017</p>
                            </div> 
                             </a>
                     </div>
@@ -201,12 +202,25 @@
                   
               </td>  
               <td >
-                    <div class="contenedor-img example2">
-                        <img  src="blog/img/eventoBecaXal/7MosaicoGde.jpg" />
+                <div class="contenedor-img example2">
+                    <img   src="blog/img/5Razones/mosaico.png" />
+                    <a href="blog/noticias/5Razones.php">
                     <div class="mascara">
-                        <a href="blog/noticias/eventoBecasXal.php">
+                    <div class="contenido">
+                        <h2>5 razones para donar</h2>
+                             <p>Junio 2017</p>
+                        
+                        </div>
+                        </div>
+                        </a>
+                </td>
+                <td >
+                    <div class="contenedor-img example2">
+                        <img  src="blog/img/Exbecario/Mosaico-Víctor-Pérez.png" />
+                    <div class="mascara">
+                        <a href="blog/noticias/exBecario.php">
                            <div class="contenido">
-                           <h2>Fundación UV entrega becas a estudiantes de la región Xalapa</h2>
+                              <h2>Exbecario Víctor Pérez: impulso al potencial universitario</h2>
                              <p>Junio 2017</p>
                            </div> 
                         </a>
@@ -214,23 +228,11 @@
                     </div>
                   
               </td>
-                <td >
-                    <div class="contenedor-img example2">
-                        <img  src="blog/img/padreFamilia/mosaico.jpg" />
-                    <div class="mascara">
-                        <a href="blog/noticias/padresFamilia.php">
-                           <div class="contenido">
-                              <h2>Los papás de Centros de Formación Deportiva del Campus CAD</h2>
-                             <p>Abril 2017</p>
-                           </div> 
-                        </a>
-                    </div>
-                    </div>
-                  
-              </td>                              
+               
+               
             </tr>
             <tr><td colspan="3"><br/></td></tr>
-            <tr><td colspan="3" style="text-align: right"><a href="http://localhost/fuvAniversario/blog/"><input class="botonNoticas" type="button" value="M&aacute;s noticias"/></a></td></tr>
+            <tr><td colspan="3" style="text-align: right"><a href="https://www.fundacionuv.org/blog/"><input class="botonNoticas" type="button" value="M&aacute;s noticias"/></a></td></tr>
         </table>
 
 
@@ -242,7 +244,7 @@
             
         </div>
 
-<div id="div100Slider" style="background: #17529d; height: 370px;">
+<div id="div100Slider" style="background: #17529d;">
     <div id="divSlider" class="container">                            
         <div id="Glide2" class="glide">
             <div id="flechasSlider" class="glide__arrows">

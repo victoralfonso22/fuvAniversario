@@ -85,7 +85,7 @@ if($_GET['tipo'] == 1){
 </div>
 
 </div>
-
+<!--
 <div class="separadorSubmenu">
     
 </div>
@@ -110,7 +110,7 @@ if($_GET['tipo'] == 1){
 </div>
 
 </div>
-
+-->
 <div class="separadorSubmenu">
     
 </div>

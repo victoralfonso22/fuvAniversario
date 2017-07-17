@@ -41,7 +41,7 @@
     
     <div id="divSubMenuNota">
         
-        <h3 class="h3subMenuNota">Cursos actuales en la región Veracruz-Boca del Río</h3>
+        <h3 class="h3subMenuNota">Cursos FUV para la capacitación y el desarrollo humano</h3>
         <p class="pieNoticiaNota">Abril de 2017</p>
         <br />
         
@@ -53,7 +53,13 @@
         <p>Cada módulo del diplomado es expuesto por un instructor que es especialista en su tema, que cuenta con certificación y experiencia a nivel internacional. El diplomado, entonces, tiene un total de 8 especialistas: cuatro son originarios del estado de Veracruz, y los otros cuatro, del resto del país.</p>
         <p>“Desarrollo de Talentos Directivos” ofrece a los interesados, dos temas de vanguardia: uno en relación con la creatividad y la innovación, y otro en relación al desarrollo de competencias. Este último permite que se exploten las herramientas en el proceso de información que las empresas u organizaciones aplican.</p>
         <p>Un diplomado con estas características se cotiza, normalmente, entre 10 mil y 20 mil pesos por persona. Los costos del diplomado de la FUV, son: 3 mil 500 pesos, estudiantes; 4 mil 500 pesos, comunidad universitaria; y entre 5 mil 500 y 6 mil 500 pesos, público en general. Para mayores informes, comunicarse al correo: <u>capacitacion1@fundacionuv.org</u> o a los teléfonos: (228)  841 4580 y 818 4134.</p>            
-            <p>La meta de la Fundación UV es realizar el diplomado en todo el estado de Veracruz, y poder capacitar, en 2017, a 150 personas, mediante seis diplomados: dos en la región Xalapa, dos en Veracruz-Boca del Río y otras dos en las demás regiones. En la región Veracruz-Boca del Río, el diplomado dará inicio el próximo 23 de junio, mientras que en Córdoba, el 9 de junio, y en Xalapa, el 7 de julio.</p>
+            <p>La meta de la Fundación UV es que "Desarrollo de Talentos Directivos"  
+se realice en todo el estado de Veracruz, y poder capacitar, en 2017,  
+a 150 personas, mediante seis diplomados: dos en la región Xalapa, dos  
+en Veracruz-Boca del Río y otras dos en las demás regiones; el más  
+próximo a llevarse a cabo es en la ciudad de Coatzacoalcos, el cual  
+dará inicio este 5 de agosto.
+</p>
         <div class="div1Notas">            
             <p class="h3subMenu">“Crea e innova”</p>
             <p>Este curso está enfocado a desarrollar la creatividad e innovación de sus participantes. A través de <i>“Serious Play”</i>, técnica de vanguardia de la empresa LEGO, “Crea e innova” permite que sus participantes proyecten su talento, sus capacidades de liderazgo y el trabajo en equipo, en modelos 3D. </p>

@@ -1218,8 +1218,8 @@
 		display: block;
 		border: 1;
 		background: white;
-		/*box-shadow: inset 0px 0px 1px 0px #a0a1a7;
-		border-radius: 0.5em;*/
+		box-shadow: inset 0px 0px 1px 0px #a0a1a7;
+		border-radius: 0.5em;
 		width: 100%;
 		padding: 0.75em 1em 0.75em 1em;
                 font-family: Open Sans Light;
@@ -1293,7 +1293,7 @@
 	}
 
 	header.style1 {
-		text-align: center;                
+		text-align: center;
 	}
 
 		header.style1 h2 {
@@ -1360,7 +1360,7 @@
 		font-weight: 700;
 		letter-spacing: 0.25em;
 		text-decoration: none;
-		/*border-radius: 0.35em;*/
+		border-radius: 0.35em;
 		border: 0;
 		outline: 0;
 		cursor: pointer;
@@ -1636,13 +1636,7 @@
         #footer-wrapper2 {
             background: url("images/back-azul.png");
             display: none;
-	}      
-        
-        #fondo_slider {            
-            width: 100%;
-            background: #013965;
-            height: 550px;
-        }
+	}
         
         #donabecas2 {            
             display: none;
@@ -1697,7 +1691,7 @@
 			#footer-wrapper input[type="reset"]:active,
 			#footer-wrapper button:active,
 			#footer-wrapper .button:active {
-				/*box-shadow: inset 0px 0px 2px 0px rgba(255, 255, 255, 0.75);*/
+				box-shadow: inset 0px 0px 2px 0px rgba(255, 255, 255, 0.75);
 			}
 
 			#footer-wrapper input[type="button"].style2:active,
@@ -1705,7 +1699,7 @@
 			#footer-wrapper input[type="reset"].style2:active,
 			#footer-wrapper button.style2:active,
 			#footer-wrapper .button.style2:active {
-				/*box-shadow: inset 0px 0px 2px 0px rgba(255, 255, 255, 0.75);*/
+				box-shadow: inset 0px 0px 2px 0px rgba(255, 255, 255, 0.75);
 			}
 
 		#footer-wrapper .title {
@@ -2020,11 +2014,6 @@
 				padding-bottom: 8em;
 			}
 
-                        
-                        #logoResponsive {            
-                            display: block;
-                        }
-                        
 		/* Header */
 
 			#header {
@@ -2075,7 +2064,7 @@
                         
                         #logoPrincipal{
                              position: absolute;
-                             z-index: 10000;
+                             z-index: 4;
                              float: left;
                              display: inline-block;
                              text-align: center;
@@ -2178,17 +2167,19 @@
                                                 
                                              /*Implementacion del slider para version de escritorio y tableta By viko 01-03-2017*/   
                                                         
-                                                #divSlider{                                                    
-                                                    height: 400px;
+                                                #divSlider{
+
+                                                    height: 380px;
                                                     margin: 0 auto !important;
-                                                    display: block !important;                                                    
-                                                    vertical-align:central;
-                                                    z-index: 1;
+                                                    display: block !important;
+
+                                                    vertical-align:middle;
                                                 }
 
-                                                #div100Slider{                                                        
-                                                    height: 543px;
-                                                    width: 100%;  
+                                                #div100Slider{  
+                                                    padding-top: 160px;
+                                                    height: 540px;
+                                                    width: 100%;
                                                     background: #013965;
                                                 }
 
@@ -2748,7 +2739,6 @@
                                 .tituloNoticia{
                                     font-family: Open Sans Bold;
                                     color : #5fa8ca !important;
-                                    line-height: normal;
                                 }
                                 
                                 .pieNoticia{
@@ -3065,12 +3055,6 @@
 				display: none;
 			}
                         
-                        #fondo_slider {            
-                            display: block;
-                            height: 10px;
-                            margin-bottom: 20%;                           
-                        }
-                        
                         #donabecas2 {            
                            display: none;
                         }
@@ -3317,7 +3301,6 @@
                                  .tituloNoticia{
                                     font-family: Open Sans Bold;
                                     color : #5fa8ca !important;
-                                    line-height: normal;
                                 }
                                 
                                 .pieNoticia{
@@ -3606,6 +3589,7 @@
 		/* Wrappers */
 
 			.wrapper {
+                                display: none;
 				padding: 15px 15px 5em 15px;
 			}
 
@@ -3627,7 +3611,6 @@
 					}
                         /* Se cambian los padding top y bottom de 6 a 2, 08-03-2017 by viko*/
 			#header-wrapper {
-                                display: none;
 				padding: 2em 2em 2em 2em;
 			}
                         /*ocultar pie de página, versión escritorio y visualizar versión movil*/
@@ -3643,18 +3626,8 @@
                                 text-decoration: none;
 			}
                         
-                        #fondo_slider {            
-                            display: block;
-                            height: 10px;
-                            margin-bottom: 35%;                           
-                        }
-                        
                         #lineadeltiempo {            
                             display: none;
-                        }
-                        
-                        #logoResponsive {            
-                            display: block;
                         }
                         
                         #donabecas {            
@@ -3676,12 +3649,11 @@
                              z-index: 4;                             
                              position: relative;
                              text-align: center;
-                             display: none;
                                           
                         }
                 
                 #fechaPrincipalMovil{
-                    display: none;
+                    display: block;
                 }
                 
                 #fechaPrincipalMovil{
@@ -3938,6 +3910,7 @@
 	}
         
 /*Clases agregadas por viko*/        
+
 .tablaBotonBlog{
     width: 20px;
     text-align: center;
@@ -3968,3 +3941,5 @@
     padding: 0 !important;
     letter-spacing: 0 !important;
 }
+
+

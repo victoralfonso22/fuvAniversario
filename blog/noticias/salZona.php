@@ -54,7 +54,7 @@
         <div class="div1Notas">
             <p>Añadió que las instalaciones del Gimnasio Universitario “Nido del Halcón” del Campus CAD, cuentan con una gran capacidad, ya que en las canchas del mismo pueden bailar hasta 400 parejas simultáneamente; además, SalZona contará con servicio de reservación de mesas para cuatro y 10 personas.</p>
             
-           
+           <p>Pacheco Rojas explicó que los fondos recaudados serán destinados al mantenimiento del Campus CAD, mismo que recibe la visita de cuatro mil a cinco mil personas al día, lo cual genera un gran desgaste, por lo que la Fundación UV trabaja continuamente en la realización de eventos de procuración de fondos para su mantenimiento. “Quienes acudan a SalZona UV 2017 podrán disfrutar de una gran variedad de música para todas las edades, y de exhibiciones de baile, lo cual dará aún más brillo al evento”, manifestó.</p>
             
         
         </div>
@@ -69,13 +69,43 @@
                 </a>
             </div>
             
-        
-    
+        <div>
+        <a data-fancybox="gallery" href="../img/SalZona/Salzona_1.jpg">
+            <img src="../img/SalZona/Salzona_1.jpg">
+                </a>
 
+        <a data-fancybox="gallery" href="../img/SalZona/Salzona_2.jpg">
+            <img src="../img/SalZona/Salzona_2.jpg">
+                </a>
             </div>
+            <div>
+        <a data-fancybox="gallery" href="../img/SalZona/Salzona_3.jpg">
+            <img src="../img/SalZona/Salzona_3.jpg">
+                </a>
+
+        <a data-fancybox="gallery" href="../img/SalZona/Salzona_4.jpg">
+            <img src="../img/SalZona/Salzona_4.jpg">
+                </a>
+            </div>
+             <div>
+        <a data-fancybox="gallery" href="../img/SalZona/Salzona_5.jpg">
+            <img src="../img/SalZona/Salzona_5.jpg">
+                </a>
+
+        <a data-fancybox="gallery" href="../img/SalZona/Salzona_6.jpg">
+            <img src="../img/SalZona/Salzona_6.jpg">
+                </a>
+            </div>
+             <div>
+        <a data-fancybox="gallery" href="../img/SalZona/Salzona_7.jpg">
+            <img src="../img/SalZona/Salzona_7.jpg">
+                </a>
         
-        <p>Pacheco Rojas explicó que los fondos recaudados serán destinados al mantenimiento del Campus CAD, mismo que recibe la visita de cuatro mil a cinco mil personas al día, lo cual genera un gran desgaste, por lo que la Fundación UV trabaja continuamente en la realización de eventos de procuración de fondos para su mantenimiento. “Quienes acudan a SalZona UV 2017 podrán disfrutar de una gran variedad de música para todas las edades, y de exhibiciones de baile, lo cual dará aún más brillo al evento”, manifestó.</p>
-        <p>Los boletos, que costarán 140 pesos en preventa y 170 el día del evento, ya se encuentran a la venta en la taquilla del Gimnasio Universitario “Nido del Halcón”, en las instalaciones de la Fundación UV, ubicadas en la calle Veracruz, número 46 del Fraccionamiento Pomona, o en el Café Bola de Oro, sucursales Plaza Cristal, Plaza Museo, Clavijero y Lázaro Cárdenas. Las reservaciones de mesas se pueden hacer al teléfono (228) 8415922.</p>
+            </div>
+            
+            </div>
+                
+        <p>Los boletos, que costarán 140 pesos en preventa y 170 el día del evento, ya se encuentran a la venta en la taquilla del Gimnasio Universitario “Nido del Halcón”, en las instalaciones de la Fundación UV, ubicadas en la calle Veracruz, número 46 del Fraccionamiento Pomona, o en el Café Bola de Oro, sucursales Plaza Cristal, Plaza Museo, Clavijero y Lázaro Cárdenas. Las reservaciones de mesas se pueden hacer directamente en el Campus CAD al teléfono (228) 8421700 Ext. 11034 y 11025.</p>
         <p>Fuente: <a href="https://www.uv.mx/universo/cultura/fundacion-uv-invita-a-la-tercera-edicion-de-salzona/">https://www.uv.mx/universo/cultura/fundacion-uv-invita-a-la-tercera-edicion-de-salzona/</a> Para mayor contenido de Universo, visita: <a href="https://www.uv.mx/universo/">https://www.uv.mx/universo/</a></p>
 </div>
     
